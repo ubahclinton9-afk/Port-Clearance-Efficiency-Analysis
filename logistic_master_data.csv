@@ -1,0 +1,1001 @@
+container_id,bill_of_lading,shipping_line,port_of_origin,destination_port,arrival_date,clearance_date,clearance_duration_days,agent_id,agent_name,agency_tier,cif_value_usd,customs_duty_usd,terminal_handling_usd,demurrage_days,demurrage_fee_usd,total_landing_cost_usd
+CONT-1002,BOL-650965,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-19,2026-11-02,14,AG-01,"Apex Maritime Clearing ","Tier 1",49159.00,9831.80,450.00,7,840.00,60280.80
+CONT-1004,BOL-142404,"CMA CGM",Hamburg,"Tin Can Island",2026-07-13,2026-07-19,6,AG-01,"Apex Maritime Clearing ","Tier 1",57529.00,11505.80,450.00,0,0.00,69484.80
+CONT-1013,BOL-832166,MSC,Hamburg,"Tin Can Island",2026-07-11,2026-07-28,17,AG-01,"Apex Maritime Clearing ","Tier 1",15618.00,3123.60,450.00,10,1200.00,20391.60
+CONT-1019,BOL-663474,Maersk,"Jebel Ali","Tin Can Island",2026-08-13,2026-09-02,20,AG-01,"Apex Maritime Clearing ","Tier 1",41894.00,8378.80,450.00,13,1560.00,52282.80
+CONT-1021,BOL-687437,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-22,2026-04-06,15,AG-01,"Apex Maritime Clearing ","Tier 1",21966.00,4393.20,450.00,8,960.00,27769.20
+CONT-1022,BOL-380799,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-23,2026-03-14,19,AG-01,"Apex Maritime Clearing ","Tier 1",48359.00,9671.80,450.00,12,1440.00,59920.80
+CONT-1023,BOL-567041,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-16,2026-06-29,13,AG-01,"Apex Maritime Clearing ","Tier 1",37525.00,7505.00,450.00,6,720.00,46200.00
+CONT-1028,BOL-402702,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-22,2026-03-14,20,AG-01,"Apex Maritime Clearing ","Tier 1",27450.00,5490.00,450.00,13,1560.00,34950.00
+CONT-1029,BOL-729406,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-06,2026-09-19,13,AG-01,"Apex Maritime Clearing ","Tier 1",14749.00,2949.80,450.00,6,720.00,18868.80
+CONT-1033,BOL-312533,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-01-03,2026-01-17,14,AG-01,"Apex Maritime Clearing ","Tier 1",57262.00,11452.40,280.00,7,525.00,69519.40
+CONT-1034,BOL-971962,Maersk,Hamburg,"Tin Can Island",2026-03-23,2026-04-08,16,AG-01,"Apex Maritime Clearing ","Tier 1",59601.00,11920.20,450.00,9,1080.00,73051.20
+CONT-1039,BOL-262257,MSC,"Jebel Ali","Tin Can Island",2026-06-03,2026-06-18,15,AG-01,"Apex Maritime Clearing ","Tier 1",62096.00,12419.20,280.00,8,600.00,75395.20
+CONT-1043,BOL-108158,Maersk,"Jebel Ali","Tin Can Island",2026-10-24,2026-10-29,5,AG-01,"Apex Maritime Clearing ","Tier 1",42294.00,8458.80,450.00,0,0.00,51202.80
+CONT-1054,BOL-348890,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-27,2026-04-13,17,AG-01,"Apex Maritime Clearing ","Tier 1",35055.00,7011.00,280.00,10,750.00,43096.00
+CONT-1058,BOL-631634,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-25,2026-05-10,15,AG-01,"Apex Maritime Clearing ","Tier 1",37647.00,7529.40,280.00,8,600.00,46056.40
+CONT-1060,BOL-655992,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-09,2026-09-19,10,AG-01,"Apex Maritime Clearing ","Tier 1",55497.00,11099.40,280.00,3,225.00,67101.40
+CONT-1068,BOL-346658,Maersk,Shanghai,"Tin Can Island",2026-03-27,2026-04-16,20,AG-01,"Apex Maritime Clearing ","Tier 1",63813.00,12762.60,450.00,13,1560.00,78585.60
+CONT-1087,BOL-951916,Maersk,Shanghai,"Tin Can Island",2026-05-24,2026-06-10,17,AG-01,"Apex Maritime Clearing ","Tier 1",41631.00,8326.20,280.00,10,750.00,50987.20
+CONT-1089,BOL-653466,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-19,2026-03-01,10,AG-01,"Apex Maritime Clearing ","Tier 1",40377.00,8075.40,280.00,3,225.00,48957.40
+CONT-1092,BOL-201765,Maersk,Shanghai,"Tin Can Island",2026-06-16,2026-07-05,19,AG-01,"Apex Maritime Clearing ","Tier 1",16809.00,3361.80,450.00,12,1440.00,22060.80
+CONT-1097,BOL-376656,MSC,"Jebel Ali","Tin Can Island",2026-06-01,2026-06-17,16,AG-01,"Apex Maritime Clearing ","Tier 1",26585.00,5317.00,280.00,9,675.00,32857.00
+CONT-1101,BOL-313426,MSC,Shanghai,"Tin Can Island",2026-09-12,2026-09-27,15,AG-01,"Apex Maritime Clearing ","Tier 1",22805.00,4561.00,450.00,8,960.00,28776.00
+CONT-1102,BOL-626755,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-04,2026-03-21,17,AG-01,"Apex Maritime Clearing ","Tier 1",18279.00,3655.80,280.00,10,750.00,22964.80
+CONT-1103,BOL-351897,MSC,Antwerp,"Tin Can Island",2026-03-03,2026-03-16,13,AG-01,"Apex Maritime Clearing ","Tier 1",40109.00,8021.80,280.00,6,450.00,48860.80
+CONT-1104,BOL-477159,MSC,Shanghai,"Tin Can Island",2026-09-11,2026-09-20,9,AG-01,"Apex Maritime Clearing ","Tier 1",14075.00,2815.00,280.00,2,150.00,17320.00
+CONT-1110,BOL-516828,"CMA CGM",Shanghai,"Tin Can Island",2026-04-27,2026-05-17,20,AG-01,"Apex Maritime Clearing ","Tier 1",31656.00,6331.20,450.00,13,1560.00,39997.20
+CONT-1112,BOL-756393,Maersk,Hamburg,"Tin Can Island",2026-05-10,2026-05-24,14,AG-01,"Apex Maritime Clearing ","Tier 1",33831.00,6766.20,280.00,7,525.00,41402.20
+CONT-1114,BOL-241499,"CMA CGM",Antwerp,"Tin Can Island",2026-02-27,2026-03-09,10,AG-01,"Apex Maritime Clearing ","Tier 1",47018.00,9403.60,450.00,3,360.00,57231.60
+CONT-1118,BOL-385505,Maersk,Shanghai,"Tin Can Island",2026-10-08,2026-10-25,17,AG-01,"Apex Maritime Clearing ","Tier 1",41250.00,8250.00,450.00,10,1200.00,51150.00
+CONT-1122,BOL-471731,Maersk,"Jebel Ali","Tin Can Island",2026-09-15,2026-09-20,5,AG-01,"Apex Maritime Clearing ","Tier 1",53640.00,10728.00,450.00,0,0.00,64818.00
+CONT-1136,BOL-599320,"CMA CGM","Jebel Ali","Tin Can Island",2026-08-09,2026-08-13,4,AG-01,"Apex Maritime Clearing ","Tier 1",39676.00,7935.20,280.00,0,0.00,47891.20
+CONT-1141,BOL-271145,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-11,2026-06-18,7,AG-01,"Apex Maritime Clearing ","Tier 1",56107.00,11221.40,450.00,0,0.00,67778.40
+CONT-1149,BOL-763494,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-05-10,2026-05-13,3,AG-01,"Apex Maritime Clearing ","Tier 1",25589.00,5117.80,450.00,0,0.00,31156.80
+CONT-1154,BOL-458854,Maersk,Antwerp,"Tin Can Island",2026-04-26,2026-05-08,12,AG-01,"Apex Maritime Clearing ","Tier 1",25853.00,5170.60,450.00,5,600.00,32073.60
+CONT-1161,BOL-271619,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-04,2026-01-23,19,AG-01,"Apex Maritime Clearing ","Tier 1",52076.00,10415.20,450.00,12,1440.00,64381.20
+CONT-1163,BOL-591433,"CMA CGM",Shanghai,"Tin Can Island",2026-07-18,2026-07-27,9,AG-01,"Apex Maritime Clearing ","Tier 1",30932.00,6186.40,280.00,2,150.00,37548.40
+CONT-1170,BOL-710262,MSC,"Jebel Ali","Tin Can Island",2026-10-23,2026-10-28,5,AG-01,"Apex Maritime Clearing ","Tier 1",24217.00,4843.40,450.00,0,0.00,29510.40
+CONT-1176,BOL-184866,MSC,"Jebel Ali","Tin Can Island",2026-07-10,2026-07-29,19,AG-01,"Apex Maritime Clearing ","Tier 1",32170.00,6434.00,280.00,12,900.00,39784.00
+CONT-1177,BOL-282607,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-08-22,2026-09-01,10,AG-01,"Apex Maritime Clearing ","Tier 1",40337.00,8067.40,280.00,3,225.00,48909.40
+CONT-1181,BOL-766986,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-02-12,2026-02-28,16,AG-01,"Apex Maritime Clearing ","Tier 1",60320.00,12064.00,450.00,9,1080.00,73914.00
+CONT-1184,BOL-758061,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-08,2026-10-27,19,AG-01,"Apex Maritime Clearing ","Tier 1",50704.00,10140.80,450.00,12,1440.00,62734.80
+CONT-1196,BOL-475485,Maersk,"Jebel Ali","Tin Can Island",2026-07-11,2026-07-17,6,AG-01,"Apex Maritime Clearing ","Tier 1",63637.00,12727.40,450.00,0,0.00,76814.40
+CONT-1202,BOL-161770,MSC,Antwerp,"Tin Can Island",2026-06-18,2026-06-28,10,AG-01,"Apex Maritime Clearing ","Tier 1",58911.00,11782.20,450.00,3,360.00,71503.20
+CONT-1207,BOL-792570,Maersk,"Jebel Ali","Tin Can Island",2026-05-01,2026-05-08,7,AG-01,"Apex Maritime Clearing ","Tier 1",58710.00,11742.00,450.00,0,0.00,70902.00
+CONT-1208,BOL-805374,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-01,2026-09-05,4,AG-01,"Apex Maritime Clearing ","Tier 1",17289.00,3457.80,450.00,0,0.00,21196.80
+CONT-1223,BOL-990383,"CMA CGM",Hamburg,"Tin Can Island",2026-07-26,2026-08-07,12,AG-01,"Apex Maritime Clearing ","Tier 1",21659.00,4331.80,450.00,5,600.00,27040.80
+CONT-1224,BOL-380654,Maersk,Shanghai,"Tin Can Island",2026-05-28,2026-06-11,14,AG-01,"Apex Maritime Clearing ","Tier 1",22363.00,4472.60,450.00,7,840.00,28125.60
+CONT-1232,BOL-948403,Maersk,Shanghai,"Tin Can Island",2026-07-23,2026-08-12,20,AG-01,"Apex Maritime Clearing ","Tier 1",27543.00,5508.60,280.00,13,975.00,34306.60
+CONT-1234,BOL-873705,"CMA CGM",Antwerp,"Tin Can Island",2026-08-01,2026-08-08,7,AG-01,"Apex Maritime Clearing ","Tier 1",24480.00,4896.00,450.00,0,0.00,29826.00
+CONT-1235,BOL-244193,"CMA CGM",Antwerp,"Tin Can Island",2026-09-04,2026-09-18,14,AG-01,"Apex Maritime Clearing ","Tier 1",60111.00,12022.20,450.00,7,840.00,73423.20
+CONT-1241,BOL-500316,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-05-16,2026-05-21,5,AG-01,"Apex Maritime Clearing ","Tier 1",20317.00,4063.40,450.00,0,0.00,24830.40
+CONT-1243,BOL-314678,MSC,Hamburg,"Tin Can Island",2026-04-08,2026-04-20,12,AG-01,"Apex Maritime Clearing ","Tier 1",36124.00,7224.80,450.00,5,600.00,44398.80
+CONT-1244,BOL-784100,MSC,"Jebel Ali","Tin Can Island",2026-01-06,2026-01-18,12,AG-01,"Apex Maritime Clearing ","Tier 1",33277.00,6655.40,280.00,5,375.00,40587.40
+CONT-1247,BOL-846177,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-01,2026-02-07,6,AG-01,"Apex Maritime Clearing ","Tier 1",56729.00,11345.80,450.00,0,0.00,68524.80
+CONT-1249,BOL-230800,Maersk,"Jebel Ali","Tin Can Island",2026-09-25,2026-10-15,20,AG-01,"Apex Maritime Clearing ","Tier 1",25656.00,5131.20,280.00,13,975.00,32042.20
+CONT-1250,BOL-435868,"CMA CGM",Antwerp,"Tin Can Island",2026-10-04,2026-10-15,11,AG-01,"Apex Maritime Clearing ","Tier 1",21440.00,4288.00,280.00,4,300.00,26308.00
+CONT-1258,BOL-438351,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-24,2026-11-03,10,AG-01,"Apex Maritime Clearing ","Tier 1",27372.00,5474.40,280.00,3,225.00,33351.40
+CONT-1263,BOL-349499,Maersk,Hamburg,"Tin Can Island",2026-06-07,2026-06-18,11,AG-01,"Apex Maritime Clearing ","Tier 1",52592.00,10518.40,450.00,4,480.00,64040.40
+CONT-1267,BOL-687095,"CMA CGM",Shanghai,"Tin Can Island",2026-01-17,2026-02-06,20,AG-01,"Apex Maritime Clearing ","Tier 1",51763.00,10352.60,450.00,13,1560.00,64125.60
+CONT-1274,BOL-726527,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-24,2026-04-02,9,AG-01,"Apex Maritime Clearing ","Tier 1",46305.00,9261.00,280.00,2,150.00,55996.00
+CONT-1277,BOL-580989,MSC,Shanghai,"Tin Can Island",2026-05-18,2026-06-03,16,AG-01,"Apex Maritime Clearing ","Tier 1",46042.00,9208.40,450.00,9,1080.00,56780.40
+CONT-1279,BOL-637666,MSC,"Jebel Ali","Tin Can Island",2026-08-28,2026-09-13,16,AG-01,"Apex Maritime Clearing ","Tier 1",16853.00,3370.60,450.00,9,1080.00,21753.60
+CONT-1285,BOL-398491,Maersk,Shanghai,"Tin Can Island",2026-05-25,2026-06-02,8,AG-01,"Apex Maritime Clearing ","Tier 1",45992.00,9198.40,450.00,1,120.00,55760.40
+CONT-1287,BOL-113283,Maersk,Hamburg,"Tin Can Island",2026-08-05,2026-08-22,17,AG-01,"Apex Maritime Clearing ","Tier 1",50525.00,10105.00,280.00,10,750.00,61660.00
+CONT-1292,BOL-252977,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-10,2026-02-25,15,AG-01,"Apex Maritime Clearing ","Tier 1",33482.00,6696.40,280.00,8,600.00,41058.40
+CONT-1294,BOL-313057,Maersk,Shanghai,"Tin Can Island",2026-10-14,2026-10-17,3,AG-01,"Apex Maritime Clearing ","Tier 1",34255.00,6851.00,450.00,0,0.00,41556.00
+CONT-1297,BOL-327096,MSC,Shanghai,"Tin Can Island",2026-03-14,2026-03-21,7,AG-01,"Apex Maritime Clearing ","Tier 1",20177.00,4035.40,280.00,0,0.00,24492.40
+CONT-1302,BOL-868805,MSC,Shanghai,"Tin Can Island",2026-09-12,2026-09-24,12,AG-01,"Apex Maritime Clearing ","Tier 1",38407.00,7681.40,450.00,5,600.00,47138.40
+CONT-1314,BOL-985093,MSC,Shanghai,"Tin Can Island",2026-04-05,2026-04-25,20,AG-01,"Apex Maritime Clearing ","Tier 1",24887.00,4977.40,450.00,13,1560.00,31874.40
+CONT-1325,BOL-132848,MSC,Shanghai,"Tin Can Island",2026-06-20,2026-06-24,4,AG-01,"Apex Maritime Clearing ","Tier 1",54529.00,10905.80,450.00,0,0.00,65884.80
+CONT-1331,BOL-363358,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-11,2026-09-16,5,AG-01,"Apex Maritime Clearing ","Tier 1",20292.00,4058.40,280.00,0,0.00,24630.40
+CONT-1332,BOL-317660,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-02,2026-02-16,14,AG-01,"Apex Maritime Clearing ","Tier 1",33879.00,6775.80,450.00,7,840.00,41944.80
+CONT-1333,BOL-932933,"CMA CGM",Antwerp,"Tin Can Island",2026-04-12,2026-04-27,15,AG-01,"Apex Maritime Clearing ","Tier 1",13475.00,2695.00,450.00,8,960.00,17580.00
+CONT-1335,BOL-115807,Maersk,Antwerp,"Tin Can Island",2026-07-10,2026-07-29,19,AG-01,"Apex Maritime Clearing ","Tier 1",32205.00,6441.00,450.00,12,1440.00,40536.00
+CONT-1338,BOL-661255,Maersk,"Jebel Ali","Tin Can Island",2026-06-19,2026-06-30,11,AG-01,"Apex Maritime Clearing ","Tier 1",42052.00,8410.40,280.00,4,300.00,51042.40
+CONT-1342,BOL-627534,"CMA CGM",Shanghai,"Tin Can Island",2026-04-06,2026-04-12,6,AG-01,"Apex Maritime Clearing ","Tier 1",21378.00,4275.60,450.00,0,0.00,26103.60
+CONT-1351,BOL-339026,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-17,2026-05-23,6,AG-01,"Apex Maritime Clearing ","Tier 1",50938.00,10187.60,450.00,0,0.00,61575.60
+CONT-1352,BOL-196312,MSC,"Jebel Ali","Tin Can Island",2026-10-15,2026-10-26,11,AG-01,"Apex Maritime Clearing ","Tier 1",24073.00,4814.60,450.00,4,480.00,29817.60
+CONT-1354,BOL-212982,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-10,2026-09-20,10,AG-01,"Apex Maritime Clearing ","Tier 1",52357.00,10471.40,450.00,3,360.00,63638.40
+CONT-1360,BOL-502961,Maersk,Shanghai,"Tin Can Island",2026-10-15,2026-10-29,14,AG-01,"Apex Maritime Clearing ","Tier 1",57841.00,11568.20,450.00,7,840.00,70699.20
+CONT-1364,BOL-568531,"CMA CGM",Shanghai,"Tin Can Island",2026-05-06,2026-05-20,14,AG-01,"Apex Maritime Clearing ","Tier 1",33871.00,6774.20,450.00,7,840.00,41935.20
+CONT-1368,BOL-842884,MSC,Shanghai,"Tin Can Island",2026-10-19,2026-11-03,15,AG-01,"Apex Maritime Clearing ","Tier 1",59636.00,11927.20,280.00,8,600.00,72443.20
+CONT-1373,BOL-993073,"CMA CGM",Shanghai,"Tin Can Island",2026-03-11,2026-03-24,13,AG-01,"Apex Maritime Clearing ","Tier 1",39458.00,7891.60,450.00,6,720.00,48519.60
+CONT-1375,BOL-371798,MSC,"Jebel Ali","Tin Can Island",2026-03-13,2026-03-29,16,AG-01,"Apex Maritime Clearing ","Tier 1",49147.00,9829.40,450.00,9,1080.00,60506.40
+CONT-1382,BOL-342848,Maersk,"Jebel Ali","Tin Can Island",2026-05-18,2026-05-31,13,AG-01,"Apex Maritime Clearing ","Tier 1",53206.00,10641.20,450.00,6,720.00,65017.20
+CONT-1384,BOL-547042,MSC,Antwerp,"Tin Can Island",2026-04-26,2026-05-16,20,AG-01,"Apex Maritime Clearing ","Tier 1",17679.00,3535.80,450.00,13,1560.00,23224.80
+CONT-1385,BOL-650858,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-26,2026-04-02,7,AG-01,"Apex Maritime Clearing ","Tier 1",14309.00,2861.80,280.00,0,0.00,17450.80
+CONT-1388,BOL-477321,"CMA CGM",Antwerp,"Tin Can Island",2026-09-17,2026-10-07,20,AG-01,"Apex Maritime Clearing ","Tier 1",13320.00,2664.00,280.00,13,975.00,17239.00
+CONT-1390,BOL-137736,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-28,2026-10-07,9,AG-01,"Apex Maritime Clearing ","Tier 1",62416.00,12483.20,450.00,2,240.00,75589.20
+CONT-1395,BOL-653590,MSC,"Jebel Ali","Tin Can Island",2026-05-11,2026-05-21,10,AG-01,"Apex Maritime Clearing ","Tier 1",47205.00,9441.00,450.00,3,360.00,57456.00
+CONT-1397,BOL-842376,MSC,Hamburg,"Tin Can Island",2026-09-26,2026-10-15,19,AG-01,"Apex Maritime Clearing ","Tier 1",40428.00,8085.60,280.00,12,900.00,49693.60
+CONT-1398,BOL-657047,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-28,2026-07-01,3,AG-01,"Apex Maritime Clearing ","Tier 1",12476.00,2495.20,450.00,0,0.00,15421.20
+CONT-1400,BOL-587332,Maersk,"Jebel Ali","Tin Can Island",2026-01-15,2026-01-22,7,AG-01,"Apex Maritime Clearing ","Tier 1",16306.00,3261.20,280.00,0,0.00,19847.20
+CONT-1406,BOL-263528,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-02-21,2026-03-01,8,AG-01,"Apex Maritime Clearing ","Tier 1",61902.00,12380.40,450.00,1,120.00,74852.40
+CONT-1414,BOL-763804,Maersk,Hamburg,"Tin Can Island",2026-01-20,2026-02-09,20,AG-01,"Apex Maritime Clearing ","Tier 1",19770.00,3954.00,280.00,13,975.00,24979.00
+CONT-1421,BOL-789634,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-04-09,2026-04-23,14,AG-01,"Apex Maritime Clearing ","Tier 1",28540.00,5708.00,280.00,7,525.00,35053.00
+CONT-1423,BOL-519934,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-21,2026-04-08,18,AG-01,"Apex Maritime Clearing ","Tier 1",52145.00,10429.00,450.00,11,1320.00,64344.00
+CONT-1428,BOL-307032,MSC,"Jebel Ali","Tin Can Island",2026-05-03,2026-05-08,5,AG-01,"Apex Maritime Clearing ","Tier 1",43842.00,8768.40,450.00,0,0.00,53060.40
+CONT-1458,BOL-432148,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-19,2026-04-06,18,AG-01,"Apex Maritime Clearing ","Tier 1",26300.00,5260.00,450.00,11,1320.00,33330.00
+CONT-1459,BOL-339120,MSC,"Jebel Ali","Tin Can Island",2026-06-05,2026-06-21,16,AG-01,"Apex Maritime Clearing ","Tier 1",34713.00,6942.60,450.00,9,1080.00,43185.60
+CONT-1464,BOL-306228,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-07,2026-08-19,12,AG-01,"Apex Maritime Clearing ","Tier 1",63386.00,12677.20,450.00,5,600.00,77113.20
+CONT-1471,BOL-605638,"CMA CGM",Antwerp,"Tin Can Island",2026-09-15,2026-09-26,11,AG-01,"Apex Maritime Clearing ","Tier 1",32728.00,6545.60,280.00,4,300.00,39853.60
+CONT-1473,BOL-394946,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-22,2026-11-09,18,AG-01,"Apex Maritime Clearing ","Tier 1",61095.00,12219.00,280.00,11,825.00,74419.00
+CONT-1476,BOL-180453,Maersk,Shanghai,"Tin Can Island",2026-09-06,2026-09-11,5,AG-01,"Apex Maritime Clearing ","Tier 1",33480.00,6696.00,450.00,0,0.00,40626.00
+CONT-1483,BOL-163986,Maersk,Hamburg,"Tin Can Island",2026-05-25,2026-06-12,18,AG-01,"Apex Maritime Clearing ","Tier 1",62828.00,12565.60,450.00,11,1320.00,77163.60
+CONT-1485,BOL-991803,Maersk,Hamburg,"Tin Can Island",2026-01-04,2026-01-12,8,AG-01,"Apex Maritime Clearing ","Tier 1",30167.00,6033.40,280.00,1,75.00,36555.40
+CONT-1486,BOL-594084,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-03-09,2026-03-29,20,AG-01,"Apex Maritime Clearing ","Tier 1",60132.00,12026.40,450.00,13,1560.00,74168.40
+CONT-1494,BOL-179134,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-10,2026-10-24,14,AG-01,"Apex Maritime Clearing ","Tier 1",56318.00,11263.60,450.00,7,840.00,68871.60
+CONT-1495,BOL-603404,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-10-23,2026-11-09,17,AG-01,"Apex Maritime Clearing ","Tier 1",60039.00,12007.80,280.00,10,750.00,73076.80
+CONT-1496,BOL-617909,Maersk,Shanghai,"Tin Can Island",2026-05-02,2026-05-17,15,AG-01,"Apex Maritime Clearing ","Tier 1",15743.00,3148.60,280.00,8,600.00,19771.60
+CONT-1498,BOL-125160,Maersk,Antwerp,"Tin Can Island",2026-05-21,2026-06-02,12,AG-01,"Apex Maritime Clearing ","Tier 1",32578.00,6515.60,450.00,5,600.00,40143.60
+CONT-1501,BOL-144158,Maersk,Antwerp,"Tin Can Island",2026-05-23,2026-06-12,20,AG-01,"Apex Maritime Clearing ","Tier 1",55241.00,11048.20,280.00,13,975.00,67544.20
+CONT-1509,BOL-253101,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-17,2026-09-27,10,AG-01,"Apex Maritime Clearing ","Tier 1",63291.00,12658.20,450.00,3,360.00,76759.20
+CONT-1513,BOL-745118,Maersk,"Jebel Ali","Tin Can Island",2026-05-17,2026-06-02,16,AG-01,"Apex Maritime Clearing ","Tier 1",55072.00,11014.40,450.00,9,1080.00,67616.40
+CONT-1527,BOL-804133,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-08-01,2026-08-06,5,AG-01,"Apex Maritime Clearing ","Tier 1",62649.00,12529.80,450.00,0,0.00,75628.80
+CONT-1545,BOL-480628,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-18,2026-07-01,13,AG-01,"Apex Maritime Clearing ","Tier 1",28793.00,5758.60,450.00,6,720.00,35721.60
+CONT-1547,BOL-992362,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-01,2026-04-17,16,AG-01,"Apex Maritime Clearing ","Tier 1",26529.00,5305.80,280.00,9,675.00,32789.80
+CONT-1555,BOL-829790,Maersk,Shanghai,"Tin Can Island",2026-09-09,2026-09-20,11,AG-01,"Apex Maritime Clearing ","Tier 1",20154.00,4030.80,280.00,4,300.00,24764.80
+CONT-1556,BOL-219541,"CMA CGM","Jebel Ali","Tin Can Island",2026-05-13,2026-05-17,4,AG-01,"Apex Maritime Clearing ","Tier 1",63699.00,12739.80,280.00,0,0.00,76718.80
+CONT-1563,BOL-123220,"CMA CGM",Antwerp,"Tin Can Island",2026-04-12,2026-04-21,9,AG-01,"Apex Maritime Clearing ","Tier 1",56431.00,11286.20,450.00,2,240.00,68407.20
+CONT-1576,BOL-182355,Maersk,Shanghai,"Tin Can Island",2026-02-04,2026-02-22,18,AG-01,"Apex Maritime Clearing ","Tier 1",41036.00,8207.20,280.00,11,825.00,50348.20
+CONT-1580,BOL-366342,Maersk,Antwerp,"Tin Can Island",2026-09-28,2026-10-10,12,AG-01,"Apex Maritime Clearing ","Tier 1",55296.00,11059.20,450.00,5,600.00,67405.20
+CONT-1589,BOL-149375,"CMA CGM",Hamburg,"Tin Can Island",2026-09-05,2026-09-23,18,AG-01,"Apex Maritime Clearing ","Tier 1",22247.00,4449.40,450.00,11,1320.00,28466.40
+CONT-1590,BOL-616945,"CMA CGM",Hamburg,"Tin Can Island",2026-02-10,2026-03-01,19,AG-01,"Apex Maritime Clearing ","Tier 1",19243.00,3848.60,280.00,12,900.00,24271.60
+CONT-1598,BOL-278065,Maersk,Hamburg,"Tin Can Island",2026-05-16,2026-05-19,3,AG-01,"Apex Maritime Clearing ","Tier 1",56941.00,11388.20,280.00,0,0.00,68609.20
+CONT-1600,BOL-392842,"CMA CGM",Antwerp,"Tin Can Island",2026-04-01,2026-04-06,5,AG-01,"Apex Maritime Clearing ","Tier 1",15657.00,3131.40,280.00,0,0.00,19068.40
+CONT-1606,BOL-789166,Maersk,Hamburg,"Tin Can Island",2026-02-08,2026-02-28,20,AG-01,"Apex Maritime Clearing ","Tier 1",63321.00,12664.20,450.00,13,1560.00,77995.20
+CONT-1612,BOL-691055,"CMA CGM",Hamburg,"Tin Can Island",2026-01-23,2026-02-03,11,AG-01,"Apex Maritime Clearing ","Tier 1",52165.00,10433.00,280.00,4,300.00,63178.00
+CONT-1617,BOL-599001,MSC,Hamburg,"Tin Can Island",2026-07-12,2026-07-21,9,AG-01,"Apex Maritime Clearing ","Tier 1",49623.00,9924.60,280.00,2,150.00,59977.60
+CONT-1618,BOL-715044,Maersk,Antwerp,"Tin Can Island",2026-06-25,2026-07-05,10,AG-01,"Apex Maritime Clearing ","Tier 1",17254.00,3450.80,450.00,3,360.00,21514.80
+CONT-1622,BOL-989804,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-10,2026-02-20,10,AG-01,"Apex Maritime Clearing ","Tier 1",12149.00,2429.80,450.00,3,360.00,15388.80
+CONT-1626,BOL-692399,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-06,2026-03-11,5,AG-01,"Apex Maritime Clearing ","Tier 1",44715.00,8943.00,450.00,0,0.00,54108.00
+CONT-1629,BOL-658301,"CMA CGM",Hamburg,"Tin Can Island",2026-02-07,2026-02-21,14,AG-01,"Apex Maritime Clearing ","Tier 1",44401.00,8880.20,280.00,7,525.00,54086.20
+CONT-1639,BOL-382097,MSC,"Jebel Ali","Tin Can Island",2026-05-07,2026-05-21,14,AG-01,"Apex Maritime Clearing ","Tier 1",17323.00,3464.60,280.00,7,525.00,21592.60
+CONT-1645,BOL-502260,"CMA CGM",Hamburg,"Tin Can Island",2026-09-11,2026-09-17,6,AG-01,"Apex Maritime Clearing ","Tier 1",53863.00,10772.60,450.00,0,0.00,65085.60
+CONT-1650,BOL-165428,MSC,Antwerp,"Tin Can Island",2026-06-04,2026-06-21,17,AG-01,"Apex Maritime Clearing ","Tier 1",34449.00,6889.80,450.00,10,1200.00,42988.80
+CONT-1651,BOL-466903,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-14,2026-05-26,12,AG-01,"Apex Maritime Clearing ","Tier 1",22379.00,4475.80,280.00,5,375.00,27509.80
+CONT-1653,BOL-538069,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-08-11,2026-08-17,6,AG-01,"Apex Maritime Clearing ","Tier 1",37667.00,7533.40,450.00,0,0.00,45650.40
+CONT-1657,BOL-730187,"CMA CGM",Antwerp,"Tin Can Island",2026-10-04,2026-10-13,9,AG-01,"Apex Maritime Clearing ","Tier 1",34966.00,6993.20,450.00,2,240.00,42649.20
+CONT-1666,BOL-746325,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-24,2026-11-13,20,AG-01,"Apex Maritime Clearing ","Tier 1",13959.00,2791.80,450.00,13,1560.00,18760.80
+CONT-1668,BOL-681028,MSC,Hamburg,"Tin Can Island",2026-10-03,2026-10-15,12,AG-01,"Apex Maritime Clearing ","Tier 1",26921.00,5384.20,450.00,5,600.00,33355.20
+CONT-1673,BOL-320021,Maersk,Hamburg,"Tin Can Island",2026-10-18,2026-10-31,13,AG-01,"Apex Maritime Clearing ","Tier 1",14400.00,2880.00,280.00,6,450.00,18010.00
+CONT-1678,BOL-431001,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-04-13,2026-04-21,8,AG-01,"Apex Maritime Clearing ","Tier 1",30410.00,6082.00,280.00,1,75.00,36847.00
+CONT-1688,BOL-168357,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-07-20,2026-07-23,3,AG-01,"Apex Maritime Clearing ","Tier 1",18307.00,3661.40,450.00,0,0.00,22418.40
+CONT-1698,BOL-921266,Maersk,Shanghai,"Tin Can Island",2026-06-14,2026-07-04,20,AG-01,"Apex Maritime Clearing ","Tier 1",64794.00,12958.80,280.00,13,975.00,79007.80
+CONT-1699,BOL-541726,MSC,Hamburg,"Tin Can Island",2026-07-12,2026-08-01,20,AG-01,"Apex Maritime Clearing ","Tier 1",16476.00,3295.20,450.00,13,1560.00,21781.20
+CONT-1700,BOL-754375,"CMA CGM",Shanghai,"Tin Can Island",2026-06-07,2026-06-14,7,AG-01,"Apex Maritime Clearing ","Tier 1",63456.00,12691.20,450.00,0,0.00,76597.20
+CONT-1709,BOL-505037,"CMA CGM",Hamburg,"Tin Can Island",2026-01-07,2026-01-23,16,AG-01,"Apex Maritime Clearing ","Tier 1",60089.00,12017.80,450.00,9,1080.00,73636.80
+CONT-1710,BOL-924513,Maersk,Hamburg,"Tin Can Island",2026-09-13,2026-09-16,3,AG-01,"Apex Maritime Clearing ","Tier 1",49060.00,9812.00,280.00,0,0.00,59152.00
+CONT-1711,BOL-576479,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-04,2026-10-17,13,AG-01,"Apex Maritime Clearing ","Tier 1",62297.00,12459.40,280.00,6,450.00,75486.40
+CONT-1713,BOL-866591,Maersk,Antwerp,"Tin Can Island",2026-02-02,2026-02-10,8,AG-01,"Apex Maritime Clearing ","Tier 1",31310.00,6262.00,280.00,1,75.00,37927.00
+CONT-1723,BOL-294262,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-17,2026-01-29,12,AG-01,"Apex Maritime Clearing ","Tier 1",18091.00,3618.20,450.00,5,600.00,22759.20
+CONT-1727,BOL-195585,MSC,Shanghai,"Tin Can Island",2026-08-08,2026-08-13,5,AG-01,"Apex Maritime Clearing ","Tier 1",56581.00,11316.20,450.00,0,0.00,68347.20
+CONT-1732,BOL-614884,MSC,"Jebel Ali","Tin Can Island",2026-02-20,2026-03-02,10,AG-01,"Apex Maritime Clearing ","Tier 1",61129.00,12225.80,450.00,3,360.00,74164.80
+CONT-1743,BOL-472546,"CMA CGM",Hamburg,"Tin Can Island",2026-02-27,2026-03-11,12,AG-01,"Apex Maritime Clearing ","Tier 1",16412.00,3282.40,450.00,5,600.00,20744.40
+CONT-1745,BOL-538476,MSC,"Jebel Ali","Tin Can Island",2026-01-14,2026-01-20,6,AG-01,"Apex Maritime Clearing ","Tier 1",22492.00,4498.40,280.00,0,0.00,27270.40
+CONT-1751,BOL-236086,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-23,2026-07-12,19,AG-01,"Apex Maritime Clearing ","Tier 1",51270.00,10254.00,450.00,12,1440.00,63414.00
+CONT-1753,BOL-606201,Maersk,Hamburg,"Tin Can Island",2026-04-16,2026-04-21,5,AG-01,"Apex Maritime Clearing ","Tier 1",42645.00,8529.00,450.00,0,0.00,51624.00
+CONT-1761,BOL-924890,Maersk,Shanghai,"Tin Can Island",2026-07-14,2026-07-18,4,AG-01,"Apex Maritime Clearing ","Tier 1",49002.00,9800.40,450.00,0,0.00,59252.40
+CONT-1797,BOL-212706,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-05-21,2026-05-26,5,AG-01,"Apex Maritime Clearing ","Tier 1",24624.00,4924.80,450.00,0,0.00,29998.80
+CONT-1798,BOL-166332,"CMA CGM",Hamburg,"Tin Can Island",2026-02-07,2026-02-17,10,AG-01,"Apex Maritime Clearing ","Tier 1",46294.00,9258.80,280.00,3,225.00,56057.80
+CONT-1808,BOL-822778,Maersk,Hamburg,"Tin Can Island",2026-07-26,2026-08-10,15,AG-01,"Apex Maritime Clearing ","Tier 1",22517.00,4503.40,450.00,8,960.00,28430.40
+CONT-1812,BOL-440858,MSC,Hamburg,"Tin Can Island",2026-08-26,2026-09-03,8,AG-01,"Apex Maritime Clearing ","Tier 1",32662.00,6532.40,280.00,1,75.00,39549.40
+CONT-1815,BOL-920091,Maersk,"Jebel Ali","Tin Can Island",2026-07-27,2026-08-13,17,AG-01,"Apex Maritime Clearing ","Tier 1",55176.00,11035.20,450.00,10,1200.00,67861.20
+CONT-1818,BOL-260105,"CMA CGM","Jebel Ali","Tin Can Island",2026-04-05,2026-04-24,19,AG-01,"Apex Maritime Clearing ","Tier 1",40004.00,8000.80,280.00,12,900.00,49184.80
+CONT-1821,BOL-577289,MSC,Shanghai,"Tin Can Island",2026-05-04,2026-05-24,20,AG-01,"Apex Maritime Clearing ","Tier 1",55926.00,11185.20,450.00,13,1560.00,69121.20
+CONT-1822,BOL-359152,MSC,Hamburg,"Tin Can Island",2026-06-20,2026-06-24,4,AG-01,"Apex Maritime Clearing ","Tier 1",27965.00,5593.00,280.00,0,0.00,33838.00
+CONT-1830,BOL-710371,"CMA CGM",Shanghai,"Tin Can Island",2026-08-07,2026-08-17,10,AG-01,"Apex Maritime Clearing ","Tier 1",13259.00,2651.80,450.00,3,360.00,16720.80
+CONT-1834,BOL-244011,"CMA CGM",Hamburg,"Tin Can Island",2026-02-02,2026-02-07,5,AG-01,"Apex Maritime Clearing ","Tier 1",50572.00,10114.40,450.00,0,0.00,61136.40
+CONT-1835,BOL-956416,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-01-01,2026-01-09,8,AG-01,"Apex Maritime Clearing ","Tier 1",32353.00,6470.60,280.00,1,75.00,39178.60
+CONT-1836,BOL-101839,"CMA CGM",Shanghai,"Tin Can Island",2026-01-26,2026-01-29,3,AG-01,"Apex Maritime Clearing ","Tier 1",24553.00,4910.60,450.00,0,0.00,29913.60
+CONT-1837,BOL-298179,"CMA CGM",Shanghai,"Tin Can Island",2026-02-11,2026-02-23,12,AG-01,"Apex Maritime Clearing ","Tier 1",31633.00,6326.60,280.00,5,375.00,38614.60
+CONT-1854,BOL-734490,Maersk,"Jebel Ali","Tin Can Island",2026-03-20,2026-04-03,14,AG-01,"Apex Maritime Clearing ","Tier 1",42056.00,8411.20,450.00,7,840.00,51757.20
+CONT-1859,BOL-970890,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-26,2026-08-06,11,AG-01,"Apex Maritime Clearing ","Tier 1",62056.00,12411.20,450.00,4,480.00,75397.20
+CONT-1860,BOL-742095,MSC,Shanghai,"Tin Can Island",2026-05-06,2026-05-22,16,AG-01,"Apex Maritime Clearing ","Tier 1",24210.00,4842.00,450.00,9,1080.00,30582.00
+CONT-1875,BOL-123065,Maersk,Shanghai,"Tin Can Island",2026-02-20,2026-03-03,11,AG-01,"Apex Maritime Clearing ","Tier 1",30351.00,6070.20,450.00,4,480.00,37351.20
+CONT-1886,BOL-777388,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-09-21,2026-09-26,5,AG-01,"Apex Maritime Clearing ","Tier 1",18809.00,3761.80,280.00,0,0.00,22850.80
+CONT-1893,BOL-180584,Maersk,Antwerp,"Tin Can Island",2026-05-10,2026-05-17,7,AG-01,"Apex Maritime Clearing ","Tier 1",49274.00,9854.80,280.00,0,0.00,59408.80
+CONT-1901,BOL-687101,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-28,2026-04-13,16,AG-01,"Apex Maritime Clearing ","Tier 1",49581.00,9916.20,280.00,9,675.00,60452.20
+CONT-1905,BOL-825377,MSC,Hamburg,"Tin Can Island",2026-01-07,2026-01-27,20,AG-01,"Apex Maritime Clearing ","Tier 1",46362.00,9272.40,450.00,13,1560.00,57644.40
+CONT-1906,BOL-907106,MSC,Shanghai,"Tin Can Island",2026-08-01,2026-08-17,16,AG-01,"Apex Maritime Clearing ","Tier 1",16313.00,3262.60,450.00,9,1080.00,21105.60
+CONT-1911,BOL-148094,MSC,Shanghai,"Tin Can Island",2026-04-24,2026-05-08,14,AG-01,"Apex Maritime Clearing ","Tier 1",59444.00,11888.80,450.00,7,840.00,72622.80
+CONT-1913,BOL-173232,Maersk,"Jebel Ali","Tin Can Island",2026-05-08,2026-05-27,19,AG-01,"Apex Maritime Clearing ","Tier 1",16943.00,3388.60,280.00,12,900.00,21511.60
+CONT-1916,BOL-595832,"CMA CGM",Antwerp,"Tin Can Island",2026-05-26,2026-05-31,5,AG-01,"Apex Maritime Clearing ","Tier 1",32441.00,6488.20,280.00,0,0.00,39209.20
+CONT-1918,BOL-770370,Maersk,"Jebel Ali","Tin Can Island",2026-03-04,2026-03-14,10,AG-01,"Apex Maritime Clearing ","Tier 1",58198.00,11639.60,280.00,3,225.00,70342.60
+CONT-1931,BOL-196471,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-28,2026-02-05,8,AG-01,"Apex Maritime Clearing ","Tier 1",44821.00,8964.20,450.00,1,120.00,54355.20
+CONT-1932,BOL-239224,"CMA CGM",Shanghai,"Tin Can Island",2026-09-09,2026-09-13,4,AG-01,"Apex Maritime Clearing ","Tier 1",23033.00,4606.60,450.00,0,0.00,28089.60
+CONT-1939,BOL-306395,MSC,Hamburg,"Tin Can Island",2026-03-04,2026-03-19,15,AG-01,"Apex Maritime Clearing ","Tier 1",33401.00,6680.20,280.00,8,600.00,40961.20
+CONT-1942,BOL-827749,"CMA CGM",Antwerp,"Tin Can Island",2026-09-25,2026-10-02,7,AG-01,"Apex Maritime Clearing ","Tier 1",56835.00,11367.00,450.00,0,0.00,68652.00
+CONT-1944,BOL-193875,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-02,2026-01-08,6,AG-01,"Apex Maritime Clearing ","Tier 1",23127.00,4625.40,450.00,0,0.00,28202.40
+CONT-1948,BOL-551433,Maersk,"Jebel Ali","Tin Can Island",2026-07-02,2026-07-20,18,AG-01,"Apex Maritime Clearing ","Tier 1",61290.00,12258.00,450.00,11,1320.00,75318.00
+CONT-1950,BOL-993418,Maersk,Hamburg,"Tin Can Island",2026-05-05,2026-05-15,10,AG-01,"Apex Maritime Clearing ","Tier 1",46503.00,9300.60,280.00,3,225.00,56308.60
+CONT-1964,BOL-479465,"CMA CGM",Hamburg,"Tin Can Island",2026-06-28,2026-07-08,10,AG-01,"Apex Maritime Clearing ","Tier 1",36545.00,7309.00,280.00,3,225.00,44359.00
+CONT-1967,BOL-758560,MSC,Shanghai,"Tin Can Island",2026-02-11,2026-02-26,15,AG-01,"Apex Maritime Clearing ","Tier 1",39154.00,7830.80,280.00,8,600.00,47864.80
+CONT-1969,BOL-688445,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-01-27,2026-02-14,18,AG-01,"Apex Maritime Clearing ","Tier 1",35829.00,7165.80,450.00,11,1320.00,44764.80
+CONT-1972,BOL-444494,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-23,2026-04-10,18,AG-01,"Apex Maritime Clearing ","Tier 1",20376.00,4075.20,450.00,11,1320.00,26221.20
+CONT-1998,BOL-781249,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-08,2026-10-21,13,AG-01,"Apex Maritime Clearing ","Tier 1",36456.00,7291.20,450.00,6,720.00,44917.20
+CONT-1005,BOL-963367,MSC,Hamburg,"Tin Can Island",2026-03-17,2026-04-01,15,AG-02,"Atlantic Freight Logistics ","Tier 1",38173.00,7634.60,280.00,8,600.00,46687.60
+CONT-1006,BOL-906980,"CMA CGM",Shanghai,"Tin Can Island",2026-01-17,2026-02-06,20,AG-02,"Atlantic Freight Logistics ","Tier 1",14853.00,2970.60,450.00,13,1560.00,19833.60
+CONT-1025,BOL-241490,"CMA CGM",Shanghai,"Tin Can Island",2026-05-26,2026-06-03,8,AG-02,"Atlantic Freight Logistics ","Tier 1",63533.00,12706.60,280.00,1,75.00,76594.60
+CONT-1032,BOL-580642,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-11,2026-02-19,8,AG-02,"Atlantic Freight Logistics ","Tier 1",54752.00,10950.40,280.00,1,75.00,66057.40
+CONT-1036,BOL-303426,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-22,2026-03-08,14,AG-02,"Atlantic Freight Logistics ","Tier 1",39178.00,7835.60,450.00,7,840.00,48303.60
+CONT-1044,BOL-664267,MSC,Hamburg,"Tin Can Island",2026-02-01,2026-02-06,5,AG-02,"Atlantic Freight Logistics ","Tier 1",52387.00,10477.40,280.00,0,0.00,63144.40
+CONT-1046,BOL-683835,MSC,"Jebel Ali","Tin Can Island",2026-06-06,2026-06-14,8,AG-02,"Atlantic Freight Logistics ","Tier 1",49717.00,9943.40,280.00,1,75.00,60015.40
+CONT-1048,BOL-847334,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-19,2026-10-02,13,AG-02,"Atlantic Freight Logistics ","Tier 1",39455.00,7891.00,280.00,6,450.00,48076.00
+CONT-1050,BOL-641024,Maersk,Antwerp,"Tin Can Island",2026-06-18,2026-06-29,11,AG-02,"Atlantic Freight Logistics ","Tier 1",37759.00,7551.80,450.00,4,480.00,46240.80
+CONT-1052,BOL-663753,"CMA CGM",Antwerp,"Tin Can Island",2026-08-23,2026-08-28,5,AG-02,"Atlantic Freight Logistics ","Tier 1",36445.00,7289.00,450.00,0,0.00,44184.00
+CONT-1053,BOL-343764,Maersk,Antwerp,"Tin Can Island",2026-10-03,2026-10-20,17,AG-02,"Atlantic Freight Logistics ","Tier 1",54534.00,10906.80,450.00,10,1200.00,67090.80
+CONT-1059,BOL-274397,MSC,"Jebel Ali","Tin Can Island",2026-01-16,2026-01-19,3,AG-02,"Atlantic Freight Logistics ","Tier 1",22618.00,4523.60,450.00,0,0.00,27591.60
+CONT-1077,BOL-690390,"CMA CGM",Antwerp,"Tin Can Island",2026-03-04,2026-03-12,8,AG-02,"Atlantic Freight Logistics ","Tier 1",17349.00,3469.80,450.00,1,120.00,21388.80
+CONT-1078,BOL-156604,MSC,"Jebel Ali","Tin Can Island",2026-06-18,2026-06-23,5,AG-02,"Atlantic Freight Logistics ","Tier 1",37136.00,7427.20,280.00,0,0.00,44843.20
+CONT-1095,BOL-497645,"CMA CGM",Antwerp,"Tin Can Island",2026-08-14,2026-08-31,17,AG-02,"Atlantic Freight Logistics ","Tier 1",60674.00,12134.80,450.00,10,1200.00,74458.80
+CONT-1100,BOL-126888,"CMA CGM",Antwerp,"Tin Can Island",2026-09-12,2026-09-18,6,AG-02,"Atlantic Freight Logistics ","Tier 1",23281.00,4656.20,450.00,0,0.00,28387.20
+CONT-1106,BOL-610527,MSC,"Jebel Ali","Tin Can Island",2026-10-11,2026-10-24,13,AG-02,"Atlantic Freight Logistics ","Tier 1",14324.00,2864.80,280.00,6,450.00,17918.80
+CONT-1113,BOL-177058,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-21,2026-10-30,9,AG-02,"Atlantic Freight Logistics ","Tier 1",13200.00,2640.00,450.00,2,240.00,16530.00
+CONT-1119,BOL-300757,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-22,2026-09-06,15,AG-02,"Atlantic Freight Logistics ","Tier 1",57428.00,11485.60,450.00,8,960.00,70323.60
+CONT-1126,BOL-497185,MSC,"Jebel Ali","Tin Can Island",2026-01-12,2026-01-28,16,AG-02,"Atlantic Freight Logistics ","Tier 1",15001.00,3000.20,280.00,9,675.00,18956.20
+CONT-1130,BOL-438409,Maersk,Antwerp,"Tin Can Island",2026-03-16,2026-03-19,3,AG-02,"Atlantic Freight Logistics ","Tier 1",48177.00,9635.40,450.00,0,0.00,58262.40
+CONT-1131,BOL-480810,MSC,Shanghai,"Tin Can Island",2026-07-21,2026-08-05,15,AG-02,"Atlantic Freight Logistics ","Tier 1",28195.00,5639.00,280.00,8,600.00,34714.00
+CONT-1168,BOL-204090,MSC,Hamburg,"Tin Can Island",2026-07-18,2026-08-04,17,AG-02,"Atlantic Freight Logistics ","Tier 1",64235.00,12847.00,450.00,10,1200.00,78732.00
+CONT-1172,BOL-810643,"CMA CGM",Antwerp,"Tin Can Island",2026-09-27,2026-10-15,18,AG-02,"Atlantic Freight Logistics ","Tier 1",51570.00,10314.00,450.00,11,1320.00,63654.00
+CONT-1174,BOL-610371,"CMA CGM",Shanghai,"Tin Can Island",2026-09-11,2026-09-25,14,AG-02,"Atlantic Freight Logistics ","Tier 1",17425.00,3485.00,450.00,7,840.00,22200.00
+CONT-1175,BOL-580594,MSC,Shanghai,"Tin Can Island",2026-09-28,2026-10-01,3,AG-02,"Atlantic Freight Logistics ","Tier 1",28642.00,5728.40,450.00,0,0.00,34820.40
+CONT-1185,BOL-626021,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-04,2026-02-18,14,AG-02,"Atlantic Freight Logistics ","Tier 1",16601.00,3320.20,450.00,7,840.00,21211.20
+CONT-1190,BOL-720384,Maersk,Antwerp,"Tin Can Island",2026-07-03,2026-07-20,17,AG-02,"Atlantic Freight Logistics ","Tier 1",58713.00,11742.60,450.00,10,1200.00,72105.60
+CONT-1191,BOL-821911,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-24,2026-10-07,13,AG-02,"Atlantic Freight Logistics ","Tier 1",23742.00,4748.40,450.00,6,720.00,29660.40
+CONT-1195,BOL-514789,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-22,2026-02-09,18,AG-02,"Atlantic Freight Logistics ","Tier 1",41449.00,8289.80,450.00,11,1320.00,51508.80
+CONT-1197,BOL-701786,Maersk,Antwerp,"Tin Can Island",2026-03-09,2026-03-13,4,AG-02,"Atlantic Freight Logistics ","Tier 1",30422.00,6084.40,450.00,0,0.00,36956.40
+CONT-1205,BOL-914671,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-08,2026-01-27,19,AG-02,"Atlantic Freight Logistics ","Tier 1",32416.00,6483.20,280.00,12,900.00,40079.20
+CONT-1206,BOL-893933,MSC,Antwerp,"Tin Can Island",2026-01-09,2026-01-22,13,AG-02,"Atlantic Freight Logistics ","Tier 1",26803.00,5360.60,450.00,6,720.00,33333.60
+CONT-1228,BOL-868833,"CMA CGM",Shanghai,"Tin Can Island",2026-01-05,2026-01-13,8,AG-02,"Atlantic Freight Logistics ","Tier 1",31486.00,6297.20,280.00,1,75.00,38138.20
+CONT-1238,BOL-466840,Maersk,Shanghai,"Tin Can Island",2026-07-05,2026-07-09,4,AG-02,"Atlantic Freight Logistics ","Tier 1",39065.00,7813.00,450.00,0,0.00,47328.00
+CONT-1242,BOL-251426,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-03,2026-10-15,12,AG-02,"Atlantic Freight Logistics ","Tier 1",35968.00,7193.60,450.00,5,600.00,44211.60
+CONT-1252,BOL-111513,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-02-06,2026-02-09,3,AG-02,"Atlantic Freight Logistics ","Tier 1",40912.00,8182.40,450.00,0,0.00,49544.40
+CONT-1261,BOL-424991,MSC,Hamburg,"Tin Can Island",2026-02-13,2026-03-02,17,AG-02,"Atlantic Freight Logistics ","Tier 1",24015.00,4803.00,450.00,10,1200.00,30468.00
+CONT-1264,BOL-607861,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-17,2026-08-31,14,AG-02,"Atlantic Freight Logistics ","Tier 1",34637.00,6927.40,280.00,7,525.00,42369.40
+CONT-1265,BOL-570943,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-11,2026-02-20,9,AG-02,"Atlantic Freight Logistics ","Tier 1",30387.00,6077.40,280.00,2,150.00,36894.40
+CONT-1283,BOL-990832,MSC,"Jebel Ali","Tin Can Island",2026-10-08,2026-10-17,9,AG-02,"Atlantic Freight Logistics ","Tier 1",52491.00,10498.20,450.00,2,240.00,63679.20
+CONT-1288,BOL-454869,Maersk,Antwerp,"Tin Can Island",2026-05-17,2026-05-28,11,AG-02,"Atlantic Freight Logistics ","Tier 1",15777.00,3155.40,450.00,4,480.00,19862.40
+CONT-1293,BOL-998025,MSC,Shanghai,"Tin Can Island",2026-02-27,2026-03-02,3,AG-02,"Atlantic Freight Logistics ","Tier 1",38034.00,7606.80,280.00,0,0.00,45920.80
+CONT-1295,BOL-337177,MSC,Antwerp,"Tin Can Island",2026-09-13,2026-09-28,15,AG-02,"Atlantic Freight Logistics ","Tier 1",30466.00,6093.20,280.00,8,600.00,37439.20
+CONT-1296,BOL-904221,MSC,Hamburg,"Tin Can Island",2026-09-19,2026-09-26,7,AG-02,"Atlantic Freight Logistics ","Tier 1",39182.00,7836.40,450.00,0,0.00,47468.40
+CONT-1301,BOL-919278,Maersk,Shanghai,"Tin Can Island",2026-01-13,2026-01-29,16,AG-02,"Atlantic Freight Logistics ","Tier 1",44261.00,8852.20,450.00,9,1080.00,54643.20
+CONT-1304,BOL-179153,"CMA CGM",Antwerp,"Tin Can Island",2026-06-23,2026-07-12,19,AG-02,"Atlantic Freight Logistics ","Tier 1",64801.00,12960.20,280.00,12,900.00,78941.20
+CONT-1308,BOL-248357,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-09,2026-09-24,15,AG-02,"Atlantic Freight Logistics ","Tier 1",24936.00,4987.20,450.00,8,960.00,31333.20
+CONT-1310,BOL-641831,"CMA CGM",Hamburg,"Tin Can Island",2026-08-09,2026-08-19,10,AG-02,"Atlantic Freight Logistics ","Tier 1",28265.00,5653.00,280.00,3,225.00,34423.00
+CONT-1312,BOL-953711,MSC,Shanghai,"Tin Can Island",2026-08-07,2026-08-24,17,AG-02,"Atlantic Freight Logistics ","Tier 1",34777.00,6955.40,450.00,10,1200.00,43382.40
+CONT-1313,BOL-590077,MSC,Shanghai,"Tin Can Island",2026-01-14,2026-02-01,18,AG-02,"Atlantic Freight Logistics ","Tier 1",58263.00,11652.60,450.00,11,1320.00,71685.60
+CONT-1320,BOL-417551,Maersk,Hamburg,"Tin Can Island",2026-03-25,2026-04-02,8,AG-02,"Atlantic Freight Logistics ","Tier 1",20133.00,4026.60,450.00,1,120.00,24729.60
+CONT-1324,BOL-124578,MSC,Shanghai,"Tin Can Island",2026-09-27,2026-10-03,6,AG-02,"Atlantic Freight Logistics ","Tier 1",38262.00,7652.40,450.00,0,0.00,46364.40
+CONT-1326,BOL-824218,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-12,2026-09-19,7,AG-02,"Atlantic Freight Logistics ","Tier 1",60225.00,12045.00,450.00,0,0.00,72720.00
+CONT-1328,BOL-686846,Maersk,Antwerp,"Tin Can Island",2026-09-08,2026-09-23,15,AG-02,"Atlantic Freight Logistics ","Tier 1",29788.00,5957.60,450.00,8,960.00,37155.60
+CONT-1329,BOL-209223,MSC,Antwerp,"Tin Can Island",2026-08-04,2026-08-20,16,AG-02,"Atlantic Freight Logistics ","Tier 1",36955.00,7391.00,450.00,9,1080.00,45876.00
+CONT-1340,BOL-152402,Maersk,"Jebel Ali","Tin Can Island",2026-03-18,2026-04-05,18,AG-02,"Atlantic Freight Logistics ","Tier 1",35601.00,7120.20,450.00,11,1320.00,44491.20
+CONT-1349,BOL-370685,"CMA CGM",Shanghai,"Tin Can Island",2026-02-11,2026-02-14,3,AG-02,"Atlantic Freight Logistics ","Tier 1",13511.00,2702.20,450.00,0,0.00,16663.20
+CONT-1359,BOL-254024,Maersk,Shanghai,"Tin Can Island",2026-05-16,2026-05-31,15,AG-02,"Atlantic Freight Logistics ","Tier 1",18961.00,3792.20,450.00,8,960.00,24163.20
+CONT-1363,BOL-245667,MSC,Antwerp,"Tin Can Island",2026-06-18,2026-06-28,10,AG-02,"Atlantic Freight Logistics ","Tier 1",29247.00,5849.40,450.00,3,360.00,35906.40
+CONT-1366,BOL-643174,Maersk,Hamburg,"Tin Can Island",2026-08-19,2026-08-26,7,AG-02,"Atlantic Freight Logistics ","Tier 1",14476.00,2895.20,450.00,0,0.00,17821.20
+CONT-1370,BOL-716681,MSC,Hamburg,"Tin Can Island",2026-01-28,2026-01-31,3,AG-02,"Atlantic Freight Logistics ","Tier 1",17581.00,3516.20,450.00,0,0.00,21547.20
+CONT-1383,BOL-769421,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-04-13,2026-04-19,6,AG-02,"Atlantic Freight Logistics ","Tier 1",30372.00,6074.40,280.00,0,0.00,36726.40
+CONT-1387,BOL-273134,"CMA CGM","Jebel Ali","Tin Can Island",2026-10-08,2026-10-15,7,AG-02,"Atlantic Freight Logistics ","Tier 1",21896.00,4379.20,450.00,0,0.00,26725.20
+CONT-1391,BOL-180168,MSC,"Jebel Ali","Tin Can Island",2026-01-17,2026-01-25,8,AG-02,"Atlantic Freight Logistics ","Tier 1",25715.00,5143.00,450.00,1,120.00,31428.00
+CONT-1392,BOL-897400,Maersk,Hamburg,"Tin Can Island",2026-07-23,2026-07-30,7,AG-02,"Atlantic Freight Logistics ","Tier 1",55778.00,11155.60,450.00,0,0.00,67383.60
+CONT-1396,BOL-500243,"CMA CGM",Hamburg,"Tin Can Island",2026-02-05,2026-02-25,20,AG-02,"Atlantic Freight Logistics ","Tier 1",22677.00,4535.40,450.00,13,1560.00,29222.40
+CONT-1402,BOL-876901,Maersk,"Jebel Ali","Tin Can Island",2026-03-15,2026-03-29,14,AG-02,"Atlantic Freight Logistics ","Tier 1",34909.00,6981.80,280.00,7,525.00,42695.80
+CONT-1410,BOL-996382,"CMA CGM",Antwerp,"Tin Can Island",2026-09-19,2026-09-30,11,AG-02,"Atlantic Freight Logistics ","Tier 1",58722.00,11744.40,280.00,4,300.00,71046.40
+CONT-1416,BOL-212786,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-06,2026-09-19,13,AG-02,"Atlantic Freight Logistics ","Tier 1",42615.00,8523.00,280.00,6,450.00,51868.00
+CONT-1420,BOL-980244,"CMA CGM",Antwerp,"Tin Can Island",2026-02-18,2026-02-25,7,AG-02,"Atlantic Freight Logistics ","Tier 1",25323.00,5064.60,450.00,0,0.00,30837.60
+CONT-1429,BOL-371913,"CMA CGM",Antwerp,"Tin Can Island",2026-08-26,2026-09-01,6,AG-02,"Atlantic Freight Logistics ","Tier 1",56635.00,11327.00,450.00,0,0.00,68412.00
+CONT-1433,BOL-617944,MSC,"Jebel Ali","Tin Can Island",2026-08-06,2026-08-26,20,AG-02,"Atlantic Freight Logistics ","Tier 1",41007.00,8201.40,450.00,13,1560.00,51218.40
+CONT-1435,BOL-744587,Maersk,Antwerp,"Tin Can Island",2026-10-26,2026-11-14,19,AG-02,"Atlantic Freight Logistics ","Tier 1",28542.00,5708.40,280.00,12,900.00,35430.40
+CONT-1439,BOL-951024,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-14,2026-07-22,8,AG-02,"Atlantic Freight Logistics ","Tier 1",63930.00,12786.00,450.00,1,120.00,77286.00
+CONT-1445,BOL-433462,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-10,2026-06-28,18,AG-02,"Atlantic Freight Logistics ","Tier 1",29530.00,5906.00,280.00,11,825.00,36541.00
+CONT-1448,BOL-523145,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-23,2026-10-28,5,AG-02,"Atlantic Freight Logistics ","Tier 1",33594.00,6718.80,450.00,0,0.00,40762.80
+CONT-1454,BOL-858858,MSC,Hamburg,"Tin Can Island",2026-05-02,2026-05-05,3,AG-02,"Atlantic Freight Logistics ","Tier 1",13618.00,2723.60,450.00,0,0.00,16791.60
+CONT-1455,BOL-261195,Maersk,Antwerp,"Tin Can Island",2026-09-25,2026-10-06,11,AG-02,"Atlantic Freight Logistics ","Tier 1",61784.00,12356.80,280.00,4,300.00,74720.80
+CONT-1457,BOL-813371,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-27,2026-06-30,3,AG-02,"Atlantic Freight Logistics ","Tier 1",18196.00,3639.20,280.00,0,0.00,22115.20
+CONT-1466,BOL-834923,MSC,"Jebel Ali","Tin Can Island",2026-02-11,2026-02-27,16,AG-02,"Atlantic Freight Logistics ","Tier 1",28675.00,5735.00,450.00,9,1080.00,35940.00
+CONT-1468,BOL-749280,MSC,Hamburg,"Tin Can Island",2026-05-06,2026-05-09,3,AG-02,"Atlantic Freight Logistics ","Tier 1",53399.00,10679.80,280.00,0,0.00,64358.80
+CONT-1472,BOL-257718,MSC,"Jebel Ali","Tin Can Island",2026-07-27,2026-08-11,15,AG-02,"Atlantic Freight Logistics ","Tier 1",22022.00,4404.40,450.00,8,960.00,27836.40
+CONT-1475,BOL-978213,Maersk,"Jebel Ali","Tin Can Island",2026-04-24,2026-05-06,12,AG-02,"Atlantic Freight Logistics ","Tier 1",33412.00,6682.40,450.00,5,600.00,41144.40
+CONT-1505,BOL-493574,"CMA CGM",Shanghai,"Tin Can Island",2026-09-17,2026-10-04,17,AG-02,"Atlantic Freight Logistics ","Tier 1",32681.00,6536.20,450.00,10,1200.00,40867.20
+CONT-1512,BOL-524679,"CMA CGM",Shanghai,"Tin Can Island",2026-02-02,2026-02-17,15,AG-02,"Atlantic Freight Logistics ","Tier 1",61332.00,12266.40,450.00,8,960.00,75008.40
+CONT-1514,BOL-187728,"CMA CGM",Antwerp,"Tin Can Island",2026-05-02,2026-05-10,8,AG-02,"Atlantic Freight Logistics ","Tier 1",24870.00,4974.00,280.00,1,75.00,30199.00
+CONT-1515,BOL-897673,Maersk,Antwerp,"Tin Can Island",2026-06-17,2026-07-03,16,AG-02,"Atlantic Freight Logistics ","Tier 1",18238.00,3647.60,450.00,9,1080.00,23415.60
+CONT-1517,BOL-501366,Maersk,"Jebel Ali","Tin Can Island",2026-01-09,2026-01-12,3,AG-02,"Atlantic Freight Logistics ","Tier 1",50045.00,10009.00,450.00,0,0.00,60504.00
+CONT-1518,BOL-447779,Maersk,Hamburg,"Tin Can Island",2026-05-22,2026-06-10,19,AG-02,"Atlantic Freight Logistics ","Tier 1",64344.00,12868.80,450.00,12,1440.00,79102.80
+CONT-1520,BOL-134557,"CMA CGM",Antwerp,"Tin Can Island",2026-09-18,2026-09-30,12,AG-02,"Atlantic Freight Logistics ","Tier 1",61658.00,12331.60,280.00,5,375.00,74644.60
+CONT-1522,BOL-810061,Maersk,Shanghai,"Tin Can Island",2026-02-21,2026-02-25,4,AG-02,"Atlantic Freight Logistics ","Tier 1",12381.00,2476.20,450.00,0,0.00,15307.20
+CONT-1524,BOL-263534,Maersk,"Jebel Ali","Tin Can Island",2026-10-09,2026-10-25,16,AG-02,"Atlantic Freight Logistics ","Tier 1",38972.00,7794.40,280.00,9,675.00,47721.40
+CONT-1525,BOL-765742,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-01-02,2026-01-05,3,AG-02,"Atlantic Freight Logistics ","Tier 1",22756.00,4551.20,450.00,0,0.00,27757.20
+CONT-1526,BOL-526046,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-09,2026-06-29,20,AG-02,"Atlantic Freight Logistics ","Tier 1",17441.00,3488.20,280.00,13,975.00,22184.20
+CONT-1532,BOL-289739,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-26,2026-06-09,14,AG-02,"Atlantic Freight Logistics ","Tier 1",15255.00,3051.00,450.00,7,840.00,19596.00
+CONT-1539,BOL-760143,MSC,Hamburg,"Tin Can Island",2026-05-12,2026-05-29,17,AG-02,"Atlantic Freight Logistics ","Tier 1",46547.00,9309.40,280.00,10,750.00,56886.40
+CONT-1541,BOL-345754,MSC,Antwerp,"Tin Can Island",2026-04-22,2026-04-28,6,AG-02,"Atlantic Freight Logistics ","Tier 1",64466.00,12893.20,280.00,0,0.00,77639.20
+CONT-1542,BOL-394031,MSC,Hamburg,"Tin Can Island",2026-10-05,2026-10-13,8,AG-02,"Atlantic Freight Logistics ","Tier 1",12851.00,2570.20,450.00,1,120.00,15991.20
+CONT-1543,BOL-850198,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-10-12,2026-10-17,5,AG-02,"Atlantic Freight Logistics ","Tier 1",53748.00,10749.60,280.00,0,0.00,64777.60
+CONT-1550,BOL-853127,"CMA CGM",Antwerp,"Tin Can Island",2026-05-09,2026-05-22,13,AG-02,"Atlantic Freight Logistics ","Tier 1",37243.00,7448.60,280.00,6,450.00,45421.60
+CONT-1554,BOL-795835,MSC,"Jebel Ali","Tin Can Island",2026-03-03,2026-03-06,3,AG-02,"Atlantic Freight Logistics ","Tier 1",30818.00,6163.60,280.00,0,0.00,37261.60
+CONT-1558,BOL-247594,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-01,2026-10-05,4,AG-02,"Atlantic Freight Logistics ","Tier 1",36777.00,7355.40,450.00,0,0.00,44582.40
+CONT-1559,BOL-716527,"CMA CGM",Shanghai,"Tin Can Island",2026-09-14,2026-09-26,12,AG-02,"Atlantic Freight Logistics ","Tier 1",39135.00,7827.00,280.00,5,375.00,47617.00
+CONT-1560,BOL-948108,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-24,2026-07-09,15,AG-02,"Atlantic Freight Logistics ","Tier 1",44200.00,8840.00,280.00,8,600.00,53920.00
+CONT-1570,BOL-783862,MSC,Antwerp,"Tin Can Island",2026-07-08,2026-07-15,7,AG-02,"Atlantic Freight Logistics ","Tier 1",57547.00,11509.40,280.00,0,0.00,69336.40
+CONT-1577,BOL-548696,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-22,2026-10-07,15,AG-02,"Atlantic Freight Logistics ","Tier 1",48628.00,9725.60,450.00,8,960.00,59763.60
+CONT-1579,BOL-226583,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-27,2026-03-15,16,AG-02,"Atlantic Freight Logistics ","Tier 1",58842.00,11768.40,280.00,9,675.00,71565.40
+CONT-1593,BOL-923963,Maersk,Hamburg,"Tin Can Island",2026-10-09,2026-10-24,15,AG-02,"Atlantic Freight Logistics ","Tier 1",60235.00,12047.00,280.00,8,600.00,73162.00
+CONT-1603,BOL-147004,Maersk,"Jebel Ali","Tin Can Island",2026-01-16,2026-02-03,18,AG-02,"Atlantic Freight Logistics ","Tier 1",43426.00,8685.20,450.00,11,1320.00,53881.20
+CONT-1604,BOL-140828,Maersk,Antwerp,"Tin Can Island",2026-04-23,2026-04-26,3,AG-02,"Atlantic Freight Logistics ","Tier 1",25804.00,5160.80,280.00,0,0.00,31244.80
+CONT-1605,BOL-144022,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-08-26,2026-09-12,17,AG-02,"Atlantic Freight Logistics ","Tier 1",26560.00,5312.00,450.00,10,1200.00,33522.00
+CONT-1610,BOL-143485,Maersk,"Jebel Ali","Tin Can Island",2026-03-27,2026-04-05,9,AG-02,"Atlantic Freight Logistics ","Tier 1",29409.00,5881.80,280.00,2,150.00,35720.80
+CONT-1613,BOL-983216,"CMA CGM",Shanghai,"Tin Can Island",2026-06-08,2026-06-22,14,AG-02,"Atlantic Freight Logistics ","Tier 1",52486.00,10497.20,450.00,7,840.00,64273.20
+CONT-1614,BOL-267630,"CMA CGM",Antwerp,"Tin Can Island",2026-05-15,2026-05-26,11,AG-02,"Atlantic Freight Logistics ","Tier 1",34503.00,6900.60,450.00,4,480.00,42333.60
+CONT-1623,BOL-760162,MSC,"Jebel Ali","Tin Can Island",2026-02-28,2026-03-17,17,AG-02,"Atlantic Freight Logistics ","Tier 1",34883.00,6976.60,450.00,10,1200.00,43509.60
+CONT-1630,BOL-650144,MSC,Shanghai,"Tin Can Island",2026-02-07,2026-02-24,17,AG-02,"Atlantic Freight Logistics ","Tier 1",50768.00,10153.60,280.00,10,750.00,61951.60
+CONT-1633,BOL-280250,Maersk,Antwerp,"Tin Can Island",2026-02-21,2026-03-06,13,AG-02,"Atlantic Freight Logistics ","Tier 1",25491.00,5098.20,450.00,6,720.00,31759.20
+CONT-1635,BOL-916599,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-04,2026-03-10,6,AG-02,"Atlantic Freight Logistics ","Tier 1",40929.00,8185.80,450.00,0,0.00,49564.80
+CONT-1638,BOL-951735,MSC,Shanghai,"Tin Can Island",2026-06-14,2026-07-01,17,AG-02,"Atlantic Freight Logistics ","Tier 1",20948.00,4189.60,280.00,10,750.00,26167.60
+CONT-1641,BOL-810100,Maersk,Hamburg,"Tin Can Island",2026-01-09,2026-01-23,14,AG-02,"Atlantic Freight Logistics ","Tier 1",33701.00,6740.20,450.00,7,840.00,41731.20
+CONT-1644,BOL-879634,Maersk,Antwerp,"Tin Can Island",2026-07-10,2026-07-21,11,AG-02,"Atlantic Freight Logistics ","Tier 1",49622.00,9924.40,450.00,4,480.00,60476.40
+CONT-1652,BOL-974667,MSC,Antwerp,"Tin Can Island",2026-02-03,2026-02-20,17,AG-02,"Atlantic Freight Logistics ","Tier 1",31400.00,6280.00,280.00,10,750.00,38710.00
+CONT-1667,BOL-359962,MSC,Antwerp,"Tin Can Island",2026-03-27,2026-04-03,7,AG-02,"Atlantic Freight Logistics ","Tier 1",27347.00,5469.40,280.00,0,0.00,33096.40
+CONT-1669,BOL-931129,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-15,2026-07-01,16,AG-02,"Atlantic Freight Logistics ","Tier 1",15674.00,3134.80,450.00,9,1080.00,20338.80
+CONT-1672,BOL-280806,MSC,Shanghai,"Tin Can Island",2026-06-18,2026-07-08,20,AG-02,"Atlantic Freight Logistics ","Tier 1",17178.00,3435.60,450.00,13,1560.00,22623.60
+CONT-1694,BOL-398734,Maersk,"Jebel Ali","Tin Can Island",2026-04-19,2026-04-26,7,AG-02,"Atlantic Freight Logistics ","Tier 1",24356.00,4871.20,450.00,0,0.00,29677.20
+CONT-1697,BOL-835785,MSC,Shanghai,"Tin Can Island",2026-03-06,2026-03-11,5,AG-02,"Atlantic Freight Logistics ","Tier 1",58602.00,11720.40,450.00,0,0.00,70772.40
+CONT-1702,BOL-535928,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-01,2026-09-15,14,AG-02,"Atlantic Freight Logistics ","Tier 1",62395.00,12479.00,450.00,7,840.00,76164.00
+CONT-1704,BOL-812766,MSC,Antwerp,"Tin Can Island",2026-01-20,2026-01-28,8,AG-02,"Atlantic Freight Logistics ","Tier 1",22828.00,4565.60,280.00,1,75.00,27748.60
+CONT-1705,BOL-938354,Maersk,"Jebel Ali","Tin Can Island",2026-03-03,2026-03-21,18,AG-02,"Atlantic Freight Logistics ","Tier 1",50709.00,10141.80,280.00,11,825.00,61955.80
+CONT-1707,BOL-364019,MSC,Shanghai,"Tin Can Island",2026-10-08,2026-10-27,19,AG-02,"Atlantic Freight Logistics ","Tier 1",14331.00,2866.20,450.00,12,1440.00,19087.20
+CONT-1714,BOL-978163,"CMA CGM",Antwerp,"Tin Can Island",2026-05-27,2026-06-09,13,AG-02,"Atlantic Freight Logistics ","Tier 1",42278.00,8455.60,450.00,6,720.00,51903.60
+CONT-1715,BOL-361145,MSC,Antwerp,"Tin Can Island",2026-09-12,2026-09-30,18,AG-02,"Atlantic Freight Logistics ","Tier 1",26258.00,5251.60,450.00,11,1320.00,33279.60
+CONT-1716,BOL-712994,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-23,2026-10-02,9,AG-02,"Atlantic Freight Logistics ","Tier 1",55178.00,11035.60,280.00,2,150.00,66643.60
+CONT-1722,BOL-982509,Maersk,"Jebel Ali","Tin Can Island",2026-05-11,2026-05-21,10,AG-02,"Atlantic Freight Logistics ","Tier 1",57106.00,11421.20,450.00,3,360.00,69337.20
+CONT-1730,BOL-671177,"CMA CGM",Antwerp,"Tin Can Island",2026-03-25,2026-04-07,13,AG-02,"Atlantic Freight Logistics ","Tier 1",57977.00,11595.40,450.00,6,720.00,70742.40
+CONT-1731,BOL-232164,"CMA CGM",Shanghai,"Tin Can Island",2026-04-05,2026-04-21,16,AG-02,"Atlantic Freight Logistics ","Tier 1",34194.00,6838.80,280.00,9,675.00,41987.80
+CONT-1735,BOL-680618,Maersk,Shanghai,"Tin Can Island",2026-08-02,2026-08-05,3,AG-02,"Atlantic Freight Logistics ","Tier 1",51897.00,10379.40,280.00,0,0.00,62556.40
+CONT-1737,BOL-971080,Maersk,Shanghai,"Tin Can Island",2026-03-23,2026-03-29,6,AG-02,"Atlantic Freight Logistics ","Tier 1",12012.00,2402.40,450.00,0,0.00,14864.40
+CONT-1740,BOL-749365,MSC,Antwerp,"Tin Can Island",2026-08-06,2026-08-25,19,AG-02,"Atlantic Freight Logistics ","Tier 1",17292.00,3458.40,450.00,12,1440.00,22640.40
+CONT-1741,BOL-381496,Maersk,Shanghai,"Tin Can Island",2026-09-17,2026-10-02,15,AG-02,"Atlantic Freight Logistics ","Tier 1",48356.00,9671.20,450.00,8,960.00,59437.20
+CONT-1742,BOL-611313,Maersk,Antwerp,"Tin Can Island",2026-04-09,2026-04-27,18,AG-02,"Atlantic Freight Logistics ","Tier 1",25674.00,5134.80,450.00,11,1320.00,32578.80
+CONT-1750,BOL-458226,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-05,2026-06-19,14,AG-02,"Atlantic Freight Logistics ","Tier 1",61660.00,12332.00,450.00,7,840.00,75282.00
+CONT-1752,BOL-527601,Maersk,"Jebel Ali","Tin Can Island",2026-10-20,2026-10-31,11,AG-02,"Atlantic Freight Logistics ","Tier 1",35096.00,7019.20,450.00,4,480.00,43045.20
+CONT-1756,BOL-811046,"CMA CGM",Antwerp,"Tin Can Island",2026-02-22,2026-03-06,12,AG-02,"Atlantic Freight Logistics ","Tier 1",37028.00,7405.60,450.00,5,600.00,45483.60
+CONT-1757,BOL-704314,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-24,2026-07-01,7,AG-02,"Atlantic Freight Logistics ","Tier 1",53765.00,10753.00,450.00,0,0.00,64968.00
+CONT-1763,BOL-853494,MSC,Antwerp,"Tin Can Island",2026-06-23,2026-06-29,6,AG-02,"Atlantic Freight Logistics ","Tier 1",58878.00,11775.60,450.00,0,0.00,71103.60
+CONT-1764,BOL-864934,"CMA CGM",Antwerp,"Tin Can Island",2026-07-07,2026-07-19,12,AG-02,"Atlantic Freight Logistics ","Tier 1",44251.00,8850.20,280.00,5,375.00,53756.20
+CONT-1766,BOL-503211,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-16,2026-02-20,4,AG-02,"Atlantic Freight Logistics ","Tier 1",33092.00,6618.40,450.00,0,0.00,40160.40
+CONT-1772,BOL-459164,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-07-26,2026-07-30,4,AG-02,"Atlantic Freight Logistics ","Tier 1",44346.00,8869.20,280.00,0,0.00,53495.20
+CONT-1780,BOL-825816,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-20,2026-01-28,8,AG-02,"Atlantic Freight Logistics ","Tier 1",48243.00,9648.60,450.00,1,120.00,58461.60
+CONT-1785,BOL-450314,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-20,2026-01-30,10,AG-02,"Atlantic Freight Logistics ","Tier 1",20002.00,4000.40,280.00,3,225.00,24507.40
+CONT-1793,BOL-875365,"CMA CGM","Jebel Ali","Tin Can Island",2026-08-11,2026-08-17,6,AG-02,"Atlantic Freight Logistics ","Tier 1",34218.00,6843.60,450.00,0,0.00,41511.60
+CONT-1806,BOL-114109,Maersk,Antwerp,"Tin Can Island",2026-01-11,2026-01-25,14,AG-02,"Atlantic Freight Logistics ","Tier 1",31616.00,6323.20,450.00,7,840.00,39229.20
+CONT-1810,BOL-509558,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-15,2026-01-26,11,AG-02,"Atlantic Freight Logistics ","Tier 1",57552.00,11510.40,450.00,4,480.00,69992.40
+CONT-1813,BOL-358824,Maersk,Antwerp,"Tin Can Island",2026-03-11,2026-03-23,12,AG-02,"Atlantic Freight Logistics ","Tier 1",44865.00,8973.00,280.00,5,375.00,54493.00
+CONT-1814,BOL-804399,Maersk,"Jebel Ali","Tin Can Island",2026-08-06,2026-08-17,11,AG-02,"Atlantic Freight Logistics ","Tier 1",44300.00,8860.00,280.00,4,300.00,53740.00
+CONT-1829,BOL-197938,MSC,Hamburg,"Tin Can Island",2026-02-08,2026-02-18,10,AG-02,"Atlantic Freight Logistics ","Tier 1",39170.00,7834.00,450.00,3,360.00,47814.00
+CONT-1842,BOL-322186,"CMA CGM",Shanghai,"Tin Can Island",2026-06-04,2026-06-20,16,AG-02,"Atlantic Freight Logistics ","Tier 1",45778.00,9155.60,450.00,9,1080.00,56463.60
+CONT-1843,BOL-267672,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-16,2026-06-24,8,AG-02,"Atlantic Freight Logistics ","Tier 1",48190.00,9638.00,450.00,1,120.00,58398.00
+CONT-1845,BOL-607117,Maersk,Antwerp,"Tin Can Island",2026-09-26,2026-10-15,19,AG-02,"Atlantic Freight Logistics ","Tier 1",50861.00,10172.20,450.00,12,1440.00,62923.20
+CONT-1851,BOL-897959,MSC,"Jebel Ali","Tin Can Island",2026-04-08,2026-04-26,18,AG-02,"Atlantic Freight Logistics ","Tier 1",24118.00,4823.60,280.00,11,825.00,30046.60
+CONT-1852,BOL-690857,"CMA CGM",Antwerp,"Tin Can Island",2026-10-07,2026-10-16,9,AG-02,"Atlantic Freight Logistics ","Tier 1",13746.00,2749.20,450.00,2,240.00,17185.20
+CONT-1853,BOL-671630,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-07-22,2026-07-27,5,AG-02,"Atlantic Freight Logistics ","Tier 1",19889.00,3977.80,450.00,0,0.00,24316.80
+CONT-1856,BOL-893874,"CMA CGM",Shanghai,"Tin Can Island",2026-08-18,2026-09-02,15,AG-02,"Atlantic Freight Logistics ","Tier 1",53060.00,10612.00,450.00,8,960.00,65082.00
+CONT-1864,BOL-926057,MSC,Antwerp,"Tin Can Island",2026-02-03,2026-02-21,18,AG-02,"Atlantic Freight Logistics ","Tier 1",20097.00,4019.40,450.00,11,1320.00,25886.40
+CONT-1865,BOL-569539,Maersk,"Jebel Ali","Tin Can Island",2026-06-10,2026-06-30,20,AG-02,"Atlantic Freight Logistics ","Tier 1",57888.00,11577.60,450.00,13,1560.00,71475.60
+CONT-1872,BOL-512143,"CMA CGM",Antwerp,"Tin Can Island",2026-07-05,2026-07-08,3,AG-02,"Atlantic Freight Logistics ","Tier 1",52310.00,10462.00,280.00,0,0.00,63052.00
+CONT-1882,BOL-414513,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-13,2026-06-23,10,AG-02,"Atlantic Freight Logistics ","Tier 1",60621.00,12124.20,450.00,3,360.00,73555.20
+CONT-1887,BOL-838593,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-24,2026-07-03,9,AG-02,"Atlantic Freight Logistics ","Tier 1",30531.00,6106.20,450.00,2,240.00,37327.20
+CONT-1892,BOL-728429,MSC,"Jebel Ali","Tin Can Island",2026-01-12,2026-02-01,20,AG-02,"Atlantic Freight Logistics ","Tier 1",43449.00,8689.80,450.00,13,1560.00,54148.80
+CONT-1897,BOL-686455,"CMA CGM",Hamburg,"Tin Can Island",2026-09-03,2026-09-21,18,AG-02,"Atlantic Freight Logistics ","Tier 1",24693.00,4938.60,450.00,11,1320.00,31401.60
+CONT-1898,BOL-503810,Maersk,Antwerp,"Tin Can Island",2026-01-03,2026-01-23,20,AG-02,"Atlantic Freight Logistics ","Tier 1",33396.00,6679.20,280.00,13,975.00,41330.20
+CONT-1902,BOL-645937,MSC,Shanghai,"Tin Can Island",2026-10-13,2026-10-16,3,AG-02,"Atlantic Freight Logistics ","Tier 1",29534.00,5906.80,450.00,0,0.00,35890.80
+CONT-1903,BOL-176101,Maersk,Antwerp,"Tin Can Island",2026-02-09,2026-02-25,16,AG-02,"Atlantic Freight Logistics ","Tier 1",44263.00,8852.60,280.00,9,675.00,54070.60
+CONT-1907,BOL-996039,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-07,2026-03-12,5,AG-02,"Atlantic Freight Logistics ","Tier 1",45416.00,9083.20,450.00,0,0.00,54949.20
+CONT-1908,BOL-918376,MSC,Shanghai,"Tin Can Island",2026-01-27,2026-02-06,10,AG-02,"Atlantic Freight Logistics ","Tier 1",18582.00,3716.40,450.00,3,360.00,23108.40
+CONT-1914,BOL-909446,Maersk,Hamburg,"Tin Can Island",2026-05-16,2026-05-30,14,AG-02,"Atlantic Freight Logistics ","Tier 1",56534.00,11306.80,450.00,7,840.00,69130.80
+CONT-1925,BOL-517914,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-28,2026-05-04,6,AG-02,"Atlantic Freight Logistics ","Tier 1",49519.00,9903.80,280.00,0,0.00,59702.80
+CONT-1935,BOL-649391,Maersk,"Jebel Ali","Tin Can Island",2026-07-17,2026-07-29,12,AG-02,"Atlantic Freight Logistics ","Tier 1",19635.00,3927.00,450.00,5,600.00,24612.00
+CONT-1940,BOL-463629,Maersk,"Jebel Ali","Tin Can Island",2026-06-18,2026-07-07,19,AG-02,"Atlantic Freight Logistics ","Tier 1",61847.00,12369.40,450.00,12,1440.00,76106.40
+CONT-1943,BOL-486952,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-08,2026-09-25,17,AG-02,"Atlantic Freight Logistics ","Tier 1",17380.00,3476.00,450.00,10,1200.00,22506.00
+CONT-1946,BOL-504937,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-18,2026-07-05,17,AG-02,"Atlantic Freight Logistics ","Tier 1",35159.00,7031.80,450.00,10,1200.00,43840.80
+CONT-1952,BOL-114956,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-17,2026-10-02,15,AG-02,"Atlantic Freight Logistics ","Tier 1",55430.00,11086.00,450.00,8,960.00,67926.00
+CONT-1954,BOL-949659,MSC,Hamburg,"Tin Can Island",2026-07-25,2026-08-10,16,AG-02,"Atlantic Freight Logistics ","Tier 1",40189.00,8037.80,280.00,9,675.00,49181.80
+CONT-1959,BOL-778281,Maersk,Antwerp,"Tin Can Island",2026-04-06,2026-04-14,8,AG-02,"Atlantic Freight Logistics ","Tier 1",30919.00,6183.80,280.00,1,75.00,37457.80
+CONT-1971,BOL-334499,Maersk,"Jebel Ali","Tin Can Island",2026-09-04,2026-09-16,12,AG-02,"Atlantic Freight Logistics ","Tier 1",21319.00,4263.80,280.00,5,375.00,26237.80
+CONT-1979,BOL-199231,MSC,Shanghai,"Tin Can Island",2026-07-15,2026-07-31,16,AG-02,"Atlantic Freight Logistics ","Tier 1",54682.00,10936.40,450.00,9,1080.00,67148.40
+CONT-1982,BOL-614959,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-27,2026-03-31,4,AG-02,"Atlantic Freight Logistics ","Tier 1",56765.00,11353.00,450.00,0,0.00,68568.00
+CONT-1988,BOL-996424,MSC,"Jebel Ali","Tin Can Island",2026-08-05,2026-08-22,17,AG-02,"Atlantic Freight Logistics ","Tier 1",31737.00,6347.40,450.00,10,1200.00,39734.40
+CONT-1992,BOL-872777,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-15,2026-02-20,5,AG-02,"Atlantic Freight Logistics ","Tier 1",14094.00,2818.80,450.00,0,0.00,17362.80
+CONT-1995,BOL-899186,MSC,Antwerp,"Tin Can Island",2026-02-07,2026-02-24,17,AG-02,"Atlantic Freight Logistics ","Tier 1",57954.00,11590.80,450.00,10,1200.00,71194.80
+CONT-1014,BOL-696228,Maersk,Hamburg,"Tin Can Island",2026-05-16,2026-06-05,20,AG-03,"West Coast Customs Brokers","Tier 2",64795.00,12959.00,280.00,13,975.00,79009.00
+CONT-1016,BOL-878201,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-02,2026-10-09,7,AG-03,"West Coast Customs Brokers","Tier 2",21413.00,4282.60,280.00,0,0.00,25975.60
+CONT-1018,BOL-240549,Maersk,"Jebel Ali","Tin Can Island",2026-01-24,2026-02-06,13,AG-03,"West Coast Customs Brokers","Tier 2",24428.00,4885.60,450.00,6,720.00,30483.60
+CONT-1026,BOL-630649,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-28,2026-11-16,19,AG-03,"West Coast Customs Brokers","Tier 2",31467.00,6293.40,280.00,12,900.00,38940.40
+CONT-1031,BOL-652140,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-18,2026-10-22,4,AG-03,"West Coast Customs Brokers","Tier 2",60340.00,12068.00,450.00,0,0.00,72858.00
+CONT-1037,BOL-813888,"CMA CGM","Jebel Ali","Tin Can Island",2026-08-21,2026-08-31,10,AG-03,"West Coast Customs Brokers","Tier 2",31651.00,6330.20,450.00,3,360.00,38791.20
+CONT-1040,BOL-532280,Maersk,Antwerp,"Tin Can Island",2026-07-05,2026-07-11,6,AG-03,"West Coast Customs Brokers","Tier 2",27488.00,5497.60,450.00,0,0.00,33435.60
+CONT-1041,BOL-178784,MSC,Hamburg,"Tin Can Island",2026-07-03,2026-07-13,10,AG-03,"West Coast Customs Brokers","Tier 2",47102.00,9420.40,450.00,3,360.00,57332.40
+CONT-1045,BOL-356676,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-25,2026-10-03,8,AG-03,"West Coast Customs Brokers","Tier 2",42412.00,8482.40,280.00,1,75.00,51249.40
+CONT-1049,BOL-155056,"CMA CGM",Antwerp,"Tin Can Island",2026-07-21,2026-08-08,18,AG-03,"West Coast Customs Brokers","Tier 2",36531.00,7306.20,450.00,11,1320.00,45607.20
+CONT-1057,BOL-433099,"CMA CGM",Shanghai,"Tin Can Island",2026-07-28,2026-08-08,11,AG-03,"West Coast Customs Brokers","Tier 2",45428.00,9085.60,280.00,4,300.00,55093.60
+CONT-1062,BOL-408220,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-18,2026-06-24,6,AG-03,"West Coast Customs Brokers","Tier 2",23664.00,4732.80,280.00,0,0.00,28676.80
+CONT-1063,BOL-664576,Maersk,Antwerp,"Tin Can Island",2026-01-13,2026-02-02,20,AG-03,"West Coast Customs Brokers","Tier 2",38323.00,7664.60,450.00,13,1560.00,47997.60
+CONT-1065,BOL-701561,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-01,2026-01-05,4,AG-03,"West Coast Customs Brokers","Tier 2",29592.00,5918.40,450.00,0,0.00,35960.40
+CONT-1069,BOL-882315,MSC,Hamburg,"Tin Can Island",2026-01-15,2026-01-30,15,AG-03,"West Coast Customs Brokers","Tier 2",24395.00,4879.00,450.00,8,960.00,30684.00
+CONT-1071,BOL-408149,"CMA CGM",Shanghai,"Tin Can Island",2026-06-21,2026-07-06,15,AG-03,"West Coast Customs Brokers","Tier 2",35718.00,7143.60,280.00,8,600.00,43741.60
+CONT-1074,BOL-308909,Maersk,"Jebel Ali","Tin Can Island",2026-02-10,2026-02-17,7,AG-03,"West Coast Customs Brokers","Tier 2",37047.00,7409.40,450.00,0,0.00,44906.40
+CONT-1076,BOL-578959,"CMA CGM",Antwerp,"Tin Can Island",2026-05-04,2026-05-07,3,AG-03,"West Coast Customs Brokers","Tier 2",26029.00,5205.80,450.00,0,0.00,31684.80
+CONT-1081,BOL-664482,MSC,Antwerp,"Tin Can Island",2026-07-12,2026-07-29,17,AG-03,"West Coast Customs Brokers","Tier 2",23495.00,4699.00,280.00,10,750.00,29224.00
+CONT-1088,BOL-747442,"CMA CGM",Shanghai,"Tin Can Island",2026-07-01,2026-07-04,3,AG-03,"West Coast Customs Brokers","Tier 2",30818.00,6163.60,450.00,0,0.00,37431.60
+CONT-1091,BOL-525459,MSC,Shanghai,"Tin Can Island",2026-07-10,2026-07-18,8,AG-03,"West Coast Customs Brokers","Tier 2",42875.00,8575.00,450.00,1,120.00,52020.00
+CONT-1094,BOL-666474,"CMA CGM",Hamburg,"Tin Can Island",2026-08-15,2026-09-04,20,AG-03,"West Coast Customs Brokers","Tier 2",63350.00,12670.00,280.00,13,975.00,77275.00
+CONT-1099,BOL-718573,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-04,2026-10-23,19,AG-03,"West Coast Customs Brokers","Tier 2",40005.00,8001.00,450.00,12,1440.00,49896.00
+CONT-1111,BOL-529689,"CMA CGM",Antwerp,"Tin Can Island",2026-08-26,2026-09-12,17,AG-03,"West Coast Customs Brokers","Tier 2",34982.00,6996.40,450.00,10,1200.00,43628.40
+CONT-1117,BOL-470672,Maersk,Antwerp,"Tin Can Island",2026-10-19,2026-11-04,16,AG-03,"West Coast Customs Brokers","Tier 2",49462.00,9892.40,280.00,9,675.00,60309.40
+CONT-1123,BOL-536428,MSC,Antwerp,"Tin Can Island",2026-05-10,2026-05-28,18,AG-03,"West Coast Customs Brokers","Tier 2",45074.00,9014.80,450.00,11,1320.00,55858.80
+CONT-1127,BOL-318071,MSC,Shanghai,"Tin Can Island",2026-06-02,2026-06-14,12,AG-03,"West Coast Customs Brokers","Tier 2",56170.00,11234.00,280.00,5,375.00,68059.00
+CONT-1132,BOL-213625,"CMA CGM","Jebel Ali","Tin Can Island",2026-08-06,2026-08-20,14,AG-03,"West Coast Customs Brokers","Tier 2",35029.00,7005.80,280.00,7,525.00,42839.80
+CONT-1133,BOL-698307,Maersk,Shanghai,"Tin Can Island",2026-02-16,2026-02-22,6,AG-03,"West Coast Customs Brokers","Tier 2",24131.00,4826.20,280.00,0,0.00,29237.20
+CONT-1135,BOL-144569,"CMA CGM",Antwerp,"Tin Can Island",2026-04-10,2026-04-16,6,AG-03,"West Coast Customs Brokers","Tier 2",24816.00,4963.20,450.00,0,0.00,30229.20
+CONT-1138,BOL-906316,"CMA CGM",Antwerp,"Tin Can Island",2026-09-12,2026-09-29,17,AG-03,"West Coast Customs Brokers","Tier 2",57845.00,11569.00,450.00,10,1200.00,71064.00
+CONT-1139,BOL-173481,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-04-14,2026-04-25,11,AG-03,"West Coast Customs Brokers","Tier 2",38586.00,7717.20,280.00,4,300.00,46883.20
+CONT-1142,BOL-887057,"CMA CGM",Shanghai,"Tin Can Island",2026-10-20,2026-10-26,6,AG-03,"West Coast Customs Brokers","Tier 2",26706.00,5341.20,450.00,0,0.00,32497.20
+CONT-1145,BOL-270205,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-22,2026-08-27,5,AG-03,"West Coast Customs Brokers","Tier 2",31250.00,6250.00,450.00,0,0.00,37950.00
+CONT-1151,BOL-439907,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-02-01,2026-02-10,9,AG-03,"West Coast Customs Brokers","Tier 2",20529.00,4105.80,450.00,2,240.00,25324.80
+CONT-1156,BOL-649629,Maersk,Shanghai,"Tin Can Island",2026-01-20,2026-01-27,7,AG-03,"West Coast Customs Brokers","Tier 2",20181.00,4036.20,450.00,0,0.00,24667.20
+CONT-1160,BOL-660844,Maersk,"Jebel Ali","Tin Can Island",2026-05-12,2026-05-22,10,AG-03,"West Coast Customs Brokers","Tier 2",63895.00,12779.00,450.00,3,360.00,77484.00
+CONT-1162,BOL-400782,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-04,2026-09-23,19,AG-03,"West Coast Customs Brokers","Tier 2",57736.00,11547.20,450.00,12,1440.00,71173.20
+CONT-1166,BOL-595859,"CMA CGM",Antwerp,"Tin Can Island",2026-05-23,2026-06-07,15,AG-03,"West Coast Customs Brokers","Tier 2",57594.00,11518.80,280.00,8,600.00,69992.80
+CONT-1173,BOL-745234,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-24,2026-07-04,10,AG-03,"West Coast Customs Brokers","Tier 2",25055.00,5011.00,450.00,3,360.00,30876.00
+CONT-1179,BOL-449736,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-26,2026-10-10,14,AG-03,"West Coast Customs Brokers","Tier 2",19244.00,3848.80,450.00,7,840.00,24382.80
+CONT-1183,BOL-333421,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-19,2026-05-23,4,AG-03,"West Coast Customs Brokers","Tier 2",53300.00,10660.00,280.00,0,0.00,64240.00
+CONT-1187,BOL-720673,"CMA CGM",Shanghai,"Tin Can Island",2026-09-24,2026-10-02,8,AG-03,"West Coast Customs Brokers","Tier 2",60458.00,12091.60,450.00,1,120.00,73119.60
+CONT-1200,BOL-630251,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-08-18,2026-09-07,20,AG-03,"West Coast Customs Brokers","Tier 2",22039.00,4407.80,280.00,13,975.00,27701.80
+CONT-1203,BOL-347959,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-07-05,2026-07-12,7,AG-03,"West Coast Customs Brokers","Tier 2",26453.00,5290.60,280.00,0,0.00,32023.60
+CONT-1210,BOL-431251,"CMA CGM",Antwerp,"Tin Can Island",2026-07-14,2026-07-31,17,AG-03,"West Coast Customs Brokers","Tier 2",44855.00,8971.00,450.00,10,1200.00,55476.00
+CONT-1233,BOL-806726,Maersk,Hamburg,"Tin Can Island",2026-04-13,2026-05-02,19,AG-03,"West Coast Customs Brokers","Tier 2",36893.00,7378.60,450.00,12,1440.00,46161.60
+CONT-1236,BOL-139057,"CMA CGM",Hamburg,"Tin Can Island",2026-07-21,2026-08-04,14,AG-03,"West Coast Customs Brokers","Tier 2",64666.00,12933.20,450.00,7,840.00,78889.20
+CONT-1245,BOL-239049,Maersk,"Jebel Ali","Tin Can Island",2026-08-08,2026-08-22,14,AG-03,"West Coast Customs Brokers","Tier 2",64975.00,12995.00,450.00,7,840.00,79260.00
+CONT-1254,BOL-444537,MSC,"Jebel Ali","Tin Can Island",2026-01-12,2026-01-22,10,AG-03,"West Coast Customs Brokers","Tier 2",32873.00,6574.60,280.00,3,225.00,39952.60
+CONT-1256,BOL-592822,Maersk,Hamburg,"Tin Can Island",2026-05-22,2026-06-05,14,AG-03,"West Coast Customs Brokers","Tier 2",32291.00,6458.20,280.00,7,525.00,39554.20
+CONT-1260,BOL-655494,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-16,2026-03-02,14,AG-03,"West Coast Customs Brokers","Tier 2",50593.00,10118.60,280.00,7,525.00,61516.60
+CONT-1269,BOL-488424,Maersk,Shanghai,"Tin Can Island",2026-03-15,2026-03-22,7,AG-03,"West Coast Customs Brokers","Tier 2",16908.00,3381.60,280.00,0,0.00,20569.60
+CONT-1270,BOL-937585,"CMA CGM",Antwerp,"Tin Can Island",2026-03-26,2026-04-02,7,AG-03,"West Coast Customs Brokers","Tier 2",52313.00,10462.60,450.00,0,0.00,63225.60
+CONT-1271,BOL-247312,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-10,2026-09-21,11,AG-03,"West Coast Customs Brokers","Tier 2",34206.00,6841.20,280.00,4,300.00,41627.20
+CONT-1273,BOL-660191,"CMA CGM",Shanghai,"Tin Can Island",2026-03-25,2026-04-05,11,AG-03,"West Coast Customs Brokers","Tier 2",35623.00,7124.60,450.00,4,480.00,43677.60
+CONT-1280,BOL-577482,"CMA CGM",Hamburg,"Tin Can Island",2026-05-07,2026-05-25,18,AG-03,"West Coast Customs Brokers","Tier 2",50327.00,10065.40,450.00,11,1320.00,62162.40
+CONT-1282,BOL-404657,MSC,Shanghai,"Tin Can Island",2026-04-20,2026-05-04,14,AG-03,"West Coast Customs Brokers","Tier 2",27984.00,5596.80,280.00,7,525.00,34385.80
+CONT-1289,BOL-463008,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-10-13,2026-10-23,10,AG-03,"West Coast Customs Brokers","Tier 2",43996.00,8799.20,280.00,3,225.00,53300.20
+CONT-1303,BOL-882127,"CMA CGM",Hamburg,"Tin Can Island",2026-06-24,2026-07-08,14,AG-03,"West Coast Customs Brokers","Tier 2",50588.00,10117.60,280.00,7,525.00,61510.60
+CONT-1307,BOL-926957,Maersk,"Jebel Ali","Tin Can Island",2026-06-11,2026-06-28,17,AG-03,"West Coast Customs Brokers","Tier 2",59566.00,11913.20,450.00,10,1200.00,73129.20
+CONT-1318,BOL-793273,MSC,Hamburg,"Tin Can Island",2026-08-23,2026-08-30,7,AG-03,"West Coast Customs Brokers","Tier 2",13949.00,2789.80,280.00,0,0.00,17018.80
+CONT-1322,BOL-308377,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-04-13,2026-04-20,7,AG-03,"West Coast Customs Brokers","Tier 2",12851.00,2570.20,280.00,0,0.00,15701.20
+CONT-1330,BOL-384210,Maersk,Shanghai,"Tin Can Island",2026-06-20,2026-07-09,19,AG-03,"West Coast Customs Brokers","Tier 2",60204.00,12040.80,280.00,12,900.00,73424.80
+CONT-1336,BOL-971806,Maersk,Shanghai,"Tin Can Island",2026-08-28,2026-09-17,20,AG-03,"West Coast Customs Brokers","Tier 2",12889.00,2577.80,450.00,13,1560.00,17476.80
+CONT-1337,BOL-991653,Maersk,Shanghai,"Tin Can Island",2026-03-07,2026-03-22,15,AG-03,"West Coast Customs Brokers","Tier 2",20481.00,4096.20,280.00,8,600.00,25457.20
+CONT-1339,BOL-273762,Maersk,"Jebel Ali","Tin Can Island",2026-10-16,2026-10-29,13,AG-03,"West Coast Customs Brokers","Tier 2",24765.00,4953.00,280.00,6,450.00,30448.00
+CONT-1343,BOL-965048,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-07-23,2026-08-03,11,AG-03,"West Coast Customs Brokers","Tier 2",36747.00,7349.40,280.00,4,300.00,44676.40
+CONT-1344,BOL-679264,Maersk,Antwerp,"Tin Can Island",2026-02-24,2026-03-01,5,AG-03,"West Coast Customs Brokers","Tier 2",53022.00,10604.40,450.00,0,0.00,64076.40
+CONT-1362,BOL-199009,MSC,Antwerp,"Tin Can Island",2026-04-26,2026-05-10,14,AG-03,"West Coast Customs Brokers","Tier 2",52717.00,10543.40,450.00,7,840.00,64550.40
+CONT-1365,BOL-624914,"CMA CGM",Shanghai,"Tin Can Island",2026-04-11,2026-04-17,6,AG-03,"West Coast Customs Brokers","Tier 2",23574.00,4714.80,450.00,0,0.00,28738.80
+CONT-1367,BOL-534328,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-13,2026-04-02,20,AG-03,"West Coast Customs Brokers","Tier 2",57490.00,11498.00,450.00,13,1560.00,70998.00
+CONT-1376,BOL-338753,"CMA CGM",Shanghai,"Tin Can Island",2026-08-26,2026-08-29,3,AG-03,"West Coast Customs Brokers","Tier 2",19483.00,3896.60,450.00,0,0.00,23829.60
+CONT-1378,BOL-121127,"CMA CGM","Jebel Ali","Tin Can Island",2026-08-10,2026-08-20,10,AG-03,"West Coast Customs Brokers","Tier 2",27818.00,5563.60,450.00,3,360.00,34191.60
+CONT-1394,BOL-885301,"CMA CGM",Shanghai,"Tin Can Island",2026-03-16,2026-03-25,9,AG-03,"West Coast Customs Brokers","Tier 2",22820.00,4564.00,450.00,2,240.00,28074.00
+CONT-1399,BOL-109552,MSC,Antwerp,"Tin Can Island",2026-07-20,2026-07-30,10,AG-03,"West Coast Customs Brokers","Tier 2",60831.00,12166.20,280.00,3,225.00,73502.20
+CONT-1411,BOL-651436,Maersk,Shanghai,"Tin Can Island",2026-05-22,2026-05-29,7,AG-03,"West Coast Customs Brokers","Tier 2",31653.00,6330.60,280.00,0,0.00,38263.60
+CONT-1412,BOL-640573,MSC,Shanghai,"Tin Can Island",2026-09-23,2026-09-26,3,AG-03,"West Coast Customs Brokers","Tier 2",43767.00,8753.40,280.00,0,0.00,52800.40
+CONT-1415,BOL-332317,"CMA CGM","Jebel Ali","Tin Can Island",2026-05-09,2026-05-22,13,AG-03,"West Coast Customs Brokers","Tier 2",32727.00,6545.40,280.00,6,450.00,40002.40
+CONT-1418,BOL-609118,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-07-12,2026-07-21,9,AG-03,"West Coast Customs Brokers","Tier 2",57801.00,11560.20,450.00,2,240.00,70051.20
+CONT-1424,BOL-550432,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-21,2026-10-31,10,AG-03,"West Coast Customs Brokers","Tier 2",39623.00,7924.60,280.00,3,225.00,48052.60
+CONT-1425,BOL-350858,Maersk,Antwerp,"Tin Can Island",2026-04-09,2026-04-13,4,AG-03,"West Coast Customs Brokers","Tier 2",59630.00,11926.00,450.00,0,0.00,72006.00
+CONT-1426,BOL-268147,Maersk,Shanghai,"Tin Can Island",2026-08-02,2026-08-14,12,AG-03,"West Coast Customs Brokers","Tier 2",14462.00,2892.40,450.00,5,600.00,18404.40
+CONT-1427,BOL-378593,Maersk,"Jebel Ali","Tin Can Island",2026-08-14,2026-08-18,4,AG-03,"West Coast Customs Brokers","Tier 2",60270.00,12054.00,450.00,0,0.00,72774.00
+CONT-1432,BOL-383764,Maersk,Shanghai,"Tin Can Island",2026-03-16,2026-04-02,17,AG-03,"West Coast Customs Brokers","Tier 2",62331.00,12466.20,450.00,10,1200.00,76447.20
+CONT-1447,BOL-485292,MSC,"Jebel Ali","Tin Can Island",2026-10-26,2026-11-12,17,AG-03,"West Coast Customs Brokers","Tier 2",22171.00,4434.20,450.00,10,1200.00,28255.20
+CONT-1450,BOL-418324,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-14,2026-01-23,9,AG-03,"West Coast Customs Brokers","Tier 2",35659.00,7131.80,450.00,2,240.00,43480.80
+CONT-1456,BOL-771532,"CMA CGM",Hamburg,"Tin Can Island",2026-04-24,2026-04-27,3,AG-03,"West Coast Customs Brokers","Tier 2",59759.00,11951.80,280.00,0,0.00,71990.80
+CONT-1461,BOL-999162,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-17,2026-07-31,14,AG-03,"West Coast Customs Brokers","Tier 2",52650.00,10530.00,450.00,7,840.00,64470.00
+CONT-1478,BOL-764163,Maersk,Hamburg,"Tin Can Island",2026-01-12,2026-02-01,20,AG-03,"West Coast Customs Brokers","Tier 2",26252.00,5250.40,280.00,13,975.00,32757.40
+CONT-1490,BOL-446722,Maersk,Antwerp,"Tin Can Island",2026-07-23,2026-08-03,11,AG-03,"West Coast Customs Brokers","Tier 2",22933.00,4586.60,450.00,4,480.00,28449.60
+CONT-1499,BOL-743012,Maersk,Antwerp,"Tin Can Island",2026-08-18,2026-08-29,11,AG-03,"West Coast Customs Brokers","Tier 2",32313.00,6462.60,280.00,4,300.00,39355.60
+CONT-1504,BOL-268738,"CMA CGM",Antwerp,"Tin Can Island",2026-05-15,2026-06-03,19,AG-03,"West Coast Customs Brokers","Tier 2",59643.00,11928.60,450.00,12,1440.00,73461.60
+CONT-1506,BOL-428997,MSC,Shanghai,"Tin Can Island",2026-07-05,2026-07-21,16,AG-03,"West Coast Customs Brokers","Tier 2",49992.00,9998.40,450.00,9,1080.00,61520.40
+CONT-1507,BOL-309615,MSC,Antwerp,"Tin Can Island",2026-03-07,2026-03-16,9,AG-03,"West Coast Customs Brokers","Tier 2",59623.00,11924.60,450.00,2,240.00,72237.60
+CONT-1511,BOL-272765,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-16,2026-02-27,11,AG-03,"West Coast Customs Brokers","Tier 2",34423.00,6884.60,450.00,4,480.00,42237.60
+CONT-1516,BOL-943010,"CMA CGM",Shanghai,"Tin Can Island",2026-02-21,2026-03-13,20,AG-03,"West Coast Customs Brokers","Tier 2",54304.00,10860.80,450.00,13,1560.00,67174.80
+CONT-1530,BOL-915368,"CMA CGM",Shanghai,"Tin Can Island",2026-04-08,2026-04-11,3,AG-03,"West Coast Customs Brokers","Tier 2",16543.00,3308.60,280.00,0,0.00,20131.60
+CONT-1531,BOL-748466,"CMA CGM",Hamburg,"Tin Can Island",2026-08-05,2026-08-11,6,AG-03,"West Coast Customs Brokers","Tier 2",45737.00,9147.40,450.00,0,0.00,55334.40
+CONT-1533,BOL-711913,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-23,2026-03-31,8,AG-03,"West Coast Customs Brokers","Tier 2",18636.00,3727.20,280.00,1,75.00,22718.20
+CONT-1535,BOL-260876,Maersk,Hamburg,"Tin Can Island",2026-04-02,2026-04-22,20,AG-03,"West Coast Customs Brokers","Tier 2",38890.00,7778.00,280.00,13,975.00,47923.00
+CONT-1540,BOL-510635,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-04-18,2026-05-02,14,AG-03,"West Coast Customs Brokers","Tier 2",55830.00,11166.00,450.00,7,840.00,68286.00
+CONT-1544,BOL-742966,MSC,Hamburg,"Tin Can Island",2026-07-13,2026-07-23,10,AG-03,"West Coast Customs Brokers","Tier 2",46455.00,9291.00,450.00,3,360.00,56556.00
+CONT-1546,BOL-805649,"CMA CGM",Hamburg,"Tin Can Island",2026-08-14,2026-08-29,15,AG-03,"West Coast Customs Brokers","Tier 2",41991.00,8398.20,450.00,8,960.00,51799.20
+CONT-1557,BOL-111972,Maersk,Shanghai,"Tin Can Island",2026-10-03,2026-10-14,11,AG-03,"West Coast Customs Brokers","Tier 2",50720.00,10144.00,450.00,4,480.00,61794.00
+CONT-1562,BOL-241503,MSC,Shanghai,"Tin Can Island",2026-04-20,2026-05-07,17,AG-03,"West Coast Customs Brokers","Tier 2",37858.00,7571.60,280.00,10,750.00,46459.60
+CONT-1564,BOL-853995,MSC,"Jebel Ali","Tin Can Island",2026-01-06,2026-01-15,9,AG-03,"West Coast Customs Brokers","Tier 2",25767.00,5153.40,280.00,2,150.00,31350.40
+CONT-1566,BOL-542734,MSC,"Jebel Ali","Tin Can Island",2026-07-24,2026-07-30,6,AG-03,"West Coast Customs Brokers","Tier 2",56572.00,11314.40,450.00,0,0.00,68336.40
+CONT-1567,BOL-367411,"CMA CGM",Antwerp,"Tin Can Island",2026-06-04,2026-06-22,18,AG-03,"West Coast Customs Brokers","Tier 2",27574.00,5514.80,280.00,11,825.00,34193.80
+CONT-1575,BOL-639649,MSC,"Jebel Ali","Tin Can Island",2026-05-13,2026-06-02,20,AG-03,"West Coast Customs Brokers","Tier 2",56610.00,11322.00,450.00,13,1560.00,69942.00
+CONT-1581,BOL-287248,Maersk,Antwerp,"Tin Can Island",2026-02-18,2026-03-08,18,AG-03,"West Coast Customs Brokers","Tier 2",13215.00,2643.00,280.00,11,825.00,16963.00
+CONT-1584,BOL-729291,MSC,Hamburg,"Tin Can Island",2026-07-27,2026-08-02,6,AG-03,"West Coast Customs Brokers","Tier 2",63083.00,12616.60,450.00,0,0.00,76149.60
+CONT-1585,BOL-869714,MSC,Antwerp,"Tin Can Island",2026-02-15,2026-02-20,5,AG-03,"West Coast Customs Brokers","Tier 2",60152.00,12030.40,280.00,0,0.00,72462.40
+CONT-1586,BOL-532086,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-22,2026-05-02,10,AG-03,"West Coast Customs Brokers","Tier 2",34551.00,6910.20,280.00,3,225.00,41966.20
+CONT-1587,BOL-118623,Maersk,Hamburg,"Tin Can Island",2026-05-04,2026-05-16,12,AG-03,"West Coast Customs Brokers","Tier 2",35522.00,7104.40,280.00,5,375.00,43281.40
+CONT-1595,BOL-111399,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-05,2026-03-24,19,AG-03,"West Coast Customs Brokers","Tier 2",19733.00,3946.60,280.00,12,900.00,24859.60
+CONT-1602,BOL-826195,Maersk,"Jebel Ali","Tin Can Island",2026-02-17,2026-02-24,7,AG-03,"West Coast Customs Brokers","Tier 2",52560.00,10512.00,450.00,0,0.00,63522.00
+CONT-1609,BOL-429708,Maersk,Shanghai,"Tin Can Island",2026-01-14,2026-01-24,10,AG-03,"West Coast Customs Brokers","Tier 2",40165.00,8033.00,450.00,3,360.00,49008.00
+CONT-1620,BOL-988466,MSC,Hamburg,"Tin Can Island",2026-07-01,2026-07-19,18,AG-03,"West Coast Customs Brokers","Tier 2",62873.00,12574.60,450.00,11,1320.00,77217.60
+CONT-1625,BOL-116520,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-15,2026-09-26,11,AG-03,"West Coast Customs Brokers","Tier 2",64183.00,12836.60,450.00,4,480.00,77949.60
+CONT-1631,BOL-124772,"CMA CGM","Jebel Ali","Tin Can Island",2026-04-16,2026-05-05,19,AG-03,"West Coast Customs Brokers","Tier 2",44742.00,8948.40,450.00,12,1440.00,55580.40
+CONT-1646,BOL-671065,MSC,"Jebel Ali","Tin Can Island",2026-07-09,2026-07-22,13,AG-03,"West Coast Customs Brokers","Tier 2",38763.00,7752.60,280.00,6,450.00,47245.60
+CONT-1647,BOL-250751,"CMA CGM",Shanghai,"Tin Can Island",2026-02-05,2026-02-24,19,AG-03,"West Coast Customs Brokers","Tier 2",61172.00,12234.40,450.00,12,1440.00,75296.40
+CONT-1648,BOL-951158,MSC,Shanghai,"Tin Can Island",2026-05-04,2026-05-20,16,AG-03,"West Coast Customs Brokers","Tier 2",62230.00,12446.00,280.00,9,675.00,75631.00
+CONT-1649,BOL-718364,Maersk,"Jebel Ali","Tin Can Island",2026-08-27,2026-09-16,20,AG-03,"West Coast Customs Brokers","Tier 2",36049.00,7209.80,280.00,13,975.00,44513.80
+CONT-1655,BOL-729596,MSC,Shanghai,"Tin Can Island",2026-06-22,2026-06-27,5,AG-03,"West Coast Customs Brokers","Tier 2",44584.00,8916.80,450.00,0,0.00,53950.80
+CONT-1658,BOL-846406,MSC,Shanghai,"Tin Can Island",2026-06-09,2026-06-22,13,AG-03,"West Coast Customs Brokers","Tier 2",36756.00,7351.20,450.00,6,720.00,45277.20
+CONT-1659,BOL-307262,"CMA CGM",Shanghai,"Tin Can Island",2026-05-04,2026-05-16,12,AG-03,"West Coast Customs Brokers","Tier 2",18440.00,3688.00,280.00,5,375.00,22783.00
+CONT-1664,BOL-426866,Maersk,"Jebel Ali","Tin Can Island",2026-09-28,2026-10-13,15,AG-03,"West Coast Customs Brokers","Tier 2",34173.00,6834.60,280.00,8,600.00,41887.60
+CONT-1676,BOL-590334,"CMA CGM",Hamburg,"Tin Can Island",2026-10-15,2026-11-02,18,AG-03,"West Coast Customs Brokers","Tier 2",18733.00,3746.60,280.00,11,825.00,23584.60
+CONT-1679,BOL-645006,MSC,Hamburg,"Tin Can Island",2026-01-14,2026-01-26,12,AG-03,"West Coast Customs Brokers","Tier 2",51353.00,10270.60,280.00,5,375.00,62278.60
+CONT-1682,BOL-289835,"CMA CGM",Shanghai,"Tin Can Island",2026-08-28,2026-09-12,15,AG-03,"West Coast Customs Brokers","Tier 2",29236.00,5847.20,280.00,8,600.00,35963.20
+CONT-1684,BOL-545537,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-09,2026-01-25,16,AG-03,"West Coast Customs Brokers","Tier 2",64302.00,12860.40,450.00,9,1080.00,78692.40
+CONT-1687,BOL-117492,Maersk,Antwerp,"Tin Can Island",2026-02-28,2026-03-14,14,AG-03,"West Coast Customs Brokers","Tier 2",52203.00,10440.60,450.00,7,840.00,63933.60
+CONT-1689,BOL-212264,"CMA CGM",Antwerp,"Tin Can Island",2026-09-21,2026-10-01,10,AG-03,"West Coast Customs Brokers","Tier 2",15635.00,3127.00,450.00,3,360.00,19572.00
+CONT-1690,BOL-757831,"CMA CGM",Shanghai,"Tin Can Island",2026-07-14,2026-07-22,8,AG-03,"West Coast Customs Brokers","Tier 2",41978.00,8395.60,280.00,1,75.00,50728.60
+CONT-1693,BOL-958916,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-01,2026-03-13,12,AG-03,"West Coast Customs Brokers","Tier 2",18238.00,3647.60,450.00,5,600.00,22935.60
+CONT-1703,BOL-575374,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-11,2026-10-01,20,AG-03,"West Coast Customs Brokers","Tier 2",50923.00,10184.60,450.00,13,1560.00,63117.60
+CONT-1706,BOL-767622,"CMA CGM",Shanghai,"Tin Can Island",2026-07-25,2026-08-08,14,AG-03,"West Coast Customs Brokers","Tier 2",17932.00,3586.40,280.00,7,525.00,22323.40
+CONT-1717,BOL-368352,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-05,2026-09-18,13,AG-03,"West Coast Customs Brokers","Tier 2",51759.00,10351.80,450.00,6,720.00,63280.80
+CONT-1721,BOL-542713,"CMA CGM","Jebel Ali","Tin Can Island",2026-10-15,2026-10-21,6,AG-03,"West Coast Customs Brokers","Tier 2",55947.00,11189.40,280.00,0,0.00,67416.40
+CONT-1724,BOL-581983,MSC,Shanghai,"Tin Can Island",2026-09-03,2026-09-14,11,AG-03,"West Coast Customs Brokers","Tier 2",15615.00,3123.00,280.00,4,300.00,19318.00
+CONT-1725,BOL-357756,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-06,2026-06-19,13,AG-03,"West Coast Customs Brokers","Tier 2",52056.00,10411.20,450.00,6,720.00,63637.20
+CONT-1728,BOL-189138,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-20,2026-07-05,15,AG-03,"West Coast Customs Brokers","Tier 2",33354.00,6670.80,450.00,8,960.00,41434.80
+CONT-1738,BOL-649958,"CMA CGM",Antwerp,"Tin Can Island",2026-04-09,2026-04-13,4,AG-03,"West Coast Customs Brokers","Tier 2",30385.00,6077.00,450.00,0,0.00,36912.00
+CONT-1755,BOL-674055,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-16,2026-06-29,13,AG-03,"West Coast Customs Brokers","Tier 2",24402.00,4880.40,280.00,6,450.00,30012.40
+CONT-1758,BOL-571765,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-25,2026-03-06,9,AG-03,"West Coast Customs Brokers","Tier 2",31472.00,6294.40,450.00,2,240.00,38456.40
+CONT-1759,BOL-854968,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-20,2026-10-25,5,AG-03,"West Coast Customs Brokers","Tier 2",31249.00,6249.80,280.00,0,0.00,37778.80
+CONT-1768,BOL-613788,Maersk,Hamburg,"Tin Can Island",2026-09-23,2026-10-12,19,AG-03,"West Coast Customs Brokers","Tier 2",37827.00,7565.40,280.00,12,900.00,46572.40
+CONT-1770,BOL-720080,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-09,2026-06-21,12,AG-03,"West Coast Customs Brokers","Tier 2",12414.00,2482.80,280.00,5,375.00,15551.80
+CONT-1773,BOL-821520,Maersk,Hamburg,"Tin Can Island",2026-07-02,2026-07-19,17,AG-03,"West Coast Customs Brokers","Tier 2",26952.00,5390.40,450.00,10,1200.00,33992.40
+CONT-1774,BOL-600336,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-15,2026-06-29,14,AG-03,"West Coast Customs Brokers","Tier 2",43896.00,8779.20,280.00,7,525.00,53480.20
+CONT-1775,BOL-146352,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-25,2026-07-10,15,AG-03,"West Coast Customs Brokers","Tier 2",48773.00,9754.60,280.00,8,600.00,59407.60
+CONT-1777,BOL-728257,MSC,"Jebel Ali","Tin Can Island",2026-10-28,2026-11-17,20,AG-03,"West Coast Customs Brokers","Tier 2",13523.00,2704.60,280.00,13,975.00,17482.60
+CONT-1790,BOL-259439,MSC,"Jebel Ali","Tin Can Island",2026-06-19,2026-06-22,3,AG-03,"West Coast Customs Brokers","Tier 2",17672.00,3534.40,280.00,0,0.00,21486.40
+CONT-1791,BOL-709708,MSC,"Jebel Ali","Tin Can Island",2026-05-22,2026-05-30,8,AG-03,"West Coast Customs Brokers","Tier 2",32502.00,6500.40,280.00,1,75.00,39357.40
+CONT-1792,BOL-423241,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-26,2026-09-12,17,AG-03,"West Coast Customs Brokers","Tier 2",48278.00,9655.60,450.00,10,1200.00,59583.60
+CONT-1794,BOL-562157,Maersk,Shanghai,"Tin Can Island",2026-07-13,2026-07-30,17,AG-03,"West Coast Customs Brokers","Tier 2",22677.00,4535.40,450.00,10,1200.00,28862.40
+CONT-1801,BOL-550810,Maersk,"Jebel Ali","Tin Can Island",2026-08-12,2026-08-30,18,AG-03,"West Coast Customs Brokers","Tier 2",35578.00,7115.60,280.00,11,825.00,43798.60
+CONT-1820,BOL-807118,Maersk,Shanghai,"Tin Can Island",2026-05-18,2026-05-28,10,AG-03,"West Coast Customs Brokers","Tier 2",47901.00,9580.20,450.00,3,360.00,58291.20
+CONT-1827,BOL-333204,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-04-26,2026-05-05,9,AG-03,"West Coast Customs Brokers","Tier 2",17497.00,3499.40,450.00,2,240.00,21686.40
+CONT-1831,BOL-960271,"CMA CGM","Jebel Ali","Tin Can Island",2026-10-03,2026-10-19,16,AG-03,"West Coast Customs Brokers","Tier 2",57982.00,11596.40,450.00,9,1080.00,71108.40
+CONT-1833,BOL-948158,"CMA CGM","Jebel Ali","Tin Can Island",2026-05-01,2026-05-12,11,AG-03,"West Coast Customs Brokers","Tier 2",36769.00,7353.80,450.00,4,480.00,45052.80
+CONT-1848,BOL-461753,MSC,"Jebel Ali","Tin Can Island",2026-10-16,2026-10-26,10,AG-03,"West Coast Customs Brokers","Tier 2",32657.00,6531.40,450.00,3,360.00,39998.40
+CONT-1849,BOL-171555,Maersk,"Jebel Ali","Tin Can Island",2026-02-10,2026-02-25,15,AG-03,"West Coast Customs Brokers","Tier 2",12388.00,2477.60,280.00,8,600.00,15745.60
+CONT-1850,BOL-834458,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-27,2026-07-17,20,AG-03,"West Coast Customs Brokers","Tier 2",22829.00,4565.80,280.00,13,975.00,28649.80
+CONT-1855,BOL-895358,MSC,Antwerp,"Tin Can Island",2026-07-13,2026-08-02,20,AG-03,"West Coast Customs Brokers","Tier 2",62269.00,12453.80,450.00,13,1560.00,76732.80
+CONT-1857,BOL-877596,Maersk,Hamburg,"Tin Can Island",2026-05-27,2026-06-08,12,AG-03,"West Coast Customs Brokers","Tier 2",29121.00,5824.20,450.00,5,600.00,35995.20
+CONT-1869,BOL-818381,"CMA CGM",Antwerp,"Tin Can Island",2026-05-02,2026-05-13,11,AG-03,"West Coast Customs Brokers","Tier 2",62734.00,12546.80,280.00,4,300.00,75860.80
+CONT-1871,BOL-585297,MSC,Shanghai,"Tin Can Island",2026-06-17,2026-06-25,8,AG-03,"West Coast Customs Brokers","Tier 2",47458.00,9491.60,280.00,1,75.00,57304.60
+CONT-1874,BOL-895493,MSC,"Jebel Ali","Tin Can Island",2026-07-10,2026-07-13,3,AG-03,"West Coast Customs Brokers","Tier 2",31821.00,6364.20,280.00,0,0.00,38465.20
+CONT-1876,BOL-532392,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-09,2026-02-23,14,AG-03,"West Coast Customs Brokers","Tier 2",55157.00,11031.40,280.00,7,525.00,66993.40
+CONT-1883,BOL-100818,Maersk,Hamburg,"Tin Can Island",2026-09-15,2026-09-28,13,AG-03,"West Coast Customs Brokers","Tier 2",15650.00,3130.00,450.00,6,720.00,19950.00
+CONT-1885,BOL-509513,MSC,Shanghai,"Tin Can Island",2026-06-21,2026-06-27,6,AG-03,"West Coast Customs Brokers","Tier 2",32903.00,6580.60,450.00,0,0.00,39933.60
+CONT-1895,BOL-439377,MSC,Antwerp,"Tin Can Island",2026-10-21,2026-10-31,10,AG-03,"West Coast Customs Brokers","Tier 2",18895.00,3779.00,280.00,3,225.00,23179.00
+CONT-1896,BOL-606595,Maersk,"Jebel Ali","Tin Can Island",2026-04-02,2026-04-17,15,AG-03,"West Coast Customs Brokers","Tier 2",40828.00,8165.60,450.00,8,960.00,50403.60
+CONT-1899,BOL-682919,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-06,2026-09-26,20,AG-03,"West Coast Customs Brokers","Tier 2",30001.00,6000.20,450.00,13,1560.00,38011.20
+CONT-1909,BOL-599533,"CMA CGM","Jebel Ali","Tin Can Island",2026-04-19,2026-05-06,17,AG-03,"West Coast Customs Brokers","Tier 2",23758.00,4751.60,450.00,10,1200.00,30159.60
+CONT-1910,BOL-358677,MSC,Hamburg,"Tin Can Island",2026-03-09,2026-03-19,10,AG-03,"West Coast Customs Brokers","Tier 2",12267.00,2453.40,450.00,3,360.00,15530.40
+CONT-1915,BOL-885506,MSC,Antwerp,"Tin Can Island",2026-04-28,2026-05-15,17,AG-03,"West Coast Customs Brokers","Tier 2",33882.00,6776.40,450.00,10,1200.00,42308.40
+CONT-1919,BOL-885964,MSC,Hamburg,"Tin Can Island",2026-03-09,2026-03-29,20,AG-03,"West Coast Customs Brokers","Tier 2",34170.00,6834.00,280.00,13,975.00,42259.00
+CONT-1920,BOL-306507,MSC,Antwerp,"Tin Can Island",2026-07-16,2026-07-31,15,AG-03,"West Coast Customs Brokers","Tier 2",28748.00,5749.60,280.00,8,600.00,35377.60
+CONT-1926,BOL-861384,Maersk,"Jebel Ali","Tin Can Island",2026-07-21,2026-07-25,4,AG-03,"West Coast Customs Brokers","Tier 2",47589.00,9517.80,450.00,0,0.00,57556.80
+CONT-1928,BOL-597092,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-01-12,2026-01-28,16,AG-03,"West Coast Customs Brokers","Tier 2",45967.00,9193.40,450.00,9,1080.00,56690.40
+CONT-1930,BOL-901772,MSC,Shanghai,"Tin Can Island",2026-07-06,2026-07-12,6,AG-03,"West Coast Customs Brokers","Tier 2",56896.00,11379.20,280.00,0,0.00,68555.20
+CONT-1933,BOL-249074,MSC,Shanghai,"Tin Can Island",2026-05-13,2026-06-01,19,AG-03,"West Coast Customs Brokers","Tier 2",56503.00,11300.60,450.00,12,1440.00,69693.60
+CONT-1936,BOL-523897,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-25,2026-07-09,14,AG-03,"West Coast Customs Brokers","Tier 2",64768.00,12953.60,450.00,7,840.00,79011.60
+CONT-1937,BOL-451639,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-28,2026-09-10,13,AG-03,"West Coast Customs Brokers","Tier 2",55653.00,11130.60,450.00,6,720.00,67953.60
+CONT-1947,BOL-678892,"CMA CGM",Antwerp,"Tin Can Island",2026-01-16,2026-01-29,13,AG-03,"West Coast Customs Brokers","Tier 2",40055.00,8011.00,450.00,6,720.00,49236.00
+CONT-1953,BOL-377906,MSC,Shanghai,"Tin Can Island",2026-02-03,2026-02-09,6,AG-03,"West Coast Customs Brokers","Tier 2",53206.00,10641.20,280.00,0,0.00,64127.20
+CONT-1958,BOL-772145,Maersk,Antwerp,"Tin Can Island",2026-02-01,2026-02-14,13,AG-03,"West Coast Customs Brokers","Tier 2",39524.00,7904.80,280.00,6,450.00,48158.80
+CONT-1962,BOL-578956,Maersk,Antwerp,"Tin Can Island",2026-06-23,2026-06-27,4,AG-03,"West Coast Customs Brokers","Tier 2",51264.00,10252.80,450.00,0,0.00,61966.80
+CONT-1977,BOL-774498,MSC,Antwerp,"Tin Can Island",2026-06-05,2026-06-14,9,AG-03,"West Coast Customs Brokers","Tier 2",50244.00,10048.80,450.00,2,240.00,60982.80
+CONT-1980,BOL-831758,MSC,Shanghai,"Tin Can Island",2026-03-18,2026-03-22,4,AG-03,"West Coast Customs Brokers","Tier 2",60228.00,12045.60,450.00,0,0.00,72723.60
+CONT-1983,BOL-818435,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-06-06,2026-06-11,5,AG-03,"West Coast Customs Brokers","Tier 2",23008.00,4601.60,450.00,0,0.00,28059.60
+CONT-1989,BOL-281729,"CMA CGM",Shanghai,"Tin Can Island",2026-07-14,2026-07-22,8,AG-03,"West Coast Customs Brokers","Tier 2",62841.00,12568.20,280.00,1,75.00,75764.20
+CONT-1993,BOL-234404,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-05,2026-06-13,8,AG-03,"West Coast Customs Brokers","Tier 2",62927.00,12585.40,280.00,1,75.00,75867.40
+CONT-2000,BOL-341037,MSC,"Jebel Ali","Tin Can Island",2026-01-20,2026-01-31,11,AG-03,"West Coast Customs Brokers","Tier 2",27516.00,5503.20,450.00,4,480.00,33949.20
+CONT-1001,BOL-153465,Maersk,Hamburg,"Tin Can Island",2026-08-05,2026-08-22,17,AG-04,"Vanguard Port Services","Tier 2",30418.00,6083.60,450.00,10,1200.00,38151.60
+CONT-1009,BOL-910122,MSC,"Jebel Ali","Tin Can Island",2026-07-09,2026-07-14,5,AG-04,"Vanguard Port Services","Tier 2",17160.00,3432.00,280.00,0,0.00,20872.00
+CONT-1010,BOL-856774,"CMA CGM",Shanghai,"Tin Can Island",2026-04-27,2026-05-16,19,AG-04,"Vanguard Port Services","Tier 2",45429.00,9085.80,450.00,12,1440.00,56404.80
+CONT-1015,BOL-251473,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-10,2026-04-25,15,AG-04,"Vanguard Port Services","Tier 2",30779.00,6155.80,450.00,8,960.00,38344.80
+CONT-1024,BOL-259939,MSC,"Jebel Ali","Tin Can Island",2026-07-17,2026-08-04,18,AG-04,"Vanguard Port Services","Tier 2",60452.00,12090.40,450.00,11,1320.00,74312.40
+CONT-1035,BOL-748648,MSC,Shanghai,"Tin Can Island",2026-06-20,2026-06-25,5,AG-04,"Vanguard Port Services","Tier 2",53280.00,10656.00,280.00,0,0.00,64216.00
+CONT-1038,BOL-264138,"CMA CGM",Antwerp,"Tin Can Island",2026-05-11,2026-05-15,4,AG-04,"Vanguard Port Services","Tier 2",49290.00,9858.00,450.00,0,0.00,59598.00
+CONT-1055,BOL-822844,MSC,Shanghai,"Tin Can Island",2026-09-10,2026-09-13,3,AG-04,"Vanguard Port Services","Tier 2",45085.00,9017.00,450.00,0,0.00,54552.00
+CONT-1066,BOL-759802,MSC,"Jebel Ali","Tin Can Island",2026-05-17,2026-06-04,18,AG-04,"Vanguard Port Services","Tier 2",28169.00,5633.80,450.00,11,1320.00,35572.80
+CONT-1073,BOL-228723,MSC,Hamburg,"Tin Can Island",2026-02-16,2026-02-27,11,AG-04,"Vanguard Port Services","Tier 2",46304.00,9260.80,280.00,4,300.00,56144.80
+CONT-1075,BOL-391206,MSC,Shanghai,"Tin Can Island",2026-09-11,2026-10-01,20,AG-04,"Vanguard Port Services","Tier 2",19120.00,3824.00,280.00,13,975.00,24199.00
+CONT-1079,BOL-444454,MSC,Shanghai,"Tin Can Island",2026-01-08,2026-01-15,7,AG-04,"Vanguard Port Services","Tier 2",57311.00,11462.20,450.00,0,0.00,69223.20
+CONT-1080,BOL-818693,Maersk,Antwerp,"Tin Can Island",2026-10-10,2026-10-14,4,AG-04,"Vanguard Port Services","Tier 2",13705.00,2741.00,450.00,0,0.00,16896.00
+CONT-1082,BOL-672204,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-10,2026-06-25,15,AG-04,"Vanguard Port Services","Tier 2",35090.00,7018.00,450.00,8,960.00,43518.00
+CONT-1084,BOL-213867,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-01-19,2026-02-03,15,AG-04,"Vanguard Port Services","Tier 2",36195.00,7239.00,450.00,8,960.00,44844.00
+CONT-1090,BOL-789258,Maersk,Antwerp,"Tin Can Island",2026-06-09,2026-06-16,7,AG-04,"Vanguard Port Services","Tier 2",16863.00,3372.60,450.00,0,0.00,20685.60
+CONT-1105,BOL-164840,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-10,2026-07-19,9,AG-04,"Vanguard Port Services","Tier 2",26199.00,5239.80,280.00,2,150.00,31868.80
+CONT-1107,BOL-157106,MSC,Hamburg,"Tin Can Island",2026-02-28,2026-03-07,7,AG-04,"Vanguard Port Services","Tier 2",24080.00,4816.00,280.00,0,0.00,29176.00
+CONT-1108,BOL-168561,MSC,Hamburg,"Tin Can Island",2026-08-03,2026-08-17,14,AG-04,"Vanguard Port Services","Tier 2",19461.00,3892.20,280.00,7,525.00,24158.20
+CONT-1109,BOL-643549,MSC,Shanghai,"Tin Can Island",2026-06-17,2026-06-22,5,AG-04,"Vanguard Port Services","Tier 2",23341.00,4668.20,450.00,0,0.00,28459.20
+CONT-1115,BOL-454363,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-27,2026-04-16,20,AG-04,"Vanguard Port Services","Tier 2",57852.00,11570.40,280.00,13,975.00,70677.40
+CONT-1116,BOL-508235,Maersk,"Jebel Ali","Tin Can Island",2026-08-13,2026-08-19,6,AG-04,"Vanguard Port Services","Tier 2",17213.00,3442.60,280.00,0,0.00,20935.60
+CONT-1120,BOL-101881,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-10,2026-10-25,15,AG-04,"Vanguard Port Services","Tier 2",64656.00,12931.20,450.00,8,960.00,78997.20
+CONT-1121,BOL-944609,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-01-18,2026-02-05,18,AG-04,"Vanguard Port Services","Tier 2",60202.00,12040.40,280.00,11,825.00,73347.40
+CONT-1125,BOL-397562,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-02-01,2026-02-17,16,AG-04,"Vanguard Port Services","Tier 2",54092.00,10818.40,280.00,9,675.00,65865.40
+CONT-1134,BOL-984435,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-04-20,2026-05-01,11,AG-04,"Vanguard Port Services","Tier 2",48975.00,9795.00,280.00,4,300.00,59350.00
+CONT-1143,BOL-549354,MSC,"Jebel Ali","Tin Can Island",2026-08-08,2026-08-13,5,AG-04,"Vanguard Port Services","Tier 2",17239.00,3447.80,280.00,0,0.00,20966.80
+CONT-1144,BOL-589716,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-27,2026-11-03,7,AG-04,"Vanguard Port Services","Tier 2",30089.00,6017.80,450.00,0,0.00,36556.80
+CONT-1147,BOL-310121,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-12,2026-04-18,6,AG-04,"Vanguard Port Services","Tier 2",26189.00,5237.80,450.00,0,0.00,31876.80
+CONT-1148,BOL-930213,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-07-14,2026-07-31,17,AG-04,"Vanguard Port Services","Tier 2",52373.00,10474.60,280.00,10,750.00,63877.60
+CONT-1150,BOL-467319,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-05,2026-01-23,18,AG-04,"Vanguard Port Services","Tier 2",27706.00,5541.20,280.00,11,825.00,34352.20
+CONT-1155,BOL-237916,MSC,Shanghai,"Tin Can Island",2026-02-05,2026-02-22,17,AG-04,"Vanguard Port Services","Tier 2",37736.00,7547.20,450.00,10,1200.00,46933.20
+CONT-1159,BOL-992485,Maersk,Hamburg,"Tin Can Island",2026-10-19,2026-11-06,18,AG-04,"Vanguard Port Services","Tier 2",20328.00,4065.60,450.00,11,1320.00,26163.60
+CONT-1164,BOL-717686,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-11,2026-06-27,16,AG-04,"Vanguard Port Services","Tier 2",59977.00,11995.40,450.00,9,1080.00,73502.40
+CONT-1165,BOL-249407,Maersk,Hamburg,"Tin Can Island",2026-07-23,2026-08-12,20,AG-04,"Vanguard Port Services","Tier 2",40539.00,8107.80,280.00,13,975.00,49901.80
+CONT-1167,BOL-912151,Maersk,Hamburg,"Tin Can Island",2026-06-05,2026-06-14,9,AG-04,"Vanguard Port Services","Tier 2",23531.00,4706.20,450.00,2,240.00,28927.20
+CONT-1182,BOL-437108,MSC,Shanghai,"Tin Can Island",2026-01-18,2026-02-03,16,AG-04,"Vanguard Port Services","Tier 2",43746.00,8749.20,450.00,9,1080.00,54025.20
+CONT-1192,BOL-740311,Maersk,"Jebel Ali","Tin Can Island",2026-05-12,2026-05-30,18,AG-04,"Vanguard Port Services","Tier 2",15366.00,3073.20,280.00,11,825.00,19544.20
+CONT-1193,BOL-333166,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-07,2026-06-20,13,AG-04,"Vanguard Port Services","Tier 2",26469.00,5293.80,450.00,6,720.00,32932.80
+CONT-1199,BOL-864215,Maersk,"Jebel Ali","Tin Can Island",2026-06-04,2026-06-19,15,AG-04,"Vanguard Port Services","Tier 2",33233.00,6646.60,280.00,8,600.00,40759.60
+CONT-1201,BOL-659528,Maersk,"Jebel Ali","Tin Can Island",2026-02-17,2026-03-01,12,AG-04,"Vanguard Port Services","Tier 2",26467.00,5293.40,450.00,5,600.00,32810.40
+CONT-1204,BOL-947708,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-18,2026-02-02,15,AG-04,"Vanguard Port Services","Tier 2",23454.00,4690.80,450.00,8,960.00,29554.80
+CONT-1209,BOL-914027,MSC,Antwerp,"Tin Can Island",2026-02-19,2026-02-23,4,AG-04,"Vanguard Port Services","Tier 2",22282.00,4456.40,450.00,0,0.00,27188.40
+CONT-1211,BOL-515692,Maersk,Antwerp,"Tin Can Island",2026-06-01,2026-06-11,10,AG-04,"Vanguard Port Services","Tier 2",40636.00,8127.20,280.00,3,225.00,49268.20
+CONT-1212,BOL-954261,Maersk,"Jebel Ali","Tin Can Island",2026-09-09,2026-09-21,12,AG-04,"Vanguard Port Services","Tier 2",64724.00,12944.80,450.00,5,600.00,78718.80
+CONT-1214,BOL-501569,"CMA CGM",Hamburg,"Tin Can Island",2026-06-03,2026-06-15,12,AG-04,"Vanguard Port Services","Tier 2",45457.00,9091.40,450.00,5,600.00,55598.40
+CONT-1215,BOL-997534,"CMA CGM",Hamburg,"Tin Can Island",2026-08-04,2026-08-23,19,AG-04,"Vanguard Port Services","Tier 2",40184.00,8036.80,450.00,12,1440.00,50110.80
+CONT-1216,BOL-432216,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-04-10,2026-04-21,11,AG-04,"Vanguard Port Services","Tier 2",34749.00,6949.80,450.00,4,480.00,42628.80
+CONT-1218,BOL-433342,MSC,"Jebel Ali","Tin Can Island",2026-10-16,2026-10-22,6,AG-04,"Vanguard Port Services","Tier 2",18262.00,3652.40,280.00,0,0.00,22194.40
+CONT-1220,BOL-522694,"CMA CGM",Hamburg,"Tin Can Island",2026-05-18,2026-06-05,18,AG-04,"Vanguard Port Services","Tier 2",49425.00,9885.00,450.00,11,1320.00,61080.00
+CONT-1222,BOL-517259,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-08-01,2026-08-09,8,AG-04,"Vanguard Port Services","Tier 2",34346.00,6869.20,450.00,1,120.00,41785.20
+CONT-1226,BOL-338740,MSC,Shanghai,"Tin Can Island",2026-02-25,2026-03-01,4,AG-04,"Vanguard Port Services","Tier 2",40036.00,8007.20,450.00,0,0.00,48493.20
+CONT-1227,BOL-647281,"CMA CGM",Antwerp,"Tin Can Island",2026-06-02,2026-06-17,15,AG-04,"Vanguard Port Services","Tier 2",24907.00,4981.40,280.00,8,600.00,30768.40
+CONT-1237,BOL-534499,Maersk,"Jebel Ali","Tin Can Island",2026-09-27,2026-10-11,14,AG-04,"Vanguard Port Services","Tier 2",29615.00,5923.00,450.00,7,840.00,36828.00
+CONT-1240,BOL-254573,Maersk,Hamburg,"Tin Can Island",2026-02-13,2026-03-04,19,AG-04,"Vanguard Port Services","Tier 2",36527.00,7305.40,450.00,12,1440.00,45722.40
+CONT-1251,BOL-854144,Maersk,Shanghai,"Tin Can Island",2026-01-01,2026-01-19,18,AG-04,"Vanguard Port Services","Tier 2",33137.00,6627.40,280.00,11,825.00,40869.40
+CONT-1253,BOL-947530,MSC,"Jebel Ali","Tin Can Island",2026-03-05,2026-03-11,6,AG-04,"Vanguard Port Services","Tier 2",35582.00,7116.40,450.00,0,0.00,43148.40
+CONT-1255,BOL-309839,MSC,"Jebel Ali","Tin Can Island",2026-05-18,2026-06-03,16,AG-04,"Vanguard Port Services","Tier 2",47817.00,9563.40,280.00,9,675.00,58335.40
+CONT-1257,BOL-658466,MSC,Hamburg,"Tin Can Island",2026-07-07,2026-07-25,18,AG-04,"Vanguard Port Services","Tier 2",45775.00,9155.00,280.00,11,825.00,56035.00
+CONT-1262,BOL-744355,Maersk,"Jebel Ali","Tin Can Island",2026-05-11,2026-05-31,20,AG-04,"Vanguard Port Services","Tier 2",25321.00,5064.20,280.00,13,975.00,31640.20
+CONT-1266,BOL-347558,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-05,2026-10-24,19,AG-04,"Vanguard Port Services","Tier 2",55054.00,11010.80,450.00,12,1440.00,67954.80
+CONT-1276,BOL-949341,MSC,"Jebel Ali","Tin Can Island",2026-02-09,2026-02-16,7,AG-04,"Vanguard Port Services","Tier 2",42941.00,8588.20,280.00,0,0.00,51809.20
+CONT-1278,BOL-963550,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-14,2026-09-26,12,AG-04,"Vanguard Port Services","Tier 2",43468.00,8693.60,450.00,5,600.00,53211.60
+CONT-1290,BOL-859130,Maersk,Shanghai,"Tin Can Island",2026-02-25,2026-03-02,5,AG-04,"Vanguard Port Services","Tier 2",32911.00,6582.20,450.00,0,0.00,39943.20
+CONT-1291,BOL-192664,MSC,Shanghai,"Tin Can Island",2026-05-21,2026-05-28,7,AG-04,"Vanguard Port Services","Tier 2",48602.00,9720.40,450.00,0,0.00,58772.40
+CONT-1299,BOL-673826,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-14,2026-03-31,17,AG-04,"Vanguard Port Services","Tier 2",40854.00,8170.80,280.00,10,750.00,50054.80
+CONT-1300,BOL-586239,Maersk,"Jebel Ali","Tin Can Island",2026-10-20,2026-11-01,12,AG-04,"Vanguard Port Services","Tier 2",17769.00,3553.80,280.00,5,375.00,21977.80
+CONT-1309,BOL-484290,Maersk,Antwerp,"Tin Can Island",2026-05-10,2026-05-24,14,AG-04,"Vanguard Port Services","Tier 2",50127.00,10025.40,450.00,7,840.00,61442.40
+CONT-1311,BOL-263846,MSC,Shanghai,"Tin Can Island",2026-10-10,2026-10-28,18,AG-04,"Vanguard Port Services","Tier 2",22368.00,4473.60,450.00,11,1320.00,28611.60
+CONT-1316,BOL-591422,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-14,2026-06-28,14,AG-04,"Vanguard Port Services","Tier 2",40387.00,8077.40,280.00,7,525.00,49269.40
+CONT-1319,BOL-614090,MSC,Hamburg,"Tin Can Island",2026-03-03,2026-03-18,15,AG-04,"Vanguard Port Services","Tier 2",59998.00,11999.60,280.00,8,600.00,72877.60
+CONT-1321,BOL-158794,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-09,2026-03-26,17,AG-04,"Vanguard Port Services","Tier 2",41272.00,8254.40,280.00,10,750.00,50556.40
+CONT-1323,BOL-900437,"CMA CGM",Shanghai,"Tin Can Island",2026-04-13,2026-04-24,11,AG-04,"Vanguard Port Services","Tier 2",48194.00,9638.80,450.00,4,480.00,58762.80
+CONT-1334,BOL-764896,MSC,Hamburg,"Tin Can Island",2026-03-16,2026-04-02,17,AG-04,"Vanguard Port Services","Tier 2",22111.00,4422.20,450.00,10,1200.00,28183.20
+CONT-1341,BOL-950125,"CMA CGM",Shanghai,"Tin Can Island",2026-09-17,2026-10-03,16,AG-04,"Vanguard Port Services","Tier 2",27739.00,5547.80,450.00,9,1080.00,34816.80
+CONT-1347,BOL-282282,Maersk,"Jebel Ali","Tin Can Island",2026-10-04,2026-10-07,3,AG-04,"Vanguard Port Services","Tier 2",45173.00,9034.60,450.00,0,0.00,54657.60
+CONT-1348,BOL-962585,"CMA CGM",Shanghai,"Tin Can Island",2026-09-03,2026-09-17,14,AG-04,"Vanguard Port Services","Tier 2",60322.00,12064.40,280.00,7,525.00,73191.40
+CONT-1353,BOL-737699,Maersk,Antwerp,"Tin Can Island",2026-01-25,2026-01-30,5,AG-04,"Vanguard Port Services","Tier 2",38328.00,7665.60,280.00,0,0.00,46273.60
+CONT-1355,BOL-226318,Maersk,Shanghai,"Tin Can Island",2026-03-09,2026-03-28,19,AG-04,"Vanguard Port Services","Tier 2",52165.00,10433.00,450.00,12,1440.00,64488.00
+CONT-1358,BOL-758460,"CMA CGM",Antwerp,"Tin Can Island",2026-10-01,2026-10-05,4,AG-04,"Vanguard Port Services","Tier 2",61948.00,12389.60,450.00,0,0.00,74787.60
+CONT-1369,BOL-799532,"CMA CGM",Antwerp,"Tin Can Island",2026-08-11,2026-08-23,12,AG-04,"Vanguard Port Services","Tier 2",43465.00,8693.00,450.00,5,600.00,53208.00
+CONT-1372,BOL-148756,Maersk,Antwerp,"Tin Can Island",2026-07-17,2026-07-28,11,AG-04,"Vanguard Port Services","Tier 2",13377.00,2675.40,450.00,4,480.00,16982.40
+CONT-1377,BOL-388432,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-04-26,2026-05-04,8,AG-04,"Vanguard Port Services","Tier 2",26343.00,5268.60,450.00,1,120.00,32181.60
+CONT-1381,BOL-778321,Maersk,"Jebel Ali","Tin Can Island",2026-04-07,2026-04-27,20,AG-04,"Vanguard Port Services","Tier 2",46322.00,9264.40,280.00,13,975.00,56841.40
+CONT-1389,BOL-551884,MSC,Hamburg,"Tin Can Island",2026-10-27,2026-11-09,13,AG-04,"Vanguard Port Services","Tier 2",56603.00,11320.60,450.00,6,720.00,69093.60
+CONT-1393,BOL-874925,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-03,2026-02-08,5,AG-04,"Vanguard Port Services","Tier 2",25593.00,5118.60,450.00,0,0.00,31161.60
+CONT-1408,BOL-714811,MSC,Shanghai,"Tin Can Island",2026-03-21,2026-04-09,19,AG-04,"Vanguard Port Services","Tier 2",14749.00,2949.80,450.00,12,1440.00,19588.80
+CONT-1409,BOL-890211,Maersk,Hamburg,"Tin Can Island",2026-08-20,2026-08-31,11,AG-04,"Vanguard Port Services","Tier 2",21719.00,4343.80,280.00,4,300.00,26642.80
+CONT-1413,BOL-195121,MSC,Antwerp,"Tin Can Island",2026-09-25,2026-09-30,5,AG-04,"Vanguard Port Services","Tier 2",26100.00,5220.00,280.00,0,0.00,31600.00
+CONT-1431,BOL-993735,"CMA CGM","Jebel Ali","Tin Can Island",2026-09-19,2026-09-27,8,AG-04,"Vanguard Port Services","Tier 2",46280.00,9256.00,280.00,1,75.00,55891.00
+CONT-1437,BOL-629107,Maersk,"Jebel Ali","Tin Can Island",2026-02-21,2026-03-10,17,AG-04,"Vanguard Port Services","Tier 2",15789.00,3157.80,450.00,10,1200.00,20596.80
+CONT-1438,BOL-308323,"CMA CGM",Hamburg,"Tin Can Island",2026-04-02,2026-04-08,6,AG-04,"Vanguard Port Services","Tier 2",56948.00,11389.60,280.00,0,0.00,68617.60
+CONT-1441,BOL-386986,MSC,Shanghai,"Tin Can Island",2026-01-11,2026-01-17,6,AG-04,"Vanguard Port Services","Tier 2",23002.00,4600.40,450.00,0,0.00,28052.40
+CONT-1443,BOL-612346,Maersk,"Jebel Ali","Tin Can Island",2026-10-15,2026-11-01,17,AG-04,"Vanguard Port Services","Tier 2",46854.00,9370.80,280.00,10,750.00,57254.80
+CONT-1446,BOL-479984,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-14,2026-07-26,12,AG-04,"Vanguard Port Services","Tier 2",59109.00,11821.80,450.00,5,600.00,71980.80
+CONT-1451,BOL-431656,"CMA CGM",Hamburg,"Tin Can Island",2026-08-26,2026-08-30,4,AG-04,"Vanguard Port Services","Tier 2",32463.00,6492.60,280.00,0,0.00,39235.60
+CONT-1452,BOL-392248,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-19,2026-06-28,9,AG-04,"Vanguard Port Services","Tier 2",27661.00,5532.20,450.00,2,240.00,33883.20
+CONT-1463,BOL-357374,MSC,Antwerp,"Tin Can Island",2026-04-24,2026-05-04,10,AG-04,"Vanguard Port Services","Tier 2",49515.00,9903.00,280.00,3,225.00,59923.00
+CONT-1469,BOL-326776,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-22,2026-07-01,9,AG-04,"Vanguard Port Services","Tier 2",27148.00,5429.60,450.00,2,240.00,33267.60
+CONT-1470,BOL-351200,Maersk,Antwerp,"Tin Can Island",2026-01-01,2026-01-19,18,AG-04,"Vanguard Port Services","Tier 2",54233.00,10846.60,450.00,11,1320.00,66849.60
+CONT-1474,BOL-708432,"CMA CGM",Antwerp,"Tin Can Island",2026-03-28,2026-04-14,17,AG-04,"Vanguard Port Services","Tier 2",42525.00,8505.00,450.00,10,1200.00,52680.00
+CONT-1477,BOL-413442,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-07-16,2026-07-22,6,AG-04,"Vanguard Port Services","Tier 2",13936.00,2787.20,450.00,0,0.00,17173.20
+CONT-1481,BOL-267122,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-12,2026-03-16,4,AG-04,"Vanguard Port Services","Tier 2",45673.00,9134.60,450.00,0,0.00,55257.60
+CONT-1482,BOL-890145,MSC,Hamburg,"Tin Can Island",2026-02-11,2026-02-27,16,AG-04,"Vanguard Port Services","Tier 2",46509.00,9301.80,450.00,9,1080.00,57340.80
+CONT-1487,BOL-826435,Maersk,Shanghai,"Tin Can Island",2026-04-28,2026-05-08,10,AG-04,"Vanguard Port Services","Tier 2",20012.00,4002.40,450.00,3,360.00,24824.40
+CONT-1492,BOL-191244,MSC,Hamburg,"Tin Can Island",2026-06-22,2026-07-06,14,AG-04,"Vanguard Port Services","Tier 2",13336.00,2667.20,280.00,7,525.00,16808.20
+CONT-1493,BOL-445993,MSC,Shanghai,"Tin Can Island",2026-05-01,2026-05-04,3,AG-04,"Vanguard Port Services","Tier 2",24170.00,4834.00,280.00,0,0.00,29284.00
+CONT-1497,BOL-826717,MSC,Hamburg,"Tin Can Island",2026-10-18,2026-11-06,19,AG-04,"Vanguard Port Services","Tier 2",62453.00,12490.60,450.00,12,1440.00,76833.60
+CONT-1502,BOL-619212,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-03,2026-01-18,15,AG-04,"Vanguard Port Services","Tier 2",59939.00,11987.80,280.00,8,600.00,72806.80
+CONT-1503,BOL-958161,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-05,2026-01-17,12,AG-04,"Vanguard Port Services","Tier 2",35171.00,7034.20,450.00,5,600.00,43255.20
+CONT-1521,BOL-274038,MSC,Hamburg,"Tin Can Island",2026-02-28,2026-03-05,5,AG-04,"Vanguard Port Services","Tier 2",54281.00,10856.20,450.00,0,0.00,65587.20
+CONT-1534,BOL-992088,MSC,Antwerp,"Tin Can Island",2026-07-10,2026-07-13,3,AG-04,"Vanguard Port Services","Tier 2",53454.00,10690.80,450.00,0,0.00,64594.80
+CONT-1536,BOL-296133,MSC,Antwerp,"Tin Can Island",2026-09-04,2026-09-08,4,AG-04,"Vanguard Port Services","Tier 2",25851.00,5170.20,450.00,0,0.00,31471.20
+CONT-1537,BOL-460371,MSC,Hamburg,"Tin Can Island",2026-09-13,2026-09-21,8,AG-04,"Vanguard Port Services","Tier 2",50574.00,10114.80,450.00,1,120.00,61258.80
+CONT-1553,BOL-626032,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-05-11,2026-05-30,19,AG-04,"Vanguard Port Services","Tier 2",64077.00,12815.40,450.00,12,1440.00,78782.40
+CONT-1561,BOL-483012,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-19,2026-07-04,15,AG-04,"Vanguard Port Services","Tier 2",63740.00,12748.00,280.00,8,600.00,77368.00
+CONT-1565,BOL-288999,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-17,2026-07-01,14,AG-04,"Vanguard Port Services","Tier 2",37384.00,7476.80,450.00,7,840.00,46150.80
+CONT-1571,BOL-897189,"CMA CGM",Antwerp,"Tin Can Island",2026-09-03,2026-09-23,20,AG-04,"Vanguard Port Services","Tier 2",52939.00,10587.80,450.00,13,1560.00,65536.80
+CONT-1572,BOL-577852,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-01-24,2026-02-02,9,AG-04,"Vanguard Port Services","Tier 2",23702.00,4740.40,450.00,2,240.00,29132.40
+CONT-1582,BOL-477375,MSC,"Jebel Ali","Tin Can Island",2026-03-04,2026-03-16,12,AG-04,"Vanguard Port Services","Tier 2",45292.00,9058.40,450.00,5,600.00,55400.40
+CONT-1583,BOL-816502,"CMA CGM",Shanghai,"Tin Can Island",2026-06-23,2026-07-05,12,AG-04,"Vanguard Port Services","Tier 2",29111.00,5822.20,280.00,5,375.00,35588.20
+CONT-1591,BOL-113472,Maersk,Shanghai,"Tin Can Island",2026-09-18,2026-09-28,10,AG-04,"Vanguard Port Services","Tier 2",36243.00,7248.60,280.00,3,225.00,43996.60
+CONT-1592,BOL-485758,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-14,2026-10-03,19,AG-04,"Vanguard Port Services","Tier 2",21364.00,4272.80,280.00,12,900.00,26816.80
+CONT-1594,BOL-308950,MSC,Shanghai,"Tin Can Island",2026-07-15,2026-07-24,9,AG-04,"Vanguard Port Services","Tier 2",22505.00,4501.00,450.00,2,240.00,27696.00
+CONT-1596,BOL-141377,Maersk,"Jebel Ali","Tin Can Island",2026-10-02,2026-10-18,16,AG-04,"Vanguard Port Services","Tier 2",53804.00,10760.80,450.00,9,1080.00,66094.80
+CONT-1597,BOL-703982,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-06,2026-03-15,9,AG-04,"Vanguard Port Services","Tier 2",52948.00,10589.60,450.00,2,240.00,64227.60
+CONT-1599,BOL-383656,"CMA CGM",Hamburg,"Tin Can Island",2026-08-18,2026-09-06,19,AG-04,"Vanguard Port Services","Tier 2",45737.00,9147.40,280.00,12,900.00,56064.40
+CONT-1607,BOL-846744,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-22,2026-02-02,11,AG-04,"Vanguard Port Services","Tier 2",32607.00,6521.40,450.00,4,480.00,40058.40
+CONT-1611,BOL-866333,MSC,"Jebel Ali","Tin Can Island",2026-03-27,2026-04-05,9,AG-04,"Vanguard Port Services","Tier 2",45616.00,9123.20,280.00,2,150.00,55169.20
+CONT-1615,BOL-190280,MSC,Shanghai,"Tin Can Island",2026-01-14,2026-01-31,17,AG-04,"Vanguard Port Services","Tier 2",52351.00,10470.20,280.00,10,750.00,63851.20
+CONT-1619,BOL-504175,MSC,"Jebel Ali","Tin Can Island",2026-09-18,2026-09-26,8,AG-04,"Vanguard Port Services","Tier 2",24973.00,4994.60,450.00,1,120.00,30537.60
+CONT-1627,BOL-310373,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-01-18,2026-01-27,9,AG-04,"Vanguard Port Services","Tier 2",58996.00,11799.20,450.00,2,240.00,71485.20
+CONT-1632,BOL-101771,MSC,"Jebel Ali","Tin Can Island",2026-03-18,2026-03-30,12,AG-04,"Vanguard Port Services","Tier 2",34798.00,6959.60,450.00,5,600.00,42807.60
+CONT-1634,BOL-466136,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-21,2026-05-10,19,AG-04,"Vanguard Port Services","Tier 2",18025.00,3605.00,450.00,12,1440.00,23520.00
+CONT-1636,BOL-343128,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-08-15,2026-09-04,20,AG-04,"Vanguard Port Services","Tier 2",21232.00,4246.40,280.00,13,975.00,26733.40
+CONT-1640,BOL-554539,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-26,2026-08-15,20,AG-04,"Vanguard Port Services","Tier 2",33451.00,6690.20,280.00,13,975.00,41396.20
+CONT-1642,BOL-406065,MSC,Antwerp,"Tin Can Island",2026-07-02,2026-07-19,17,AG-04,"Vanguard Port Services","Tier 2",49113.00,9822.60,280.00,10,750.00,59965.60
+CONT-1656,BOL-808319,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-19,2026-04-02,14,AG-04,"Vanguard Port Services","Tier 2",47385.00,9477.00,280.00,7,525.00,57667.00
+CONT-1662,BOL-904970,Maersk,Hamburg,"Tin Can Island",2026-03-06,2026-03-10,4,AG-04,"Vanguard Port Services","Tier 2",45767.00,9153.40,280.00,0,0.00,55200.40
+CONT-1663,BOL-865924,Maersk,Hamburg,"Tin Can Island",2026-09-13,2026-09-21,8,AG-04,"Vanguard Port Services","Tier 2",60071.00,12014.20,450.00,1,120.00,72655.20
+CONT-1665,BOL-439809,Maersk,Antwerp,"Tin Can Island",2026-08-22,2026-09-02,11,AG-04,"Vanguard Port Services","Tier 2",27538.00,5507.60,450.00,4,480.00,33975.60
+CONT-1674,BOL-411884,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-05,2026-02-08,3,AG-04,"Vanguard Port Services","Tier 2",49980.00,9996.00,450.00,0,0.00,60426.00
+CONT-1675,BOL-162427,MSC,Shanghai,"Tin Can Island",2026-06-13,2026-06-24,11,AG-04,"Vanguard Port Services","Tier 2",30475.00,6095.00,450.00,4,480.00,37500.00
+CONT-1680,BOL-529468,Maersk,Shanghai,"Tin Can Island",2026-08-22,2026-09-01,10,AG-04,"Vanguard Port Services","Tier 2",47385.00,9477.00,280.00,3,225.00,57367.00
+CONT-1683,BOL-333334,MSC,"Jebel Ali","Tin Can Island",2026-05-02,2026-05-05,3,AG-04,"Vanguard Port Services","Tier 2",15645.00,3129.00,450.00,0,0.00,19224.00
+CONT-1685,BOL-800168,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-03,2026-02-15,12,AG-04,"Vanguard Port Services","Tier 2",46993.00,9398.60,450.00,5,600.00,57441.60
+CONT-1691,BOL-682116,Maersk,Hamburg,"Tin Can Island",2026-02-17,2026-03-01,12,AG-04,"Vanguard Port Services","Tier 2",36283.00,7256.60,450.00,5,600.00,44589.60
+CONT-1692,BOL-246985,"CMA CGM",Antwerp,"Tin Can Island",2026-02-14,2026-02-21,7,AG-04,"Vanguard Port Services","Tier 2",61321.00,12264.20,450.00,0,0.00,74035.20
+CONT-1696,BOL-426968,Maersk,Hamburg,"Tin Can Island",2026-05-14,2026-05-18,4,AG-04,"Vanguard Port Services","Tier 2",30728.00,6145.60,450.00,0,0.00,37323.60
+CONT-1701,BOL-346793,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-02-20,2026-03-06,14,AG-04,"Vanguard Port Services","Tier 2",26954.00,5390.80,450.00,7,840.00,33634.80
+CONT-1708,BOL-319512,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-25,2026-11-11,17,AG-04,"Vanguard Port Services","Tier 2",22113.00,4422.60,280.00,10,750.00,27565.60
+CONT-1718,BOL-725024,Maersk,Shanghai,"Tin Can Island",2026-09-16,2026-09-27,11,AG-04,"Vanguard Port Services","Tier 2",44563.00,8912.60,450.00,4,480.00,54405.60
+CONT-1719,BOL-981956,Maersk,Hamburg,"Tin Can Island",2026-10-22,2026-11-02,11,AG-04,"Vanguard Port Services","Tier 2",36885.00,7377.00,450.00,4,480.00,45192.00
+CONT-1729,BOL-173275,"CMA CGM",Hamburg,"Tin Can Island",2026-02-03,2026-02-07,4,AG-04,"Vanguard Port Services","Tier 2",34596.00,6919.20,450.00,0,0.00,41965.20
+CONT-1734,BOL-310232,"CMA CGM",Antwerp,"Tin Can Island",2026-02-21,2026-02-26,5,AG-04,"Vanguard Port Services","Tier 2",27413.00,5482.60,280.00,0,0.00,33175.60
+CONT-1746,BOL-791075,MSC,Hamburg,"Tin Can Island",2026-10-19,2026-11-03,15,AG-04,"Vanguard Port Services","Tier 2",64026.00,12805.20,280.00,8,600.00,77711.20
+CONT-1747,BOL-640362,MSC,Hamburg,"Tin Can Island",2026-10-28,2026-11-11,14,AG-04,"Vanguard Port Services","Tier 2",43086.00,8617.20,450.00,7,840.00,52993.20
+CONT-1748,BOL-930033,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-24,2026-11-08,15,AG-04,"Vanguard Port Services","Tier 2",56841.00,11368.20,280.00,8,600.00,69089.20
+CONT-1760,BOL-875424,MSC,Hamburg,"Tin Can Island",2026-08-17,2026-08-29,12,AG-04,"Vanguard Port Services","Tier 2",13539.00,2707.80,450.00,5,600.00,17296.80
+CONT-1762,BOL-557221,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-09-21,2026-10-03,12,AG-04,"Vanguard Port Services","Tier 2",26834.00,5366.80,450.00,5,600.00,33250.80
+CONT-1765,BOL-728972,MSC,"Jebel Ali","Tin Can Island",2026-04-24,2026-04-29,5,AG-04,"Vanguard Port Services","Tier 2",31137.00,6227.40,450.00,0,0.00,37814.40
+CONT-1769,BOL-487123,MSC,Shanghai,"Tin Can Island",2026-04-15,2026-05-04,19,AG-04,"Vanguard Port Services","Tier 2",41552.00,8310.40,450.00,12,1440.00,51752.40
+CONT-1771,BOL-258237,MSC,Hamburg,"Tin Can Island",2026-08-15,2026-08-28,13,AG-04,"Vanguard Port Services","Tier 2",14745.00,2949.00,280.00,6,450.00,18424.00
+CONT-1778,BOL-103782,MSC,Antwerp,"Tin Can Island",2026-05-10,2026-05-25,15,AG-04,"Vanguard Port Services","Tier 2",59207.00,11841.40,450.00,8,960.00,72458.40
+CONT-1779,BOL-221337,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-12,2026-04-22,10,AG-04,"Vanguard Port Services","Tier 2",22439.00,4487.80,450.00,3,360.00,27736.80
+CONT-1782,BOL-237852,"CMA CGM",Hamburg,"Tin Can Island",2026-06-14,2026-06-19,5,AG-04,"Vanguard Port Services","Tier 2",50644.00,10128.80,280.00,0,0.00,61052.80
+CONT-1786,BOL-385545,"CMA CGM",Antwerp,"Tin Can Island",2026-09-03,2026-09-18,15,AG-04,"Vanguard Port Services","Tier 2",24380.00,4876.00,450.00,8,960.00,30666.00
+CONT-1788,BOL-303708,Maersk,Hamburg,"Tin Can Island",2026-07-06,2026-07-13,7,AG-04,"Vanguard Port Services","Tier 2",42903.00,8580.60,450.00,0,0.00,51933.60
+CONT-1799,BOL-309372,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-14,2026-06-20,6,AG-04,"Vanguard Port Services","Tier 2",47554.00,9510.80,280.00,0,0.00,57344.80
+CONT-1800,BOL-309031,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-10-08,2026-10-19,11,AG-04,"Vanguard Port Services","Tier 2",32500.00,6500.00,450.00,4,480.00,39930.00
+CONT-1805,BOL-394184,Maersk,Antwerp,"Tin Can Island",2026-08-10,2026-08-18,8,AG-04,"Vanguard Port Services","Tier 2",60484.00,12096.80,280.00,1,75.00,72935.80
+CONT-1823,BOL-878709,Maersk,Antwerp,"Tin Can Island",2026-01-04,2026-01-21,17,AG-04,"Vanguard Port Services","Tier 2",35219.00,7043.80,280.00,10,750.00,43292.80
+CONT-1824,BOL-617504,Maersk,"Jebel Ali","Tin Can Island",2026-10-08,2026-10-27,19,AG-04,"Vanguard Port Services","Tier 2",52216.00,10443.20,450.00,12,1440.00,64549.20
+CONT-1825,BOL-211619,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-07,2026-08-11,4,AG-04,"Vanguard Port Services","Tier 2",19163.00,3832.60,450.00,0,0.00,23445.60
+CONT-1826,BOL-490682,MSC,"Jebel Ali","Tin Can Island",2026-05-01,2026-05-06,5,AG-04,"Vanguard Port Services","Tier 2",53154.00,10630.80,450.00,0,0.00,64234.80
+CONT-1832,BOL-399503,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-04-04,2026-04-24,20,AG-04,"Vanguard Port Services","Tier 2",60427.00,12085.40,450.00,13,1560.00,74522.40
+CONT-1838,BOL-715210,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-07-21,2026-07-25,4,AG-04,"Vanguard Port Services","Tier 2",48803.00,9760.60,280.00,0,0.00,58843.60
+CONT-1839,BOL-122880,"CMA CGM",Hamburg,"Tin Can Island",2026-03-01,2026-03-07,6,AG-04,"Vanguard Port Services","Tier 2",47424.00,9484.80,280.00,0,0.00,57188.80
+CONT-1841,BOL-734618,Maersk,Antwerp,"Tin Can Island",2026-10-21,2026-11-08,18,AG-04,"Vanguard Port Services","Tier 2",55687.00,11137.40,450.00,11,1320.00,68594.40
+CONT-1844,BOL-735605,MSC,Hamburg,"Tin Can Island",2026-08-10,2026-08-22,12,AG-04,"Vanguard Port Services","Tier 2",43138.00,8627.60,450.00,5,600.00,52815.60
+CONT-1846,BOL-934930,MSC,Shanghai,"Tin Can Island",2026-03-12,2026-03-25,13,AG-04,"Vanguard Port Services","Tier 2",16514.00,3302.80,450.00,6,720.00,20986.80
+CONT-1847,BOL-925598,MSC,Hamburg,"Tin Can Island",2026-09-05,2026-09-17,12,AG-04,"Vanguard Port Services","Tier 2",55821.00,11164.20,280.00,5,375.00,67640.20
+CONT-1878,BOL-199543,Maersk,"Jebel Ali","Tin Can Island",2026-08-02,2026-08-06,4,AG-04,"Vanguard Port Services","Tier 2",27668.00,5533.60,280.00,0,0.00,33481.60
+CONT-1879,BOL-994643,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-28,2026-07-04,6,AG-04,"Vanguard Port Services","Tier 2",45582.00,9116.40,450.00,0,0.00,55148.40
+CONT-1880,BOL-322281,Maersk,Hamburg,"Tin Can Island",2026-07-10,2026-07-20,10,AG-04,"Vanguard Port Services","Tier 2",51305.00,10261.00,450.00,3,360.00,62376.00
+CONT-1884,BOL-554354,"CMA CGM",Hamburg,"Tin Can Island",2026-07-03,2026-07-21,18,AG-04,"Vanguard Port Services","Tier 2",30228.00,6045.60,280.00,11,825.00,37378.60
+CONT-1890,BOL-467699,MSC,"Jebel Ali","Tin Can Island",2026-01-09,2026-01-17,8,AG-04,"Vanguard Port Services","Tier 2",18182.00,3636.40,450.00,1,120.00,22388.40
+CONT-1900,BOL-790510,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-04-07,2026-04-17,10,AG-04,"Vanguard Port Services","Tier 2",40532.00,8106.40,280.00,3,225.00,49143.40
+CONT-1904,BOL-986904,Maersk,Hamburg,"Tin Can Island",2026-07-12,2026-07-17,5,AG-04,"Vanguard Port Services","Tier 2",26237.00,5247.40,450.00,0,0.00,31934.40
+CONT-1912,BOL-673967,"CMA CGM",Hamburg,"Tin Can Island",2026-10-23,2026-11-01,9,AG-04,"Vanguard Port Services","Tier 2",17682.00,3536.40,280.00,2,150.00,21648.40
+CONT-1921,BOL-276823,"CMA CGM",Hamburg,"Tin Can Island",2026-03-24,2026-03-28,4,AG-04,"Vanguard Port Services","Tier 2",16875.00,3375.00,450.00,0,0.00,20700.00
+CONT-1922,BOL-779168,"CMA CGM",Antwerp,"Tin Can Island",2026-02-26,2026-03-03,5,AG-04,"Vanguard Port Services","Tier 2",16437.00,3287.40,450.00,0,0.00,20174.40
+CONT-1927,BOL-763797,"CMA CGM",Hamburg,"Tin Can Island",2026-05-24,2026-06-01,8,AG-04,"Vanguard Port Services","Tier 2",53026.00,10605.20,450.00,1,120.00,64201.20
+CONT-1934,BOL-836338,MSC,Hamburg,"Tin Can Island",2026-08-08,2026-08-19,11,AG-04,"Vanguard Port Services","Tier 2",51324.00,10264.80,280.00,4,300.00,62168.80
+CONT-1938,BOL-390312,Maersk,"Jebel Ali","Tin Can Island",2026-07-03,2026-07-16,13,AG-04,"Vanguard Port Services","Tier 2",30322.00,6064.40,450.00,6,720.00,37556.40
+CONT-1945,BOL-852836,Maersk,Hamburg,"Tin Can Island",2026-05-15,2026-05-25,10,AG-04,"Vanguard Port Services","Tier 2",22153.00,4430.60,450.00,3,360.00,27393.60
+CONT-1955,BOL-600588,"CMA CGM",Antwerp,"Tin Can Island",2026-08-08,2026-08-19,11,AG-04,"Vanguard Port Services","Tier 2",61138.00,12227.60,450.00,4,480.00,74295.60
+CONT-1956,BOL-672586,Maersk,Shanghai,"Tin Can Island",2026-03-22,2026-04-09,18,AG-04,"Vanguard Port Services","Tier 2",63698.00,12739.60,450.00,11,1320.00,78207.60
+CONT-1960,BOL-962680,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-05-07,2026-05-21,14,AG-04,"Vanguard Port Services","Tier 2",18365.00,3673.00,450.00,7,840.00,23328.00
+CONT-1961,BOL-855127,"CMA CGM",Hamburg,"Tin Can Island",2026-07-21,2026-08-01,11,AG-04,"Vanguard Port Services","Tier 2",32611.00,6522.20,280.00,4,300.00,39713.20
+CONT-1963,BOL-911988,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-03-13,2026-03-20,7,AG-04,"Vanguard Port Services","Tier 2",15747.00,3149.40,450.00,0,0.00,19346.40
+CONT-1966,BOL-810251,Maersk,Shanghai,"Tin Can Island",2026-07-21,2026-08-01,11,AG-04,"Vanguard Port Services","Tier 2",39471.00,7894.20,450.00,4,480.00,48295.20
+CONT-1968,BOL-322298,"CMA CGM",Shanghai,"Tin Can Island",2026-03-27,2026-04-02,6,AG-04,"Vanguard Port Services","Tier 2",62911.00,12582.20,450.00,0,0.00,75943.20
+CONT-1973,BOL-225695,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-02,2026-06-10,8,AG-04,"Vanguard Port Services","Tier 2",27413.00,5482.60,280.00,1,75.00,33250.60
+CONT-1975,BOL-940676,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-01-19,2026-01-22,3,AG-04,"Vanguard Port Services","Tier 2",57318.00,11463.60,450.00,0,0.00,69231.60
+CONT-1976,BOL-753420,MSC,Shanghai,"Tin Can Island",2026-07-23,2026-07-27,4,AG-04,"Vanguard Port Services","Tier 2",64685.00,12937.00,450.00,0,0.00,78072.00
+CONT-1981,BOL-212878,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-23,2026-04-02,10,AG-04,"Vanguard Port Services","Tier 2",53362.00,10672.40,450.00,3,360.00,64844.40
+CONT-1984,BOL-632573,Maersk,Shanghai,"Tin Can Island",2026-06-04,2026-06-08,4,AG-04,"Vanguard Port Services","Tier 2",31242.00,6248.40,280.00,0,0.00,37770.40
+CONT-1985,BOL-340627,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-28,2026-08-02,5,AG-04,"Vanguard Port Services","Tier 2",18062.00,3612.40,280.00,0,0.00,21954.40
+CONT-1987,BOL-344744,"CMA CGM",Shanghai,"Tin Can Island",2026-01-11,2026-01-16,5,AG-04,"Vanguard Port Services","Tier 2",15704.00,3140.80,450.00,0,0.00,19294.80
+CONT-1997,BOL-129809,MSC,Antwerp,"Tin Can Island",2026-10-23,2026-11-07,15,AG-04,"Vanguard Port Services","Tier 2",36694.00,7338.80,450.00,8,960.00,45442.80
+CONT-1999,BOL-392490,MSC,Hamburg,"Tin Can Island",2026-06-22,2026-07-04,12,AG-04,"Vanguard Port Services","Tier 2",38570.00,7714.00,280.00,5,375.00,46939.00
+CONT-1003,BOL-791549,Maersk,"Jebel Ali","Tin Can Island",2026-02-10,2026-02-27,17,AG-05,"SwiftCargo Handlers","Tier 3",63257.00,12651.40,450.00,10,1200.00,77558.40
+CONT-1007,BOL-299679,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-03-22,2026-03-31,9,AG-05,"SwiftCargo Handlers","Tier 3",16942.00,3388.40,450.00,2,240.00,21020.40
+CONT-1008,BOL-996461,Maersk,Antwerp,"Tin Can Island",2026-10-22,2026-10-27,5,AG-05,"SwiftCargo Handlers","Tier 3",57733.00,11546.60,450.00,0,0.00,69729.60
+CONT-1011,BOL-270014,MSC,Shanghai,"Tin Can Island",2026-08-10,2026-08-13,3,AG-05,"SwiftCargo Handlers","Tier 3",52090.00,10418.00,280.00,0,0.00,62788.00
+CONT-1012,BOL-786280,MSC,Antwerp,"Tin Can Island",2026-07-14,2026-07-23,9,AG-05,"SwiftCargo Handlers","Tier 3",50801.00,10160.20,450.00,2,240.00,61651.20
+CONT-1017,BOL-760846,Maersk,Shanghai,"Tin Can Island",2026-02-14,2026-02-19,5,AG-05,"SwiftCargo Handlers","Tier 3",54009.00,10801.80,280.00,0,0.00,65090.80
+CONT-1020,BOL-998033,Maersk,"Jebel Ali","Tin Can Island",2026-01-23,2026-02-10,18,AG-05,"SwiftCargo Handlers","Tier 3",57473.00,11494.60,280.00,11,825.00,70072.60
+CONT-1027,BOL-764742,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-05-15,2026-06-02,18,AG-05,"SwiftCargo Handlers","Tier 3",39924.00,7984.80,450.00,11,1320.00,49678.80
+CONT-1030,BOL-842415,"CMA CGM",Antwerp,"Tin Can Island",2026-08-03,2026-08-22,19,AG-05,"SwiftCargo Handlers","Tier 3",23588.00,4717.60,450.00,12,1440.00,30195.60
+CONT-1042,BOL-184766,"CMA CGM",Hamburg,"Tin Can Island",2026-07-28,2026-08-05,8,AG-05,"SwiftCargo Handlers","Tier 3",30278.00,6055.60,280.00,1,75.00,36688.60
+CONT-1047,BOL-768470,"CMA CGM",Antwerp,"Tin Can Island",2026-06-19,2026-06-26,7,AG-05,"SwiftCargo Handlers","Tier 3",62666.00,12533.20,280.00,0,0.00,75479.20
+CONT-1051,BOL-954920,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-12,2026-09-19,7,AG-05,"SwiftCargo Handlers","Tier 3",17113.00,3422.60,280.00,0,0.00,20815.60
+CONT-1056,BOL-819443,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-07-18,2026-07-30,12,AG-05,"SwiftCargo Handlers","Tier 3",35965.00,7193.00,280.00,5,375.00,43813.00
+CONT-1061,BOL-191789,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-14,2026-10-23,9,AG-05,"SwiftCargo Handlers","Tier 3",62240.00,12448.00,450.00,2,240.00,75378.00
+CONT-1064,BOL-183497,MSC,Antwerp,"Tin Can Island",2026-02-08,2026-02-18,10,AG-05,"SwiftCargo Handlers","Tier 3",29087.00,5817.40,280.00,3,225.00,35409.40
+CONT-1067,BOL-962462,Maersk,Shanghai,"Tin Can Island",2026-09-11,2026-09-21,10,AG-05,"SwiftCargo Handlers","Tier 3",35066.00,7013.20,280.00,3,225.00,42584.20
+CONT-1070,BOL-422883,"CMA CGM",Antwerp,"Tin Can Island",2026-08-25,2026-09-06,12,AG-05,"SwiftCargo Handlers","Tier 3",32353.00,6470.60,280.00,5,375.00,39478.60
+CONT-1072,BOL-641254,MSC,Antwerp,"Tin Can Island",2026-02-27,2026-03-15,16,AG-05,"SwiftCargo Handlers","Tier 3",57279.00,11455.80,450.00,9,1080.00,70264.80
+CONT-1083,BOL-889807,"CMA CGM",Antwerp,"Tin Can Island",2026-02-17,2026-03-02,13,AG-05,"SwiftCargo Handlers","Tier 3",36138.00,7227.60,280.00,6,450.00,44095.60
+CONT-1085,BOL-460250,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-23,2026-06-12,20,AG-05,"SwiftCargo Handlers","Tier 3",32900.00,6580.00,280.00,13,975.00,40735.00
+CONT-1086,BOL-494988,Maersk,Antwerp,"Tin Can Island",2026-03-08,2026-03-28,20,AG-05,"SwiftCargo Handlers","Tier 3",32242.00,6448.40,450.00,13,1560.00,40700.40
+CONT-1093,BOL-680817,"CMA CGM",Antwerp,"Tin Can Island",2026-08-28,2026-09-07,10,AG-05,"SwiftCargo Handlers","Tier 3",17842.00,3568.40,280.00,3,225.00,21915.40
+CONT-1096,BOL-342311,MSC,"Jebel Ali","Tin Can Island",2026-08-14,2026-08-30,16,AG-05,"SwiftCargo Handlers","Tier 3",54958.00,10991.60,280.00,9,675.00,66904.60
+CONT-1098,BOL-717280,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-05-08,2026-05-23,15,AG-05,"SwiftCargo Handlers","Tier 3",25041.00,5008.20,280.00,8,600.00,30929.20
+CONT-1124,BOL-502195,"CMA CGM","Jebel Ali","Tin Can Island",2026-10-23,2026-10-28,5,AG-05,"SwiftCargo Handlers","Tier 3",55155.00,11031.00,280.00,0,0.00,66466.00
+CONT-1128,BOL-754243,"CMA CGM",Antwerp,"Tin Can Island",2026-04-08,2026-04-17,9,AG-05,"SwiftCargo Handlers","Tier 3",44547.00,8909.40,280.00,2,150.00,53886.40
+CONT-1129,BOL-120683,MSC,Shanghai,"Tin Can Island",2026-03-20,2026-04-06,17,AG-05,"SwiftCargo Handlers","Tier 3",32547.00,6509.40,450.00,10,1200.00,40706.40
+CONT-1137,BOL-697411,MSC,Shanghai,"Tin Can Island",2026-03-08,2026-03-17,9,AG-05,"SwiftCargo Handlers","Tier 3",60090.00,12018.00,450.00,2,240.00,72798.00
+CONT-1140,BOL-735436,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-11,2026-03-22,11,AG-05,"SwiftCargo Handlers","Tier 3",30369.00,6073.80,280.00,4,300.00,37022.80
+CONT-1146,BOL-537662,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-07-18,2026-08-06,19,AG-05,"SwiftCargo Handlers","Tier 3",47469.00,9493.80,280.00,12,900.00,58142.80
+CONT-1152,BOL-142382,Maersk,"Jebel Ali","Tin Can Island",2026-03-27,2026-04-11,15,AG-05,"SwiftCargo Handlers","Tier 3",28060.00,5612.00,280.00,8,600.00,34552.00
+CONT-1153,BOL-479371,"CMA CGM",Shanghai,"Tin Can Island",2026-04-20,2026-04-25,5,AG-05,"SwiftCargo Handlers","Tier 3",24172.00,4834.40,280.00,0,0.00,29286.40
+CONT-1157,BOL-333551,"CMA CGM",Hamburg,"Tin Can Island",2026-10-10,2026-10-29,19,AG-05,"SwiftCargo Handlers","Tier 3",29864.00,5972.80,280.00,12,900.00,37016.80
+CONT-1158,BOL-829637,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-17,2026-10-07,20,AG-05,"SwiftCargo Handlers","Tier 3",36091.00,7218.20,450.00,13,1560.00,45319.20
+CONT-1169,BOL-506929,MSC,Shanghai,"Tin Can Island",2026-05-27,2026-06-09,13,AG-05,"SwiftCargo Handlers","Tier 3",57113.00,11422.60,280.00,6,450.00,69265.60
+CONT-1171,BOL-821456,"CMA CGM",Antwerp,"Tin Can Island",2026-03-03,2026-03-15,12,AG-05,"SwiftCargo Handlers","Tier 3",50254.00,10050.80,450.00,5,600.00,61354.80
+CONT-1178,BOL-916245,Maersk,Hamburg,"Tin Can Island",2026-06-23,2026-07-12,19,AG-05,"SwiftCargo Handlers","Tier 3",47755.00,9551.00,450.00,12,1440.00,59196.00
+CONT-1180,BOL-719180,Maersk,"Jebel Ali","Tin Can Island",2026-03-19,2026-04-06,18,AG-05,"SwiftCargo Handlers","Tier 3",57419.00,11483.80,280.00,11,825.00,70007.80
+CONT-1186,BOL-664778,Maersk,Hamburg,"Tin Can Island",2026-09-26,2026-09-30,4,AG-05,"SwiftCargo Handlers","Tier 3",20092.00,4018.40,450.00,0,0.00,24560.40
+CONT-1188,BOL-661929,MSC,"Jebel Ali","Tin Can Island",2026-02-25,2026-03-14,17,AG-05,"SwiftCargo Handlers","Tier 3",49238.00,9847.60,280.00,10,750.00,60115.60
+CONT-1189,BOL-929214,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-06,2026-01-22,16,AG-05,"SwiftCargo Handlers","Tier 3",27884.00,5576.80,450.00,9,1080.00,34990.80
+CONT-1194,BOL-511109,"CMA CGM",Antwerp,"Tin Can Island",2026-02-09,2026-02-27,18,AG-05,"SwiftCargo Handlers","Tier 3",23749.00,4749.80,450.00,11,1320.00,30268.80
+CONT-1198,BOL-723682,Maersk,Hamburg,"Tin Can Island",2026-10-18,2026-10-21,3,AG-05,"SwiftCargo Handlers","Tier 3",50363.00,10072.60,450.00,0,0.00,60885.60
+CONT-1213,BOL-421940,MSC,Shanghai,"Tin Can Island",2026-10-03,2026-10-06,3,AG-05,"SwiftCargo Handlers","Tier 3",50299.00,10059.80,280.00,0,0.00,60638.80
+CONT-1217,BOL-886773,Maersk,"Jebel Ali","Tin Can Island",2026-06-03,2026-06-11,8,AG-05,"SwiftCargo Handlers","Tier 3",27697.00,5539.40,450.00,1,120.00,33806.40
+CONT-1219,BOL-200303,"CMA CGM",Shanghai,"Tin Can Island",2026-09-20,2026-10-02,12,AG-05,"SwiftCargo Handlers","Tier 3",58084.00,11616.80,450.00,5,600.00,70750.80
+CONT-1221,BOL-891194,"CMA CGM",Antwerp,"Tin Can Island",2026-08-05,2026-08-14,9,AG-05,"SwiftCargo Handlers","Tier 3",57479.00,11495.80,450.00,2,240.00,69664.80
+CONT-1225,BOL-941591,"CMA CGM","Jebel Ali","Tin Can Island",2026-05-24,2026-06-08,15,AG-05,"SwiftCargo Handlers","Tier 3",28390.00,5678.00,280.00,8,600.00,34948.00
+CONT-1229,BOL-437591,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-01-16,2026-02-01,16,AG-05,"SwiftCargo Handlers","Tier 3",54977.00,10995.40,280.00,9,675.00,66927.40
+CONT-1230,BOL-485171,MSC,Hamburg,"Tin Can Island",2026-08-06,2026-08-23,17,AG-05,"SwiftCargo Handlers","Tier 3",36656.00,7331.20,280.00,10,750.00,45017.20
+CONT-1231,BOL-227381,Maersk,Shanghai,"Tin Can Island",2026-02-11,2026-02-14,3,AG-05,"SwiftCargo Handlers","Tier 3",12588.00,2517.60,450.00,0,0.00,15555.60
+CONT-1239,BOL-569692,Maersk,Shanghai,"Tin Can Island",2026-07-27,2026-08-02,6,AG-05,"SwiftCargo Handlers","Tier 3",37128.00,7425.60,450.00,0,0.00,45003.60
+CONT-1246,BOL-884226,MSC,"Jebel Ali","Tin Can Island",2026-04-22,2026-05-11,19,AG-05,"SwiftCargo Handlers","Tier 3",41582.00,8316.40,280.00,12,900.00,51078.40
+CONT-1248,BOL-434399,Maersk,"Jebel Ali","Tin Can Island",2026-03-20,2026-03-30,10,AG-05,"SwiftCargo Handlers","Tier 3",49504.00,9900.80,450.00,3,360.00,60214.80
+CONT-1259,BOL-120958,Maersk,"Jebel Ali","Tin Can Island",2026-03-01,2026-03-14,13,AG-05,"SwiftCargo Handlers","Tier 3",47631.00,9526.20,280.00,6,450.00,57887.20
+CONT-1268,BOL-966729,Maersk,Hamburg,"Tin Can Island",2026-03-07,2026-03-11,4,AG-05,"SwiftCargo Handlers","Tier 3",27035.00,5407.00,450.00,0,0.00,32892.00
+CONT-1272,BOL-803685,"CMA CGM",Antwerp,"Tin Can Island",2026-02-26,2026-03-14,16,AG-05,"SwiftCargo Handlers","Tier 3",36420.00,7284.00,280.00,9,675.00,44659.00
+CONT-1275,BOL-719380,Maersk,"Jebel Ali","Tin Can Island",2026-07-14,2026-07-22,8,AG-05,"SwiftCargo Handlers","Tier 3",29473.00,5894.60,450.00,1,120.00,35937.60
+CONT-1281,BOL-612799,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-21,2026-02-07,17,AG-05,"SwiftCargo Handlers","Tier 3",42019.00,8403.80,450.00,10,1200.00,52072.80
+CONT-1284,BOL-142578,"CMA CGM",Antwerp,"Tin Can Island",2026-03-14,2026-04-01,18,AG-05,"SwiftCargo Handlers","Tier 3",36490.00,7298.00,280.00,11,825.00,44893.00
+CONT-1286,BOL-174570,Maersk,"Jebel Ali","Tin Can Island",2026-06-06,2026-06-24,18,AG-05,"SwiftCargo Handlers","Tier 3",36835.00,7367.00,450.00,11,1320.00,45972.00
+CONT-1298,BOL-169747,MSC,"Jebel Ali","Tin Can Island",2026-04-03,2026-04-22,19,AG-05,"SwiftCargo Handlers","Tier 3",64058.00,12811.60,450.00,12,1440.00,78759.60
+CONT-1305,BOL-242114,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-08-16,2026-08-29,13,AG-05,"SwiftCargo Handlers","Tier 3",43116.00,8623.20,450.00,6,720.00,52909.20
+CONT-1306,BOL-748034,Maersk,"Jebel Ali","Tin Can Island",2026-10-05,2026-10-14,9,AG-05,"SwiftCargo Handlers","Tier 3",64129.00,12825.80,450.00,2,240.00,77644.80
+CONT-1315,BOL-728702,"CMA CGM",Hamburg,"Tin Can Island",2026-01-07,2026-01-25,18,AG-05,"SwiftCargo Handlers","Tier 3",55299.00,11059.80,450.00,11,1320.00,68128.80
+CONT-1317,BOL-374259,Maersk,Shanghai,"Tin Can Island",2026-08-02,2026-08-12,10,AG-05,"SwiftCargo Handlers","Tier 3",28872.00,5774.40,280.00,3,225.00,35151.40
+CONT-1327,BOL-247227,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-02-27,2026-03-09,10,AG-05,"SwiftCargo Handlers","Tier 3",18802.00,3760.40,280.00,3,225.00,23067.40
+CONT-1345,BOL-744471,MSC,Hamburg,"Tin Can Island",2026-03-14,2026-03-28,14,AG-05,"SwiftCargo Handlers","Tier 3",64654.00,12930.80,450.00,7,840.00,78874.80
+CONT-1346,BOL-445096,MSC,Antwerp,"Tin Can Island",2026-10-23,2026-11-01,9,AG-05,"SwiftCargo Handlers","Tier 3",45387.00,9077.40,280.00,2,150.00,54894.40
+CONT-1350,BOL-102406,"CMA CGM",Antwerp,"Tin Can Island",2026-06-12,2026-06-23,11,AG-05,"SwiftCargo Handlers","Tier 3",55872.00,11174.40,450.00,4,480.00,67976.40
+CONT-1356,BOL-410028,"CMA CGM","Jebel Ali","Tin Can Island",2026-10-28,2026-11-04,7,AG-05,"SwiftCargo Handlers","Tier 3",18995.00,3799.00,450.00,0,0.00,23244.00
+CONT-1357,BOL-262353,Maersk,Shanghai,"Tin Can Island",2026-05-03,2026-05-23,20,AG-05,"SwiftCargo Handlers","Tier 3",44568.00,8913.60,450.00,13,1560.00,55491.60
+CONT-1361,BOL-289359,Maersk,Antwerp,"Tin Can Island",2026-07-03,2026-07-16,13,AG-05,"SwiftCargo Handlers","Tier 3",35335.00,7067.00,280.00,6,450.00,43132.00
+CONT-1371,BOL-567847,"CMA CGM",Shanghai,"Tin Can Island",2026-09-02,2026-09-18,16,AG-05,"SwiftCargo Handlers","Tier 3",17533.00,3506.60,450.00,9,1080.00,22569.60
+CONT-1374,BOL-386106,"CMA CGM",Shanghai,"Tin Can Island",2026-06-19,2026-07-03,14,AG-05,"SwiftCargo Handlers","Tier 3",33168.00,6633.60,450.00,7,840.00,41091.60
+CONT-1379,BOL-253119,MSC,"Jebel Ali","Tin Can Island",2026-06-06,2026-06-14,8,AG-05,"SwiftCargo Handlers","Tier 3",30607.00,6121.40,450.00,1,120.00,37298.40
+CONT-1380,BOL-716177,MSC,"Jebel Ali","Tin Can Island",2026-05-21,2026-06-05,15,AG-05,"SwiftCargo Handlers","Tier 3",26820.00,5364.00,450.00,8,960.00,33594.00
+CONT-1386,BOL-947525,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-02-20,2026-03-11,19,AG-05,"SwiftCargo Handlers","Tier 3",15723.00,3144.60,450.00,12,1440.00,20757.60
+CONT-1401,BOL-106793,"CMA CGM",Shanghai,"Tin Can Island",2026-03-05,2026-03-25,20,AG-05,"SwiftCargo Handlers","Tier 3",23401.00,4680.20,280.00,13,975.00,29336.20
+CONT-1403,BOL-329538,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-05,2026-09-12,7,AG-05,"SwiftCargo Handlers","Tier 3",36293.00,7258.60,280.00,0,0.00,43831.60
+CONT-1404,BOL-723354,"CMA CGM",Antwerp,"Tin Can Island",2026-02-07,2026-02-22,15,AG-05,"SwiftCargo Handlers","Tier 3",26067.00,5213.40,280.00,8,600.00,32160.40
+CONT-1405,BOL-909230,MSC,Hamburg,"Tin Can Island",2026-09-12,2026-10-02,20,AG-05,"SwiftCargo Handlers","Tier 3",61375.00,12275.00,280.00,13,975.00,74905.00
+CONT-1407,BOL-379606,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-08-11,2026-08-26,15,AG-05,"SwiftCargo Handlers","Tier 3",39679.00,7935.80,280.00,8,600.00,48494.80
+CONT-1417,BOL-666014,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-26,2026-10-02,6,AG-05,"SwiftCargo Handlers","Tier 3",41941.00,8388.20,450.00,0,0.00,50779.20
+CONT-1419,BOL-725120,"CMA CGM",Antwerp,"Tin Can Island",2026-06-09,2026-06-15,6,AG-05,"SwiftCargo Handlers","Tier 3",16881.00,3376.20,450.00,0,0.00,20707.20
+CONT-1422,BOL-747132,Maersk,Shanghai,"Tin Can Island",2026-01-25,2026-02-03,9,AG-05,"SwiftCargo Handlers","Tier 3",52468.00,10493.60,450.00,2,240.00,63651.60
+CONT-1430,BOL-201089,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-09-16,2026-09-24,8,AG-05,"SwiftCargo Handlers","Tier 3",64901.00,12980.20,280.00,1,75.00,78236.20
+CONT-1434,BOL-850317,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-07,2026-06-18,11,AG-05,"SwiftCargo Handlers","Tier 3",26958.00,5391.60,450.00,4,480.00,33279.60
+CONT-1436,BOL-127553,"CMA CGM",Hamburg,"Tin Can Island",2026-10-11,2026-10-21,10,AG-05,"SwiftCargo Handlers","Tier 3",54324.00,10864.80,450.00,3,360.00,65998.80
+CONT-1440,BOL-906006,Maersk,Shanghai,"Tin Can Island",2026-09-15,2026-09-27,12,AG-05,"SwiftCargo Handlers","Tier 3",17722.00,3544.40,280.00,5,375.00,21921.40
+CONT-1442,BOL-600120,"CMA CGM",Hamburg,"Tin Can Island",2026-07-24,2026-08-01,8,AG-05,"SwiftCargo Handlers","Tier 3",46200.00,9240.00,280.00,1,75.00,55795.00
+CONT-1444,BOL-908342,Maersk,"Jebel Ali","Tin Can Island",2026-02-12,2026-02-19,7,AG-05,"SwiftCargo Handlers","Tier 3",16223.00,3244.60,280.00,0,0.00,19747.60
+CONT-1449,BOL-273159,"CMA CGM",Shanghai,"Tin Can Island",2026-10-14,2026-10-20,6,AG-05,"SwiftCargo Handlers","Tier 3",44940.00,8988.00,450.00,0,0.00,54378.00
+CONT-1453,BOL-501029,Maersk,Shanghai,"Tin Can Island",2026-07-01,2026-07-18,17,AG-05,"SwiftCargo Handlers","Tier 3",37056.00,7411.20,280.00,10,750.00,45497.20
+CONT-1460,BOL-238283,"CMA CGM","Jebel Ali","Tin Can Island",2026-04-15,2026-05-01,16,AG-05,"SwiftCargo Handlers","Tier 3",25955.00,5191.00,450.00,9,1080.00,32676.00
+CONT-1462,BOL-781899,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-22,2026-02-27,5,AG-05,"SwiftCargo Handlers","Tier 3",33489.00,6697.80,280.00,0,0.00,40466.80
+CONT-1465,BOL-864047,"CMA CGM",Shanghai,"Tin Can Island",2026-05-10,2026-05-13,3,AG-05,"SwiftCargo Handlers","Tier 3",57413.00,11482.60,450.00,0,0.00,69345.60
+CONT-1467,BOL-624675,Maersk,Shanghai,"Tin Can Island",2026-05-01,2026-05-11,10,AG-05,"SwiftCargo Handlers","Tier 3",53219.00,10643.80,450.00,3,360.00,64672.80
+CONT-1479,BOL-594472,Maersk,Antwerp,"Tin Can Island",2026-10-08,2026-10-25,17,AG-05,"SwiftCargo Handlers","Tier 3",20189.00,4037.80,450.00,10,1200.00,25876.80
+CONT-1480,BOL-521996,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-21,2026-10-05,14,AG-05,"SwiftCargo Handlers","Tier 3",44097.00,8819.40,450.00,7,840.00,54206.40
+CONT-1484,BOL-373842,MSC,Shanghai,"Tin Can Island",2026-01-18,2026-01-25,7,AG-05,"SwiftCargo Handlers","Tier 3",29934.00,5986.80,450.00,0,0.00,36370.80
+CONT-1488,BOL-263255,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-07,2026-06-15,8,AG-05,"SwiftCargo Handlers","Tier 3",58958.00,11791.60,280.00,1,75.00,71104.60
+CONT-1489,BOL-294723,MSC,Antwerp,"Tin Can Island",2026-08-17,2026-09-05,19,AG-05,"SwiftCargo Handlers","Tier 3",47371.00,9474.20,450.00,12,1440.00,58735.20
+CONT-1491,BOL-573863,Maersk,"Jebel Ali","Tin Can Island",2026-02-13,2026-03-01,16,AG-05,"SwiftCargo Handlers","Tier 3",62778.00,12555.60,450.00,9,1080.00,76863.60
+CONT-1500,BOL-319101,"CMA CGM","Jebel Ali","Tin Can Island",2026-07-11,2026-07-26,15,AG-05,"SwiftCargo Handlers","Tier 3",28145.00,5629.00,280.00,8,600.00,34654.00
+CONT-1508,BOL-607540,MSC,"Jebel Ali","Tin Can Island",2026-09-09,2026-09-13,4,AG-05,"SwiftCargo Handlers","Tier 3",23370.00,4674.00,450.00,0,0.00,28494.00
+CONT-1510,BOL-500679,Maersk,Shanghai,"Tin Can Island",2026-05-25,2026-06-14,20,AG-05,"SwiftCargo Handlers","Tier 3",50735.00,10147.00,280.00,13,975.00,62137.00
+CONT-1519,BOL-929010,Maersk,Shanghai,"Tin Can Island",2026-01-04,2026-01-08,4,AG-05,"SwiftCargo Handlers","Tier 3",64710.00,12942.00,280.00,0,0.00,77932.00
+CONT-1523,BOL-173716,MSC,Hamburg,"Tin Can Island",2026-06-02,2026-06-19,17,AG-05,"SwiftCargo Handlers","Tier 3",44728.00,8945.60,450.00,10,1200.00,55323.60
+CONT-1528,BOL-990106,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-06,2026-06-19,13,AG-05,"SwiftCargo Handlers","Tier 3",26856.00,5371.20,280.00,6,450.00,32957.20
+CONT-1529,BOL-268662,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-01,2026-03-17,16,AG-05,"SwiftCargo Handlers","Tier 3",24197.00,4839.40,450.00,9,1080.00,30566.40
+CONT-1538,BOL-241973,MSC,Antwerp,"Tin Can Island",2026-05-16,2026-06-04,19,AG-05,"SwiftCargo Handlers","Tier 3",52027.00,10405.40,450.00,12,1440.00,64322.40
+CONT-1548,BOL-386512,MSC,Shanghai,"Tin Can Island",2026-06-02,2026-06-12,10,AG-05,"SwiftCargo Handlers","Tier 3",18371.00,3674.20,450.00,3,360.00,22855.20
+CONT-1549,BOL-316869,MSC,"Jebel Ali","Tin Can Island",2026-10-06,2026-10-18,12,AG-05,"SwiftCargo Handlers","Tier 3",45082.00,9016.40,450.00,5,600.00,55148.40
+CONT-1551,BOL-871746,Maersk,"Jebel Ali","Tin Can Island",2026-06-07,2026-06-10,3,AG-05,"SwiftCargo Handlers","Tier 3",54142.00,10828.40,450.00,0,0.00,65420.40
+CONT-1552,BOL-869837,MSC,Hamburg,"Tin Can Island",2026-06-02,2026-06-15,13,AG-05,"SwiftCargo Handlers","Tier 3",58497.00,11699.40,280.00,6,450.00,70926.40
+CONT-1568,BOL-939930,Maersk,"Jebel Ali","Tin Can Island",2026-06-23,2026-07-03,10,AG-05,"SwiftCargo Handlers","Tier 3",47347.00,9469.40,280.00,3,225.00,57321.40
+CONT-1569,BOL-908475,Maersk,"Jebel Ali","Tin Can Island",2026-01-04,2026-01-11,7,AG-05,"SwiftCargo Handlers","Tier 3",12315.00,2463.00,450.00,0,0.00,15228.00
+CONT-1573,BOL-625055,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-09-24,2026-10-02,8,AG-05,"SwiftCargo Handlers","Tier 3",32742.00,6548.40,450.00,1,120.00,39860.40
+CONT-1574,BOL-755063,MSC,Antwerp,"Tin Can Island",2026-07-14,2026-07-26,12,AG-05,"SwiftCargo Handlers","Tier 3",40176.00,8035.20,450.00,5,600.00,49261.20
+CONT-1578,BOL-924481,MSC,Antwerp,"Tin Can Island",2026-07-08,2026-07-23,15,AG-05,"SwiftCargo Handlers","Tier 3",35517.00,7103.40,450.00,8,960.00,44030.40
+CONT-1588,BOL-273813,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-08-23,2026-09-01,9,AG-05,"SwiftCargo Handlers","Tier 3",34636.00,6927.20,450.00,2,240.00,42253.20
+CONT-1601,BOL-151116,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-06-12,2026-06-29,17,AG-05,"SwiftCargo Handlers","Tier 3",30023.00,6004.60,280.00,10,750.00,37057.60
+CONT-1608,BOL-596526,Maersk,Hamburg,"Tin Can Island",2026-03-05,2026-03-21,16,AG-05,"SwiftCargo Handlers","Tier 3",21771.00,4354.20,280.00,9,675.00,27080.20
+CONT-1616,BOL-856158,Maersk,"Jebel Ali","Tin Can Island",2026-09-12,2026-09-24,12,AG-05,"SwiftCargo Handlers","Tier 3",23029.00,4605.80,450.00,5,600.00,28684.80
+CONT-1621,BOL-566327,"CMA CGM",Antwerp,"Tin Can Island",2026-06-27,2026-07-15,18,AG-05,"SwiftCargo Handlers","Tier 3",55786.00,11157.20,280.00,11,825.00,68048.20
+CONT-1624,BOL-920632,Maersk,Hamburg,"Tin Can Island",2026-10-01,2026-10-06,5,AG-05,"SwiftCargo Handlers","Tier 3",44396.00,8879.20,280.00,0,0.00,53555.20
+CONT-1628,BOL-937820,"CMA CGM","Jebel Ali","Tin Can Island",2026-01-16,2026-01-19,3,AG-05,"SwiftCargo Handlers","Tier 3",45575.00,9115.00,450.00,0,0.00,55140.00
+CONT-1637,BOL-722817,Maersk,"Jebel Ali","Tin Can Island",2026-04-24,2026-05-08,14,AG-05,"SwiftCargo Handlers","Tier 3",22528.00,4505.60,280.00,7,525.00,27838.60
+CONT-1643,BOL-132941,MSC,"Jebel Ali","Tin Can Island",2026-01-07,2026-01-20,13,AG-05,"SwiftCargo Handlers","Tier 3",58826.00,11765.20,450.00,6,720.00,71761.20
+CONT-1654,BOL-390182,Maersk,Hamburg,"Tin Can Island",2026-03-16,2026-03-30,14,AG-05,"SwiftCargo Handlers","Tier 3",45829.00,9165.80,450.00,7,840.00,56284.80
+CONT-1660,BOL-549901,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-04-05,2026-04-18,13,AG-05,"SwiftCargo Handlers","Tier 3",40624.00,8124.80,280.00,6,450.00,49478.80
+CONT-1661,BOL-273621,"CMA CGM","Jebel Ali","Tin Can Island",2026-04-09,2026-04-15,6,AG-05,"SwiftCargo Handlers","Tier 3",45874.00,9174.80,450.00,0,0.00,55498.80
+CONT-1670,BOL-591484,Maersk,Antwerp,"Tin Can Island",2026-05-17,2026-05-23,6,AG-05,"SwiftCargo Handlers","Tier 3",25038.00,5007.60,450.00,0,0.00,30495.60
+CONT-1671,BOL-911824,"CMA CGM","Jebel Ali","Tin Can Island",2026-06-03,2026-06-06,3,AG-05,"SwiftCargo Handlers","Tier 3",34411.00,6882.20,450.00,0,0.00,41743.20
+CONT-1677,BOL-193775,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-10-24,2026-10-27,3,AG-05,"SwiftCargo Handlers","Tier 3",43307.00,8661.40,280.00,0,0.00,52248.40
+CONT-1681,BOL-578806,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-01-02,2026-01-19,17,AG-05,"SwiftCargo Handlers","Tier 3",58406.00,11681.20,450.00,10,1200.00,71737.20
+CONT-1686,BOL-665595,Maersk,Hamburg,"Tin Can Island",2026-06-28,2026-07-03,5,AG-05,"SwiftCargo Handlers","Tier 3",40533.00,8106.60,450.00,0,0.00,49089.60
+CONT-1695,BOL-387845,"CMA CGM",Shanghai,"Tin Can Island",2026-02-15,2026-03-02,15,AG-05,"SwiftCargo Handlers","Tier 3",30840.00,6168.00,280.00,8,600.00,37888.00
+CONT-1712,BOL-353736,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-05-14,2026-06-03,20,AG-05,"SwiftCargo Handlers","Tier 3",15785.00,3157.00,450.00,13,1560.00,20952.00
+CONT-1720,BOL-259725,"CMA CGM",Shanghai,"Tin Can Island",2026-08-01,2026-08-12,11,AG-05,"SwiftCargo Handlers","Tier 3",59121.00,11824.20,450.00,4,480.00,71875.20
+CONT-1726,BOL-605227,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-12,2026-03-24,12,AG-05,"SwiftCargo Handlers","Tier 3",26113.00,5222.60,280.00,5,375.00,31990.60
+CONT-1733,BOL-206343,MSC,Antwerp,"Tin Can Island",2026-07-24,2026-08-07,14,AG-05,"SwiftCargo Handlers","Tier 3",18000.00,3600.00,450.00,7,840.00,22890.00
+CONT-1736,BOL-511212,Maersk,Shanghai,"Tin Can Island",2026-01-11,2026-01-18,7,AG-05,"SwiftCargo Handlers","Tier 3",63770.00,12754.00,280.00,0,0.00,76804.00
+CONT-1739,BOL-219701,Maersk,Shanghai,"Tin Can Island",2026-09-21,2026-10-09,18,AG-05,"SwiftCargo Handlers","Tier 3",36916.00,7383.20,280.00,11,825.00,45404.20
+CONT-1744,BOL-763316,MSC,"Jebel Ali","Tin Can Island",2026-06-25,2026-07-15,20,AG-05,"SwiftCargo Handlers","Tier 3",33338.00,6667.60,280.00,13,975.00,41260.60
+CONT-1749,BOL-810356,Maersk,Antwerp,"Tin Can Island",2026-01-16,2026-01-20,4,AG-05,"SwiftCargo Handlers","Tier 3",42241.00,8448.20,280.00,0,0.00,50969.20
+CONT-1754,BOL-883669,MSC,"Jebel Ali","Tin Can Island",2026-10-21,2026-11-02,12,AG-05,"SwiftCargo Handlers","Tier 3",46787.00,9357.40,450.00,5,600.00,57194.40
+CONT-1767,BOL-894319,MSC,Shanghai,"Tin Can Island",2026-05-19,2026-05-29,10,AG-05,"SwiftCargo Handlers","Tier 3",22188.00,4437.60,280.00,3,225.00,27130.60
+CONT-1776,BOL-814971,MSC,Hamburg,"Tin Can Island",2026-01-23,2026-01-26,3,AG-05,"SwiftCargo Handlers","Tier 3",12840.00,2568.00,450.00,0,0.00,15858.00
+CONT-1781,BOL-745724,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-04-05,2026-04-25,20,AG-05,"SwiftCargo Handlers","Tier 3",18620.00,3724.00,450.00,13,1560.00,24354.00
+CONT-1783,BOL-368821,"CMA CGM",Hamburg,"Tin Can Island",2026-07-14,2026-07-31,17,AG-05,"SwiftCargo Handlers","Tier 3",50949.00,10189.80,450.00,10,1200.00,62788.80
+CONT-1784,BOL-557521,Maersk,Shanghai,"Tin Can Island",2026-07-06,2026-07-21,15,AG-05,"SwiftCargo Handlers","Tier 3",32416.00,6483.20,450.00,8,960.00,40309.20
+CONT-1787,BOL-826261,MSC,Hamburg,"Tin Can Island",2026-02-27,2026-03-14,15,AG-05,"SwiftCargo Handlers","Tier 3",35581.00,7116.20,450.00,8,960.00,44107.20
+CONT-1789,BOL-969182,MSC,Hamburg,"Tin Can Island",2026-08-18,2026-08-27,9,AG-05,"SwiftCargo Handlers","Tier 3",28129.00,5625.80,450.00,2,240.00,34444.80
+CONT-1795,BOL-602962,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-04-24,2026-05-02,8,AG-05,"SwiftCargo Handlers","Tier 3",28090.00,5618.00,450.00,1,120.00,34278.00
+CONT-1796,BOL-171014,MSC,"Jebel Ali","Tin Can Island",2026-01-17,2026-01-21,4,AG-05,"SwiftCargo Handlers","Tier 3",63714.00,12742.80,450.00,0,0.00,76906.80
+CONT-1802,BOL-136767,Maersk,Shanghai,"Tin Can Island",2026-05-05,2026-05-18,13,AG-05,"SwiftCargo Handlers","Tier 3",36175.00,7235.00,450.00,6,720.00,44580.00
+CONT-1803,BOL-442588,"CMA CGM",Antwerp,"Tin Can Island",2026-07-06,2026-07-09,3,AG-05,"SwiftCargo Handlers","Tier 3",55817.00,11163.40,280.00,0,0.00,67260.40
+CONT-1804,BOL-724835,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-10-20,2026-10-26,6,AG-05,"SwiftCargo Handlers","Tier 3",55759.00,11151.80,280.00,0,0.00,67190.80
+CONT-1807,BOL-228554,Maersk,Shanghai,"Tin Can Island",2026-01-02,2026-01-08,6,AG-05,"SwiftCargo Handlers","Tier 3",55002.00,11000.40,450.00,0,0.00,66452.40
+CONT-1809,BOL-565257,MSC,Shanghai,"Tin Can Island",2026-06-19,2026-06-26,7,AG-05,"SwiftCargo Handlers","Tier 3",44783.00,8956.60,280.00,0,0.00,54019.60
+CONT-1811,BOL-173803,MSC,Hamburg,"Tin Can Island",2026-04-11,2026-04-20,9,AG-05,"SwiftCargo Handlers","Tier 3",60362.00,12072.40,450.00,2,240.00,73124.40
+CONT-1816,BOL-448126,"CMA CGM",Hamburg,"Tin Can Island",2026-03-04,2026-03-19,15,AG-05,"SwiftCargo Handlers","Tier 3",34012.00,6802.40,450.00,8,960.00,42224.40
+CONT-1817,BOL-834360,MSC,Shanghai,"Tin Can Island",2026-07-06,2026-07-09,3,AG-05,"SwiftCargo Handlers","Tier 3",46606.00,9321.20,450.00,0,0.00,56377.20
+CONT-1819,BOL-412278,"CMA CGM",Shanghai,"Tin Can Island",2026-01-20,2026-02-06,17,AG-05,"SwiftCargo Handlers","Tier 3",47945.00,9589.00,450.00,10,1200.00,59184.00
+CONT-1828,BOL-162761,Hapag-Lloyd,Antwerp,"Tin Can Island",2026-08-08,2026-08-17,9,AG-05,"SwiftCargo Handlers","Tier 3",36792.00,7358.40,450.00,2,240.00,44840.40
+CONT-1840,BOL-880390,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-03-23,2026-04-02,10,AG-05,"SwiftCargo Handlers","Tier 3",24789.00,4957.80,450.00,3,360.00,30556.80
+CONT-1858,BOL-488516,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-05-13,2026-05-18,5,AG-05,"SwiftCargo Handlers","Tier 3",33856.00,6771.20,450.00,0,0.00,41077.20
+CONT-1861,BOL-490061,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-06-15,2026-07-04,19,AG-05,"SwiftCargo Handlers","Tier 3",59683.00,11936.60,280.00,12,900.00,72799.60
+CONT-1862,BOL-373604,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-17,2026-08-03,17,AG-05,"SwiftCargo Handlers","Tier 3",51372.00,10274.40,280.00,10,750.00,62676.40
+CONT-1863,BOL-354293,"CMA CGM",Shanghai,"Tin Can Island",2026-08-08,2026-08-15,7,AG-05,"SwiftCargo Handlers","Tier 3",61277.00,12255.40,450.00,0,0.00,73982.40
+CONT-1866,BOL-943524,MSC,Shanghai,"Tin Can Island",2026-03-09,2026-03-23,14,AG-05,"SwiftCargo Handlers","Tier 3",48176.00,9635.20,450.00,7,840.00,59101.20
+CONT-1867,BOL-497629,"CMA CGM",Antwerp,"Tin Can Island",2026-01-19,2026-01-27,8,AG-05,"SwiftCargo Handlers","Tier 3",14786.00,2957.20,450.00,1,120.00,18313.20
+CONT-1868,BOL-363081,"CMA CGM",Shanghai,"Tin Can Island",2026-02-03,2026-02-12,9,AG-05,"SwiftCargo Handlers","Tier 3",12658.00,2531.60,450.00,2,240.00,15879.60
+CONT-1870,BOL-219304,"CMA CGM",Antwerp,"Tin Can Island",2026-10-16,2026-10-27,11,AG-05,"SwiftCargo Handlers","Tier 3",58577.00,11715.40,450.00,4,480.00,71222.40
+CONT-1873,BOL-795369,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-03-22,2026-04-08,17,AG-05,"SwiftCargo Handlers","Tier 3",56161.00,11232.20,280.00,10,750.00,68423.20
+CONT-1877,BOL-607354,MSC,"Jebel Ali","Tin Can Island",2026-08-11,2026-08-17,6,AG-05,"SwiftCargo Handlers","Tier 3",18788.00,3757.60,450.00,0,0.00,22995.60
+CONT-1881,BOL-987542,Maersk,"Jebel Ali","Tin Can Island",2026-09-14,2026-09-21,7,AG-05,"SwiftCargo Handlers","Tier 3",51921.00,10384.20,280.00,0,0.00,62585.20
+CONT-1888,BOL-245552,MSC,Shanghai,"Tin Can Island",2026-05-09,2026-05-25,16,AG-05,"SwiftCargo Handlers","Tier 3",56226.00,11245.20,280.00,9,675.00,68426.20
+CONT-1889,BOL-999309,MSC,"Jebel Ali","Tin Can Island",2026-09-23,2026-09-28,5,AG-05,"SwiftCargo Handlers","Tier 3",51839.00,10367.80,280.00,0,0.00,62486.80
+CONT-1891,BOL-196291,MSC,Shanghai,"Tin Can Island",2026-05-06,2026-05-23,17,AG-05,"SwiftCargo Handlers","Tier 3",43427.00,8685.40,450.00,10,1200.00,53762.40
+CONT-1894,BOL-344158,MSC,Antwerp,"Tin Can Island",2026-09-07,2026-09-27,20,AG-05,"SwiftCargo Handlers","Tier 3",18164.00,3632.80,450.00,13,1560.00,23806.80
+CONT-1917,BOL-485181,"CMA CGM",Shanghai,"Tin Can Island",2026-06-05,2026-06-20,15,AG-05,"SwiftCargo Handlers","Tier 3",31442.00,6288.40,450.00,8,960.00,39140.40
+CONT-1923,BOL-947370,"CMA CGM",Shanghai,"Tin Can Island",2026-04-22,2026-04-25,3,AG-05,"SwiftCargo Handlers","Tier 3",14665.00,2933.00,450.00,0,0.00,18048.00
+CONT-1924,BOL-695798,MSC,Antwerp,"Tin Can Island",2026-09-09,2026-09-16,7,AG-05,"SwiftCargo Handlers","Tier 3",54304.00,10860.80,450.00,0,0.00,65614.80
+CONT-1929,BOL-763560,"CMA CGM","Jebel Ali","Tin Can Island",2026-03-28,2026-04-10,13,AG-05,"SwiftCargo Handlers","Tier 3",50106.00,10021.20,450.00,6,720.00,61297.20
+CONT-1941,BOL-646452,Hapag-Lloyd,"Jebel Ali","Tin Can Island",2026-06-13,2026-06-19,6,AG-05,"SwiftCargo Handlers","Tier 3",22682.00,4536.40,450.00,0,0.00,27668.40
+CONT-1949,BOL-300810,"CMA CGM",Antwerp,"Tin Can Island",2026-04-16,2026-04-19,3,AG-05,"SwiftCargo Handlers","Tier 3",18266.00,3653.20,450.00,0,0.00,22369.20
+CONT-1951,BOL-111054,MSC,Antwerp,"Tin Can Island",2026-05-13,2026-06-02,20,AG-05,"SwiftCargo Handlers","Tier 3",58150.00,11630.00,450.00,13,1560.00,71790.00
+CONT-1957,BOL-300620,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-07-28,2026-08-03,6,AG-05,"SwiftCargo Handlers","Tier 3",28955.00,5791.00,450.00,0,0.00,35196.00
+CONT-1965,BOL-159031,"CMA CGM",Shanghai,"Tin Can Island",2026-04-08,2026-04-23,15,AG-05,"SwiftCargo Handlers","Tier 3",35676.00,7135.20,450.00,8,960.00,44221.20
+CONT-1970,BOL-288176,Maersk,Antwerp,"Tin Can Island",2026-05-02,2026-05-22,20,AG-05,"SwiftCargo Handlers","Tier 3",27321.00,5464.20,450.00,13,1560.00,34795.20
+CONT-1974,BOL-356288,Hapag-Lloyd,Hamburg,"Tin Can Island",2026-09-07,2026-09-26,19,AG-05,"SwiftCargo Handlers","Tier 3",55047.00,11009.40,450.00,12,1440.00,67946.40
+CONT-1978,BOL-219829,MSC,"Jebel Ali","Tin Can Island",2026-02-25,2026-02-28,3,AG-05,"SwiftCargo Handlers","Tier 3",37813.00,7562.60,280.00,0,0.00,45655.60
+CONT-1986,BOL-328181,"CMA CGM","Jebel Ali","Tin Can Island",2026-02-25,2026-02-28,3,AG-05,"SwiftCargo Handlers","Tier 3",53881.00,10776.20,280.00,0,0.00,64937.20
+CONT-1990,BOL-246902,Hapag-Lloyd,Shanghai,"Tin Can Island",2026-10-11,2026-10-15,4,AG-05,"SwiftCargo Handlers","Tier 3",63543.00,12708.60,450.00,0,0.00,76701.60
+CONT-1991,BOL-235791,MSC,"Jebel Ali","Tin Can Island",2026-05-10,2026-05-24,14,AG-05,"SwiftCargo Handlers","Tier 3",63478.00,12695.60,450.00,7,840.00,77463.60
+CONT-1994,BOL-109517,MSC,Hamburg,"Tin Can Island",2026-06-28,2026-07-09,11,AG-05,"SwiftCargo Handlers","Tier 3",50931.00,10186.20,450.00,4,480.00,62047.20
+CONT-1996,BOL-552324,MSC,Shanghai,"Tin Can Island",2026-03-24,2026-03-28,4,AG-05,"SwiftCargo Handlers","Tier 3",16345.00,3269.00,280.00,0,0.00,19894.00
